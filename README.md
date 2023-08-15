@@ -1,1 +1,1 @@
-# Direction_information_fMRI
+# Directed_information_fMRI
