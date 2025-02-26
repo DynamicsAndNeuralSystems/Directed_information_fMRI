@@ -28,6 +28,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
+<<<<<<< HEAD
      inkscape:zoom="0.61607333"
      inkscape:cx="177.73858"
      inkscape:cy="430.95519"
@@ -35,6 +36,15 @@
      inkscape:window-height="807"
      inkscape:window-x="0"
      inkscape:window-y="37"
+=======
+     inkscape:zoom="0.5946522"
+     inkscape:cx="744.97328"
+     inkscape:cy="396.87064"
+     inkscape:window-width="1772"
+     inkscape:window-height="934"
+     inkscape:window-x="148"
+     inkscape:window-y="33"
+>>>>>>> 7c2526da90e8e3dda6939d796b7bbe8ee2184a36
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1">
     <inkscape:page
@@ -42,10 +52,14 @@
        y="0"
        width="179.79662"
        height="186.88347"
+<<<<<<< HEAD
        id="page77708"
        inkscape:export-filename="Region_wise_mean_DI.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
+=======
+       id="page77708" />
+>>>>>>> 7c2526da90e8e3dda6939d796b7bbe8ee2184a36
     <inkscape:page
        x="191.28813"
        y="1.8877116"
@@ -9891,6 +9905,7 @@
        xml:space="preserve"><tspan
          x="31.720585"
          y="178.87"
+<<<<<<< HEAD
          id="tspan13031">Mean DI<tspan
    y="178.87"
    id="tspan13033"> </tspan></tspan><tspan
@@ -9905,6 +9920,21 @@
     <g
        id="g10848"
        transform="translate(0,4.72414)">
+=======
+         id="tspan268599">Mean DI<tspan
+   y="178.87"
+   id="tspan268601"> </tspan></tspan><tspan
+         x="31.720585"
+         y="187.66999"
+         id="tspan268603">across<tspan
+   y="187.66999"
+   id="tspan268605"> </tspan></tspan><tspan
+         x="31.720585"
+         y="196.47"
+         id="tspan268607">participants</tspan></text>
+    <g
+       id="g10848">
+>>>>>>> 7c2526da90e8e3dda6939d796b7bbe8ee2184a36
       <text
          x="88.150002"
          y="188.48"
@@ -10012,6 +10042,27 @@
       </g>
     </g>
     <text
+<<<<<<< HEAD
+=======
+       x="235.59"
+       y="493.92999"
+       text-anchor="middle"
+       style="font-size:14px;font-family:Arial;white-space:pre;inline-size:32.1725;display:inline"
+       textLength="52.900002"
+       lengthAdjust="spacingAndGlyphs"
+       id="text2734"
+       transform="matrix(1.9163213,0,0,0.35277777,-365.12116,2.1989952)"
+       xml:space="preserve"><tspan
+         x="235.59"
+         y="493.92999"
+         id="tspan268609">DI between left and right<tspan
+   y="493.92999"
+   id="tspan268611"> </tspan></tspan><tspan
+         x="235.59"
+         y="511.42999"
+         id="tspan268613">hemispheres (mean)</tspan></text>
+    <text
+>>>>>>> 7c2526da90e8e3dda6939d796b7bbe8ee2184a36
        xml:space="preserve"
        style="font-weight:bold;font-size:10.7446px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.229062;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        x="9.5469198"
@@ -12537,12 +12588,21 @@
          xml:space="preserve"><tspan
            x="415.41"
            y="555.59998"
+<<<<<<< HEAD
            id="tspan13041">rostral middle<tspan
    y="555.59998"
    id="tspan13043"> </tspan></tspan><tspan
            x="415.41"
            y="565.19993"
            id="tspan13045">frontal</tspan></text>
+=======
+           id="tspan268615">rostral middle<tspan
+   y="555.59998"
+   id="tspan268617"> </tspan></tspan><tspan
+           x="415.41"
+           y="565.19993"
+           id="tspan268619">frontal</tspan></text>
+>>>>>>> 7c2526da90e8e3dda6939d796b7bbe8ee2184a36
     </g>
     <g
        clip-path="url(#cpMjcuMDl8MTI5LjA3fDQ1Mi45N3w0NzEuMjE=-1)"
@@ -12972,12 +13032,21 @@
          xml:space="preserve"><tspan
            x="78.080002"
            y="109.6"
+<<<<<<< HEAD
            id="tspan13047">rostral anterior<tspan
    y="109.6"
    id="tspan13049"> </tspan></tspan><tspan
            x="78.080002"
            y="119.2"
            id="tspan13051">cingulate</tspan></text>
+=======
+           id="tspan268621">rostral anterior<tspan
+   y="109.6"
+   id="tspan268623"> </tspan></tspan><tspan
+           x="78.080002"
+           y="119.2"
+           id="tspan268625">cingulate</tspan></text>
+>>>>>>> 7c2526da90e8e3dda6939d796b7bbe8ee2184a36
     </g>
     <g
        clip-path="url(#cpMTM5LjUzfDI0MS41MXw5Ni4xN3wxMTQuNDE=-0)"
@@ -13023,12 +13092,21 @@
          xml:space="preserve"><tspan
            x="302.97"
            y="109.6"
+<<<<<<< HEAD
            id="tspan13053">caudal anterior<tspan
    y="109.6"
    id="tspan13055"> </tspan></tspan><tspan
            x="302.97"
            y="119.2"
            id="tspan13057">cingulate</tspan></text>
+=======
+           id="tspan268627">caudal anterior<tspan
+   y="109.6"
+   id="tspan268629"> </tspan></tspan><tspan
+           x="302.97"
+           y="119.2"
+           id="tspan268631">cingulate</tspan></text>
+>>>>>>> 7c2526da90e8e3dda6939d796b7bbe8ee2184a36
     </g>
     <g
        clip-path="url(#cpMzY0LjQyfDQ2Ni40MHw5Ni4xN3wxMTQuNDE=-3)"
@@ -13176,12 +13254,21 @@
          xml:space="preserve"><tspan
            x="527.84998"
            y="20.4"
+<<<<<<< HEAD
            id="tspan13059">caudal middle<tspan
    y="20.4"
    id="tspan13061"> </tspan></tspan><tspan
            x="527.84998"
            y="29.999999"
            id="tspan13063">frontal</tspan></text>
+=======
+           id="tspan268633">caudal middle<tspan
+   y="20.4"
+   id="tspan268635"> </tspan></tspan><tspan
+           x="527.84998"
+           y="29.999999"
+           id="tspan268637">frontal</tspan></text>
+>>>>>>> 7c2526da90e8e3dda6939d796b7bbe8ee2184a36
     </g>
     <polyline
        points="27.09,606.66 129.07,606.66 "
@@ -16667,6 +16754,7 @@
        xml:space="preserve"><tspan
          x="235.59"
          y="493.92999"
+<<<<<<< HEAD
          id="tspan13067"><tspan
    style="text-anchor:start"
    id="tspan13065">Mean R→L</tspan><tspan
@@ -16677,6 +16765,18 @@
          id="tspan13073"><tspan
            style="text-anchor:start"
            id="tspan13071">minus L→R DI</tspan></tspan></text>
+=======
+         id="tspan268641"><tspan
+           style="text-anchor:start"
+           id="tspan268639">Mean R→L</tspan><tspan
+           y="493.92999"
+           id="tspan268643"> </tspan></tspan><tspan
+         x="235.59"
+         y="511.42999"
+         id="tspan268647"><tspan
+           style="text-anchor:start"
+           id="tspan268645">minus L→R DI</tspan></tspan></text>
+>>>>>>> 7c2526da90e8e3dda6939d796b7bbe8ee2184a36
     <text
        transform="matrix(0,-0.26688904,0.26688904,0,363.19284,66.761339)"
        text-anchor="middle"
@@ -17267,6 +17367,7 @@
          style="fill:none;stroke:#ffffff;stroke-width:0.134056;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
          id="line180946" />
     </g>
+<<<<<<< HEAD
     <text
        xml:space="preserve"
        style="font-weight:bold;font-stretch:condensed;font-size:5.64444px;line-height:1;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold Condensed';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;white-space:pre;inline-size:82.3458;display:inline;fill:#000000;stroke-width:0.577001;stroke-linecap:square;stop-color:#000000"
@@ -17286,5 +17387,7 @@
          id="tspan13083"><tspan
            style="font-weight:normal;font-stretch:normal;-inkscape-font-specification:'Helvetica Neue';stroke-width:0.577"
            id="tspan13081">hemispheres (mean)</tspan></tspan></text>
+=======
+>>>>>>> 7c2526da90e8e3dda6939d796b7bbe8ee2184a36
   </g>
 </svg>
