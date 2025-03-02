@@ -1,0 +1,41 @@
+﻿Category,Description,Filename
+Morphometry,Cortical thickness,hcps1200-thickness-fsLR-32k
+Microstructure,T1w vs. T2w MRI signal,hcps1200-myelinmap-fsLR-32k
+Transcriptome,PC1 of Allen Human Brain Atlas,abagen-genepc1-fsaverage-10k
+Functional hierarchy,Margulies PG1,margulies2016-fcgradient01-fsLR-32k
+Functional hierarchy,Sensory-association mean rank axis,sydnor2021-SAaxis-fsLR-32k
+Neurotransmitter receptors and transporters,"Serotonin, 5-HT1a",beliveau2017-cumi101-fsaverage-164k
+Neurotransmitter receptors and transporters,"Serotonin, 5-HT1b",beliveau2017-az10419369-fsaverage-164k
+Neurotransmitter receptors and transporters,"Serotonin, 5-HT2a",beliveau2017-cimbi36-fsaverage-164k
+Neurotransmitter receptors and transporters,"Serotonin, 5-HT4",beliveau2017-sb207145-fsaverage-164k
+Neurotransmitter receptors and transporters,"Serotonin, 5-HT6",radnakrishnan2018-gsk215083-MNI152-1mm
+Neurotransmitter receptors and transporters,"Serotonin, 5-HTT",beliveau2017-dasb-fsaverage-164k
+Neurotransmitter receptors and transporters,"Histamine, H3",gallezot2017-gsk189254-MNI152-1mm
+Neurotransmitter receptors and transporters,"Dopamine, D1",kaller2017-sch23390-MNI152-3mm
+Neurotransmitter receptors and transporters,"Dopamine, D2",sandiego2015-flb457-MNI152-1mm
+Neurotransmitter receptors and transporters,"Dopamine, DAT",sasaki2012-fepe2i-MNI152-1mm
+Neurotransmitter receptors and transporters,"Norephinephrine, NET",ding2010-mrb-MNI152-1mm
+Neurotransmitter receptors and transporters,"Acetylcholine, A4B2",hillmer2016-flubatine-MNI152-1mm
+Neurotransmitter receptors and transporters,"Acetylcholine, M1",naganawa2020-lsn3172176-MNI152-1mm
+Neurotransmitter receptors and transporters,"Acetylcholine, VAChT",spreng-feobv-MNI152-1mm
+Neurotransmitter receptors and transporters,"Cannabinoid, CB1",laurikainen2018-fmpepd2-MNI152-1mm
+Neurotransmitter receptors and transporters,"Opioid, MOR",turtonen2020-carfentanil-MNI152-1mm
+Neurotransmitter receptors and transporters,"Opioid, KOR",vijay2018-ly2795050-MNI152-2mm
+Neurotransmitter receptors and transporters,"Glutamate, mGluR5",dubois2015-abp688-MNI152-1mm
+Neurotransmitter receptors and transporters,"Glutamate, NMDA",galovic2021-ge179-MNI152-1mm
+Neurotransmitter receptors and transporters,"GABA, GABAa",lukow2022-ro154513-MNI152-2mm
+Neurotransmitter receptors and transporters,"GABA, GABAbz",norgaard2021-flumazenil-fsaverage-164k
+Metabolism,Cerebral blood flow,raichle-cbf-fsLR-164k
+Metabolism,Cerebral blood volume,raichle-cbv-fsLR-164k
+Metabolism,Oxygen metabolism,raichle-cmr02-fsLR-164k
+Metabolism,Glucose metabolism,raichle-cmrglc-fsLR-164k
+Oscillatory neural dynamics,"MEG, alpha",hcps1200-megalpha-fsLR-4k
+Oscillatory neural dynamics,"MEG, beta",hcps1200-megbeta-fsLR-4k
+Oscillatory neural dynamics,"MEG, low gamma",hcps1200-meggamma1-fsLR-4k
+Oscillatory neural dynamics,"MEG, high gamma",hcps1200-meggamma2-fsLR-4k
+Oscillatory neural dynamics,"MEG, delta",hcps1200-megdelta-fsLR-4k
+Oscillatory neural dynamics,"MEG, theta",hcps1200-megtheta-fsLR-4k
+Oscillatory neural dynamics,"MEG, intrinsic timescale",hcps1200-megtimescale-fsLR-4k
+Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,finnema2016-ucbj-MNI152-1mm
+Development,Evolutionary and developmental expansion,xu2020-evoexp-fsLR-32k
+Cognition,Neurosynth PC1,neurosynth-cogpc1-MNI152-2mm
