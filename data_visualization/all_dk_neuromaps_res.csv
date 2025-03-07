@@ -1,72 +1,72 @@
 Category,Description,Region_Index,Value,Brain_Region,ggseg,Hemisphere,Base_Region
-Morphometry,Cortical thickness,0,2.7219377,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
-Morphometry,Cortical thickness,1,2.1520934,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
-Morphometry,Cortical thickness,2,2.7215285,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
-Morphometry,Cortical thickness,3,2.0792851,ctx-lh-cuneus,ctx-lh-cuneus,Left,cuneus
-Morphometry,Cortical thickness,4,3.2658489,ctx-lh-entorhinal,ctx-lh-entorhinal,Left,entorhinal
-Morphometry,Cortical thickness,5,2.8774056,ctx-lh-fusiform,ctx-lh-fusiform,Left,fusiform
-Morphometry,Cortical thickness,6,2.5552976,ctx-lh-inferiorparietal,ctx-lh-inferiorparietal,Left,inferiorparietal
-Morphometry,Cortical thickness,7,2.9222364,ctx-lh-inferiortemporal,ctx-lh-inferiortemporal,Left,inferiortemporal
-Morphometry,Cortical thickness,8,2.2017713,ctx-lh-isthmuscingulate,ctx-lh-isthmuscingulate,Left,isthmuscingulate
-Morphometry,Cortical thickness,9,2.2860248,ctx-lh-lateraloccipital,ctx-lh-lateraloccipital,Left,lateraloccipital
-Morphometry,Cortical thickness,10,2.8428686,ctx-lh-lateralorbitofrontal,ctx-lh-lateralorbitofrontal,Left,lateralorbitofrontal
-Morphometry,Cortical thickness,11,2.1717427,ctx-lh-lingual,ctx-lh-lingual,Left,lingual
-Morphometry,Cortical thickness,12,2.6217284,ctx-lh-medialorbitofrontal,ctx-lh-medialorbitofrontal,Left,medialorbitofrontal
-Morphometry,Cortical thickness,13,2.919577,ctx-lh-middletemporal,ctx-lh-middletemporal,Left,middletemporal
-Morphometry,Cortical thickness,14,2.6232715,ctx-lh-parahippocampal,ctx-lh-parahippocampal,Left,parahippocampal
-Morphometry,Cortical thickness,15,2.5139897,ctx-lh-paracentral,ctx-lh-paracentral,Left,paracentral
-Morphometry,Cortical thickness,16,2.7760575,ctx-lh-parsopercularis,ctx-lh-parsopercularis,Left,parsopercularis
-Morphometry,Cortical thickness,17,2.7450562,ctx-lh-parsorbitalis,ctx-lh-parsorbitalis,Left,parsorbitalis
-Morphometry,Cortical thickness,18,2.6175191,ctx-lh-parstriangularis,ctx-lh-parstriangularis,Left,parstriangularis
-Morphometry,Cortical thickness,19,1.990975,ctx-lh-pericalcarine,ctx-lh-pericalcarine,Left,pericalcarine
-Morphometry,Cortical thickness,20,2.2020416,ctx-lh-postcentral,ctx-lh-postcentral,Left,postcentral
-Morphometry,Cortical thickness,21,2.2977884,ctx-lh-posteriorcingulate,ctx-lh-posteriorcingulate,Left,posteriorcingulate
-Morphometry,Cortical thickness,22,2.687343,ctx-lh-precentral,ctx-lh-precentral,Left,precentral
-Morphometry,Cortical thickness,23,2.5058978,ctx-lh-precuneus,ctx-lh-precuneus,Left,precuneus
-Morphometry,Cortical thickness,24,2.5882218,ctx-lh-rostralanteriorcingulate,ctx-lh-rostralanteriorcingulate,Left,rostralanteriorcingulate
-Morphometry,Cortical thickness,25,2.5461192,ctx-lh-rostralmiddlefrontal,ctx-lh-rostralmiddlefrontal,Left,rostralmiddlefrontal
-Morphometry,Cortical thickness,26,2.833642,ctx-lh-superiorfrontal,ctx-lh-superiorfrontal,Left,superiorfrontal
-Morphometry,Cortical thickness,27,2.273083,ctx-lh-superiorparietal,ctx-lh-superiorparietal,Left,superiorparietal
-Morphometry,Cortical thickness,28,2.8520167,ctx-lh-superiortemporal,ctx-lh-superiortemporal,Left,superiortemporal
-Morphometry,Cortical thickness,29,2.6337273,ctx-lh-supramarginal,ctx-lh-supramarginal,Left,supramarginal
-Morphometry,Cortical thickness,30,2.7688344,ctx-lh-frontalpole,ctx-lh-frontalpole,Left,frontalpole
-Morphometry,Cortical thickness,31,3.4898105,ctx-lh-temporalpole,ctx-lh-temporalpole,Left,temporalpole
-Morphometry,Cortical thickness,32,2.6231225,ctx-lh-transversetemporal,ctx-lh-transversetemporal,Left,transversetemporal
-Morphometry,Cortical thickness,33,3.062432,ctx-lh-insula,ctx-lh-insula,Left,insula
-Morphometry,Cortical thickness,34,2.8192055,ctx-rh-bankssts,ctx-rh-bankssts,Right,bankssts
-Morphometry,Cortical thickness,35,2.2435946,ctx-rh-caudalanteriorcingulate,ctx-rh-caudalanteriorcingulate,Right,caudalanteriorcingulate
-Morphometry,Cortical thickness,36,2.7300224,ctx-rh-caudalmiddlefrontal,ctx-rh-caudalmiddlefrontal,Right,caudalmiddlefrontal
-Morphometry,Cortical thickness,37,2.07171,ctx-rh-cuneus,ctx-rh-cuneus,Right,cuneus
-Morphometry,Cortical thickness,38,3.3883646,ctx-rh-entorhinal,ctx-rh-entorhinal,Right,entorhinal
-Morphometry,Cortical thickness,39,2.9015207,ctx-rh-fusiform,ctx-rh-fusiform,Right,fusiform
-Morphometry,Cortical thickness,40,2.6234884,ctx-rh-inferiorparietal,ctx-rh-inferiorparietal,Right,inferiorparietal
-Morphometry,Cortical thickness,41,2.9729047,ctx-rh-inferiortemporal,ctx-rh-inferiortemporal,Right,inferiortemporal
-Morphometry,Cortical thickness,42,2.274448,ctx-rh-isthmuscingulate,ctx-rh-isthmuscingulate,Right,isthmuscingulate
-Morphometry,Cortical thickness,43,2.3237941,ctx-rh-lateraloccipital,ctx-rh-lateraloccipital,Right,lateraloccipital
-Morphometry,Cortical thickness,44,2.864505,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,Right,lateralorbitofrontal
-Morphometry,Cortical thickness,45,2.1688163,ctx-rh-lingual,ctx-rh-lingual,Right,lingual
-Morphometry,Cortical thickness,46,2.7220366,ctx-rh-medialorbitofrontal,ctx-rh-medialorbitofrontal,Right,medialorbitofrontal
-Morphometry,Cortical thickness,47,3.0049503,ctx-rh-middletemporal,ctx-rh-middletemporal,Right,middletemporal
-Morphometry,Cortical thickness,48,2.6214135,ctx-rh-parahippocampal,ctx-rh-parahippocampal,Right,parahippocampal
-Morphometry,Cortical thickness,49,2.5320008,ctx-rh-paracentral,ctx-rh-paracentral,Right,paracentral
-Morphometry,Cortical thickness,50,2.811941,ctx-rh-parsopercularis,ctx-rh-parsopercularis,Right,parsopercularis
-Morphometry,Cortical thickness,51,2.8028982,ctx-rh-parsorbitalis,ctx-rh-parsorbitalis,Right,parsorbitalis
-Morphometry,Cortical thickness,52,2.6787734,ctx-rh-parstriangularis,ctx-rh-parstriangularis,Right,parstriangularis
-Morphometry,Cortical thickness,53,1.9942054,ctx-rh-pericalcarine,ctx-rh-pericalcarine,Right,pericalcarine
-Morphometry,Cortical thickness,54,2.2331252,ctx-rh-postcentral,ctx-rh-postcentral,Right,postcentral
-Morphometry,Cortical thickness,55,2.327714,ctx-rh-posteriorcingulate,ctx-rh-posteriorcingulate,Right,posteriorcingulate
-Morphometry,Cortical thickness,56,2.679248,ctx-rh-precentral,ctx-rh-precentral,Right,precentral
-Morphometry,Cortical thickness,57,2.5496423,ctx-rh-precuneus,ctx-rh-precuneus,Right,precuneus
-Morphometry,Cortical thickness,58,2.715602,ctx-rh-rostralanteriorcingulate,ctx-rh-rostralanteriorcingulate,Right,rostralanteriorcingulate
-Morphometry,Cortical thickness,59,2.568361,ctx-rh-rostralmiddlefrontal,ctx-rh-rostralmiddlefrontal,Right,rostralmiddlefrontal
-Morphometry,Cortical thickness,60,2.8694952,ctx-rh-superiorfrontal,ctx-rh-superiorfrontal,Right,superiorfrontal
-Morphometry,Cortical thickness,61,2.3061328,ctx-rh-superiorparietal,ctx-rh-superiorparietal,Right,superiorparietal
-Morphometry,Cortical thickness,62,2.9265015,ctx-rh-superiortemporal,ctx-rh-superiortemporal,Right,superiortemporal
-Morphometry,Cortical thickness,63,2.6728785,ctx-rh-supramarginal,ctx-rh-supramarginal,Right,supramarginal
-Morphometry,Cortical thickness,64,2.7915092,ctx-rh-frontalpole,ctx-rh-frontalpole,Right,frontalpole
-Morphometry,Cortical thickness,65,3.6473458,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
-Morphometry,Cortical thickness,66,2.6775575,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
-Morphometry,Cortical thickness,67,3.0712316,ctx-rh-insula,ctx-rh-insula,Right,insula
+Microstructure,Cortical thickness,0,2.7219377,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
+Microstructure,Cortical thickness,1,2.1520934,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
+Microstructure,Cortical thickness,2,2.7215285,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
+Microstructure,Cortical thickness,3,2.0792851,ctx-lh-cuneus,ctx-lh-cuneus,Left,cuneus
+Microstructure,Cortical thickness,4,3.2658489,ctx-lh-entorhinal,ctx-lh-entorhinal,Left,entorhinal
+Microstructure,Cortical thickness,5,2.8774056,ctx-lh-fusiform,ctx-lh-fusiform,Left,fusiform
+Microstructure,Cortical thickness,6,2.5552976,ctx-lh-inferiorparietal,ctx-lh-inferiorparietal,Left,inferiorparietal
+Microstructure,Cortical thickness,7,2.9222364,ctx-lh-inferiortemporal,ctx-lh-inferiortemporal,Left,inferiortemporal
+Microstructure,Cortical thickness,8,2.2017713,ctx-lh-isthmuscingulate,ctx-lh-isthmuscingulate,Left,isthmuscingulate
+Microstructure,Cortical thickness,9,2.2860248,ctx-lh-lateraloccipital,ctx-lh-lateraloccipital,Left,lateraloccipital
+Microstructure,Cortical thickness,10,2.8428686,ctx-lh-lateralorbitofrontal,ctx-lh-lateralorbitofrontal,Left,lateralorbitofrontal
+Microstructure,Cortical thickness,11,2.1717427,ctx-lh-lingual,ctx-lh-lingual,Left,lingual
+Microstructure,Cortical thickness,12,2.6217284,ctx-lh-medialorbitofrontal,ctx-lh-medialorbitofrontal,Left,medialorbitofrontal
+Microstructure,Cortical thickness,13,2.919577,ctx-lh-middletemporal,ctx-lh-middletemporal,Left,middletemporal
+Microstructure,Cortical thickness,14,2.6232715,ctx-lh-parahippocampal,ctx-lh-parahippocampal,Left,parahippocampal
+Microstructure,Cortical thickness,15,2.5139897,ctx-lh-paracentral,ctx-lh-paracentral,Left,paracentral
+Microstructure,Cortical thickness,16,2.7760575,ctx-lh-parsopercularis,ctx-lh-parsopercularis,Left,parsopercularis
+Microstructure,Cortical thickness,17,2.7450562,ctx-lh-parsorbitalis,ctx-lh-parsorbitalis,Left,parsorbitalis
+Microstructure,Cortical thickness,18,2.6175191,ctx-lh-parstriangularis,ctx-lh-parstriangularis,Left,parstriangularis
+Microstructure,Cortical thickness,19,1.990975,ctx-lh-pericalcarine,ctx-lh-pericalcarine,Left,pericalcarine
+Microstructure,Cortical thickness,20,2.2020416,ctx-lh-postcentral,ctx-lh-postcentral,Left,postcentral
+Microstructure,Cortical thickness,21,2.2977884,ctx-lh-posteriorcingulate,ctx-lh-posteriorcingulate,Left,posteriorcingulate
+Microstructure,Cortical thickness,22,2.687343,ctx-lh-precentral,ctx-lh-precentral,Left,precentral
+Microstructure,Cortical thickness,23,2.5058978,ctx-lh-precuneus,ctx-lh-precuneus,Left,precuneus
+Microstructure,Cortical thickness,24,2.5882218,ctx-lh-rostralanteriorcingulate,ctx-lh-rostralanteriorcingulate,Left,rostralanteriorcingulate
+Microstructure,Cortical thickness,25,2.5461192,ctx-lh-rostralmiddlefrontal,ctx-lh-rostralmiddlefrontal,Left,rostralmiddlefrontal
+Microstructure,Cortical thickness,26,2.833642,ctx-lh-superiorfrontal,ctx-lh-superiorfrontal,Left,superiorfrontal
+Microstructure,Cortical thickness,27,2.273083,ctx-lh-superiorparietal,ctx-lh-superiorparietal,Left,superiorparietal
+Microstructure,Cortical thickness,28,2.8520167,ctx-lh-superiortemporal,ctx-lh-superiortemporal,Left,superiortemporal
+Microstructure,Cortical thickness,29,2.6337273,ctx-lh-supramarginal,ctx-lh-supramarginal,Left,supramarginal
+Microstructure,Cortical thickness,30,2.7688344,ctx-lh-frontalpole,ctx-lh-frontalpole,Left,frontalpole
+Microstructure,Cortical thickness,31,3.4898105,ctx-lh-temporalpole,ctx-lh-temporalpole,Left,temporalpole
+Microstructure,Cortical thickness,32,2.6231225,ctx-lh-transversetemporal,ctx-lh-transversetemporal,Left,transversetemporal
+Microstructure,Cortical thickness,33,3.062432,ctx-lh-insula,ctx-lh-insula,Left,insula
+Microstructure,Cortical thickness,34,2.8192055,ctx-rh-bankssts,ctx-rh-bankssts,Right,bankssts
+Microstructure,Cortical thickness,35,2.2435946,ctx-rh-caudalanteriorcingulate,ctx-rh-caudalanteriorcingulate,Right,caudalanteriorcingulate
+Microstructure,Cortical thickness,36,2.7300224,ctx-rh-caudalmiddlefrontal,ctx-rh-caudalmiddlefrontal,Right,caudalmiddlefrontal
+Microstructure,Cortical thickness,37,2.07171,ctx-rh-cuneus,ctx-rh-cuneus,Right,cuneus
+Microstructure,Cortical thickness,38,3.3883646,ctx-rh-entorhinal,ctx-rh-entorhinal,Right,entorhinal
+Microstructure,Cortical thickness,39,2.9015207,ctx-rh-fusiform,ctx-rh-fusiform,Right,fusiform
+Microstructure,Cortical thickness,40,2.6234884,ctx-rh-inferiorparietal,ctx-rh-inferiorparietal,Right,inferiorparietal
+Microstructure,Cortical thickness,41,2.9729047,ctx-rh-inferiortemporal,ctx-rh-inferiortemporal,Right,inferiortemporal
+Microstructure,Cortical thickness,42,2.274448,ctx-rh-isthmuscingulate,ctx-rh-isthmuscingulate,Right,isthmuscingulate
+Microstructure,Cortical thickness,43,2.3237941,ctx-rh-lateraloccipital,ctx-rh-lateraloccipital,Right,lateraloccipital
+Microstructure,Cortical thickness,44,2.864505,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,Right,lateralorbitofrontal
+Microstructure,Cortical thickness,45,2.1688163,ctx-rh-lingual,ctx-rh-lingual,Right,lingual
+Microstructure,Cortical thickness,46,2.7220366,ctx-rh-medialorbitofrontal,ctx-rh-medialorbitofrontal,Right,medialorbitofrontal
+Microstructure,Cortical thickness,47,3.0049503,ctx-rh-middletemporal,ctx-rh-middletemporal,Right,middletemporal
+Microstructure,Cortical thickness,48,2.6214135,ctx-rh-parahippocampal,ctx-rh-parahippocampal,Right,parahippocampal
+Microstructure,Cortical thickness,49,2.5320008,ctx-rh-paracentral,ctx-rh-paracentral,Right,paracentral
+Microstructure,Cortical thickness,50,2.811941,ctx-rh-parsopercularis,ctx-rh-parsopercularis,Right,parsopercularis
+Microstructure,Cortical thickness,51,2.8028982,ctx-rh-parsorbitalis,ctx-rh-parsorbitalis,Right,parsorbitalis
+Microstructure,Cortical thickness,52,2.6787734,ctx-rh-parstriangularis,ctx-rh-parstriangularis,Right,parstriangularis
+Microstructure,Cortical thickness,53,1.9942054,ctx-rh-pericalcarine,ctx-rh-pericalcarine,Right,pericalcarine
+Microstructure,Cortical thickness,54,2.2331252,ctx-rh-postcentral,ctx-rh-postcentral,Right,postcentral
+Microstructure,Cortical thickness,55,2.327714,ctx-rh-posteriorcingulate,ctx-rh-posteriorcingulate,Right,posteriorcingulate
+Microstructure,Cortical thickness,56,2.679248,ctx-rh-precentral,ctx-rh-precentral,Right,precentral
+Microstructure,Cortical thickness,57,2.5496423,ctx-rh-precuneus,ctx-rh-precuneus,Right,precuneus
+Microstructure,Cortical thickness,58,2.715602,ctx-rh-rostralanteriorcingulate,ctx-rh-rostralanteriorcingulate,Right,rostralanteriorcingulate
+Microstructure,Cortical thickness,59,2.568361,ctx-rh-rostralmiddlefrontal,ctx-rh-rostralmiddlefrontal,Right,rostralmiddlefrontal
+Microstructure,Cortical thickness,60,2.8694952,ctx-rh-superiorfrontal,ctx-rh-superiorfrontal,Right,superiorfrontal
+Microstructure,Cortical thickness,61,2.3061328,ctx-rh-superiorparietal,ctx-rh-superiorparietal,Right,superiorparietal
+Microstructure,Cortical thickness,62,2.9265015,ctx-rh-superiortemporal,ctx-rh-superiortemporal,Right,superiortemporal
+Microstructure,Cortical thickness,63,2.6728785,ctx-rh-supramarginal,ctx-rh-supramarginal,Right,supramarginal
+Microstructure,Cortical thickness,64,2.7915092,ctx-rh-frontalpole,ctx-rh-frontalpole,Right,frontalpole
+Microstructure,Cortical thickness,65,3.6473458,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
+Microstructure,Cortical thickness,66,2.6775575,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
+Microstructure,Cortical thickness,67,3.0712316,ctx-rh-insula,ctx-rh-insula,Right,insula
 Microstructure,T1w vs. T2w MRI signal,0,1.3343114,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
 Microstructure,T1w vs. T2w MRI signal,1,0.8803021,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
 Microstructure,T1w vs. T2w MRI signal,2,1.2996441,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
@@ -135,74 +135,142 @@ Microstructure,T1w vs. T2w MRI signal,64,1.2076579,ctx-rh-frontalpole,ctx-rh-fro
 Microstructure,T1w vs. T2w MRI signal,65,1.1073099,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
 Microstructure,T1w vs. T2w MRI signal,66,1.6808957,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
 Microstructure,T1w vs. T2w MRI signal,67,1.2540352,ctx-rh-insula,ctx-rh-insula,Right,insula
-Transcriptome,PC1 of Allen Human Brain Atlas,0,-0.034646656,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
-Transcriptome,PC1 of Allen Human Brain Atlas,1,-1.4637336,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
-Transcriptome,PC1 of Allen Human Brain Atlas,2,-0.27457687,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
-Transcriptome,PC1 of Allen Human Brain Atlas,3,1.9326909,ctx-lh-cuneus,ctx-lh-cuneus,Left,cuneus
-Transcriptome,PC1 of Allen Human Brain Atlas,4,-1.8715014,ctx-lh-entorhinal,ctx-lh-entorhinal,Left,entorhinal
-Transcriptome,PC1 of Allen Human Brain Atlas,5,-0.23487851,ctx-lh-fusiform,ctx-lh-fusiform,Left,fusiform
-Transcriptome,PC1 of Allen Human Brain Atlas,6,0.35668272,ctx-lh-inferiorparietal,ctx-lh-inferiorparietal,Left,inferiorparietal
-Transcriptome,PC1 of Allen Human Brain Atlas,7,-0.8982669,ctx-lh-inferiortemporal,ctx-lh-inferiortemporal,Left,inferiortemporal
-Transcriptome,PC1 of Allen Human Brain Atlas,8,0.28919342,ctx-lh-isthmuscingulate,ctx-lh-isthmuscingulate,Left,isthmuscingulate
-Transcriptome,PC1 of Allen Human Brain Atlas,9,1.6699176,ctx-lh-lateraloccipital,ctx-lh-lateraloccipital,Left,lateraloccipital
-Transcriptome,PC1 of Allen Human Brain Atlas,10,-1.0851315,ctx-lh-lateralorbitofrontal,ctx-lh-lateralorbitofrontal,Left,lateralorbitofrontal
-Transcriptome,PC1 of Allen Human Brain Atlas,11,1.7646306,ctx-lh-lingual,ctx-lh-lingual,Left,lingual
-Transcriptome,PC1 of Allen Human Brain Atlas,12,-1.5409971,ctx-lh-medialorbitofrontal,ctx-lh-medialorbitofrontal,Left,medialorbitofrontal
-Transcriptome,PC1 of Allen Human Brain Atlas,13,-0.7711,ctx-lh-middletemporal,ctx-lh-middletemporal,Left,middletemporal
-Transcriptome,PC1 of Allen Human Brain Atlas,14,-0.33957228,ctx-lh-parahippocampal,ctx-lh-parahippocampal,Left,parahippocampal
-Transcriptome,PC1 of Allen Human Brain Atlas,15,0.31588063,ctx-lh-paracentral,ctx-lh-paracentral,Left,paracentral
-Transcriptome,PC1 of Allen Human Brain Atlas,16,-0.6862686,ctx-lh-parsopercularis,ctx-lh-parsopercularis,Left,parsopercularis
-Transcriptome,PC1 of Allen Human Brain Atlas,17,-0.47130707,ctx-lh-parsorbitalis,ctx-lh-parsorbitalis,Left,parsorbitalis
-Transcriptome,PC1 of Allen Human Brain Atlas,18,-0.6420454,ctx-lh-parstriangularis,ctx-lh-parstriangularis,Left,parstriangularis
-Transcriptome,PC1 of Allen Human Brain Atlas,19,2.4663777,ctx-lh-pericalcarine,ctx-lh-pericalcarine,Left,pericalcarine
-Transcriptome,PC1 of Allen Human Brain Atlas,20,0.8097785,ctx-lh-postcentral,ctx-lh-postcentral,Left,postcentral
-Transcriptome,PC1 of Allen Human Brain Atlas,21,-0.5482985,ctx-lh-posteriorcingulate,ctx-lh-posteriorcingulate,Left,posteriorcingulate
-Transcriptome,PC1 of Allen Human Brain Atlas,22,0.40821445,ctx-lh-precentral,ctx-lh-precentral,Left,precentral
-Transcriptome,PC1 of Allen Human Brain Atlas,23,0.6487016,ctx-lh-precuneus,ctx-lh-precuneus,Left,precuneus
-Transcriptome,PC1 of Allen Human Brain Atlas,24,-1.8302916,ctx-lh-rostralanteriorcingulate,ctx-lh-rostralanteriorcingulate,Left,rostralanteriorcingulate
-Transcriptome,PC1 of Allen Human Brain Atlas,25,-0.5178545,ctx-lh-rostralmiddlefrontal,ctx-lh-rostralmiddlefrontal,Left,rostralmiddlefrontal
-Transcriptome,PC1 of Allen Human Brain Atlas,26,-0.67747545,ctx-lh-superiorfrontal,ctx-lh-superiorfrontal,Left,superiorfrontal
-Transcriptome,PC1 of Allen Human Brain Atlas,27,0.5959364,ctx-lh-superiorparietal,ctx-lh-superiorparietal,Left,superiorparietal
-Transcriptome,PC1 of Allen Human Brain Atlas,28,-0.51308876,ctx-lh-superiortemporal,ctx-lh-superiortemporal,Left,superiortemporal
-Transcriptome,PC1 of Allen Human Brain Atlas,29,0.097884916,ctx-lh-supramarginal,ctx-lh-supramarginal,Left,supramarginal
-Transcriptome,PC1 of Allen Human Brain Atlas,30,-0.9097755,ctx-lh-frontalpole,ctx-lh-frontalpole,Left,frontalpole
-Transcriptome,PC1 of Allen Human Brain Atlas,31,-2.0682714,ctx-lh-temporalpole,ctx-lh-temporalpole,Left,temporalpole
-Transcriptome,PC1 of Allen Human Brain Atlas,32,0.44673663,ctx-lh-transversetemporal,ctx-lh-transversetemporal,Left,transversetemporal
-Transcriptome,PC1 of Allen Human Brain Atlas,33,-0.7405738,ctx-lh-insula,ctx-lh-insula,Left,insula
-Transcriptome,PC1 of Allen Human Brain Atlas,34,0.039094046,ctx-rh-bankssts,ctx-rh-bankssts,Right,bankssts
-Transcriptome,PC1 of Allen Human Brain Atlas,35,-1.5019959,ctx-rh-caudalanteriorcingulate,ctx-rh-caudalanteriorcingulate,Right,caudalanteriorcingulate
-Transcriptome,PC1 of Allen Human Brain Atlas,36,-0.26251793,ctx-rh-caudalmiddlefrontal,ctx-rh-caudalmiddlefrontal,Right,caudalmiddlefrontal
-Transcriptome,PC1 of Allen Human Brain Atlas,37,1.8446741,ctx-rh-cuneus,ctx-rh-cuneus,Right,cuneus
-Transcriptome,PC1 of Allen Human Brain Atlas,38,-1.9114033,ctx-rh-entorhinal,ctx-rh-entorhinal,Right,entorhinal
-Transcriptome,PC1 of Allen Human Brain Atlas,39,-0.31967753,ctx-rh-fusiform,ctx-rh-fusiform,Right,fusiform
-Transcriptome,PC1 of Allen Human Brain Atlas,40,0.1964756,ctx-rh-inferiorparietal,ctx-rh-inferiorparietal,Right,inferiorparietal
-Transcriptome,PC1 of Allen Human Brain Atlas,41,-1.0154786,ctx-rh-inferiortemporal,ctx-rh-inferiortemporal,Right,inferiortemporal
-Transcriptome,PC1 of Allen Human Brain Atlas,42,0.23889776,ctx-rh-isthmuscingulate,ctx-rh-isthmuscingulate,Right,isthmuscingulate
-Transcriptome,PC1 of Allen Human Brain Atlas,43,1.5741961,ctx-rh-lateraloccipital,ctx-rh-lateraloccipital,Right,lateraloccipital
-Transcriptome,PC1 of Allen Human Brain Atlas,44,-1.0825258,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,Right,lateralorbitofrontal
-Transcriptome,PC1 of Allen Human Brain Atlas,45,1.6272053,ctx-rh-lingual,ctx-rh-lingual,Right,lingual
-Transcriptome,PC1 of Allen Human Brain Atlas,46,-1.5398993,ctx-rh-medialorbitofrontal,ctx-rh-medialorbitofrontal,Right,medialorbitofrontal
-Transcriptome,PC1 of Allen Human Brain Atlas,47,-0.82348925,ctx-rh-middletemporal,ctx-rh-middletemporal,Right,middletemporal
-Transcriptome,PC1 of Allen Human Brain Atlas,48,-0.4463501,ctx-rh-parahippocampal,ctx-rh-parahippocampal,Right,parahippocampal
-Transcriptome,PC1 of Allen Human Brain Atlas,49,0.26796758,ctx-rh-paracentral,ctx-rh-paracentral,Right,paracentral
-Transcriptome,PC1 of Allen Human Brain Atlas,50,-0.66391194,ctx-rh-parsopercularis,ctx-rh-parsopercularis,Right,parsopercularis
-Transcriptome,PC1 of Allen Human Brain Atlas,51,-0.49776542,ctx-rh-parsorbitalis,ctx-rh-parsorbitalis,Right,parsorbitalis
-Transcriptome,PC1 of Allen Human Brain Atlas,52,-0.6070973,ctx-rh-parstriangularis,ctx-rh-parstriangularis,Right,parstriangularis
-Transcriptome,PC1 of Allen Human Brain Atlas,53,2.3415368,ctx-rh-pericalcarine,ctx-rh-pericalcarine,Right,pericalcarine
-Transcriptome,PC1 of Allen Human Brain Atlas,54,0.771941,ctx-rh-postcentral,ctx-rh-postcentral,Right,postcentral
-Transcriptome,PC1 of Allen Human Brain Atlas,55,-0.5912674,ctx-rh-posteriorcingulate,ctx-rh-posteriorcingulate,Right,posteriorcingulate
-Transcriptome,PC1 of Allen Human Brain Atlas,56,0.34224537,ctx-rh-precentral,ctx-rh-precentral,Right,precentral
-Transcriptome,PC1 of Allen Human Brain Atlas,57,0.5920304,ctx-rh-precuneus,ctx-rh-precuneus,Right,precuneus
-Transcriptome,PC1 of Allen Human Brain Atlas,58,-1.8869721,ctx-rh-rostralanteriorcingulate,ctx-rh-rostralanteriorcingulate,Right,rostralanteriorcingulate
-Transcriptome,PC1 of Allen Human Brain Atlas,59,-0.5121625,ctx-rh-rostralmiddlefrontal,ctx-rh-rostralmiddlefrontal,Right,rostralmiddlefrontal
-Transcriptome,PC1 of Allen Human Brain Atlas,60,-0.7362972,ctx-rh-superiorfrontal,ctx-rh-superiorfrontal,Right,superiorfrontal
-Transcriptome,PC1 of Allen Human Brain Atlas,61,0.54378706,ctx-rh-superiorparietal,ctx-rh-superiorparietal,Right,superiorparietal
-Transcriptome,PC1 of Allen Human Brain Atlas,62,-0.63808286,ctx-rh-superiortemporal,ctx-rh-superiortemporal,Right,superiortemporal
-Transcriptome,PC1 of Allen Human Brain Atlas,63,0.18538228,ctx-rh-supramarginal,ctx-rh-supramarginal,Right,supramarginal
-Transcriptome,PC1 of Allen Human Brain Atlas,64,-0.8896282,ctx-rh-frontalpole,ctx-rh-frontalpole,Right,frontalpole
-Transcriptome,PC1 of Allen Human Brain Atlas,65,-2.0464787,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
-Transcriptome,PC1 of Allen Human Brain Atlas,66,0.3314804,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
-Transcriptome,PC1 of Allen Human Brain Atlas,67,-0.85770607,ctx-rh-insula,ctx-rh-insula,Right,insula
+Microstructure,PC1 of Allen Human Brain Atlas,0,-0.034646656,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
+Microstructure,PC1 of Allen Human Brain Atlas,1,-1.4637336,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
+Microstructure,PC1 of Allen Human Brain Atlas,2,-0.27457687,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
+Microstructure,PC1 of Allen Human Brain Atlas,3,1.9326909,ctx-lh-cuneus,ctx-lh-cuneus,Left,cuneus
+Microstructure,PC1 of Allen Human Brain Atlas,4,-1.8715014,ctx-lh-entorhinal,ctx-lh-entorhinal,Left,entorhinal
+Microstructure,PC1 of Allen Human Brain Atlas,5,-0.23487851,ctx-lh-fusiform,ctx-lh-fusiform,Left,fusiform
+Microstructure,PC1 of Allen Human Brain Atlas,6,0.35668272,ctx-lh-inferiorparietal,ctx-lh-inferiorparietal,Left,inferiorparietal
+Microstructure,PC1 of Allen Human Brain Atlas,7,-0.8982669,ctx-lh-inferiortemporal,ctx-lh-inferiortemporal,Left,inferiortemporal
+Microstructure,PC1 of Allen Human Brain Atlas,8,0.28919342,ctx-lh-isthmuscingulate,ctx-lh-isthmuscingulate,Left,isthmuscingulate
+Microstructure,PC1 of Allen Human Brain Atlas,9,1.6699176,ctx-lh-lateraloccipital,ctx-lh-lateraloccipital,Left,lateraloccipital
+Microstructure,PC1 of Allen Human Brain Atlas,10,-1.0851315,ctx-lh-lateralorbitofrontal,ctx-lh-lateralorbitofrontal,Left,lateralorbitofrontal
+Microstructure,PC1 of Allen Human Brain Atlas,11,1.7646306,ctx-lh-lingual,ctx-lh-lingual,Left,lingual
+Microstructure,PC1 of Allen Human Brain Atlas,12,-1.5409971,ctx-lh-medialorbitofrontal,ctx-lh-medialorbitofrontal,Left,medialorbitofrontal
+Microstructure,PC1 of Allen Human Brain Atlas,13,-0.7711,ctx-lh-middletemporal,ctx-lh-middletemporal,Left,middletemporal
+Microstructure,PC1 of Allen Human Brain Atlas,14,-0.33957228,ctx-lh-parahippocampal,ctx-lh-parahippocampal,Left,parahippocampal
+Microstructure,PC1 of Allen Human Brain Atlas,15,0.31588063,ctx-lh-paracentral,ctx-lh-paracentral,Left,paracentral
+Microstructure,PC1 of Allen Human Brain Atlas,16,-0.6862686,ctx-lh-parsopercularis,ctx-lh-parsopercularis,Left,parsopercularis
+Microstructure,PC1 of Allen Human Brain Atlas,17,-0.47130707,ctx-lh-parsorbitalis,ctx-lh-parsorbitalis,Left,parsorbitalis
+Microstructure,PC1 of Allen Human Brain Atlas,18,-0.6420454,ctx-lh-parstriangularis,ctx-lh-parstriangularis,Left,parstriangularis
+Microstructure,PC1 of Allen Human Brain Atlas,19,2.4663777,ctx-lh-pericalcarine,ctx-lh-pericalcarine,Left,pericalcarine
+Microstructure,PC1 of Allen Human Brain Atlas,20,0.8097785,ctx-lh-postcentral,ctx-lh-postcentral,Left,postcentral
+Microstructure,PC1 of Allen Human Brain Atlas,21,-0.5482985,ctx-lh-posteriorcingulate,ctx-lh-posteriorcingulate,Left,posteriorcingulate
+Microstructure,PC1 of Allen Human Brain Atlas,22,0.40821445,ctx-lh-precentral,ctx-lh-precentral,Left,precentral
+Microstructure,PC1 of Allen Human Brain Atlas,23,0.6487016,ctx-lh-precuneus,ctx-lh-precuneus,Left,precuneus
+Microstructure,PC1 of Allen Human Brain Atlas,24,-1.8302916,ctx-lh-rostralanteriorcingulate,ctx-lh-rostralanteriorcingulate,Left,rostralanteriorcingulate
+Microstructure,PC1 of Allen Human Brain Atlas,25,-0.5178545,ctx-lh-rostralmiddlefrontal,ctx-lh-rostralmiddlefrontal,Left,rostralmiddlefrontal
+Microstructure,PC1 of Allen Human Brain Atlas,26,-0.67747545,ctx-lh-superiorfrontal,ctx-lh-superiorfrontal,Left,superiorfrontal
+Microstructure,PC1 of Allen Human Brain Atlas,27,0.5959364,ctx-lh-superiorparietal,ctx-lh-superiorparietal,Left,superiorparietal
+Microstructure,PC1 of Allen Human Brain Atlas,28,-0.51308876,ctx-lh-superiortemporal,ctx-lh-superiortemporal,Left,superiortemporal
+Microstructure,PC1 of Allen Human Brain Atlas,29,0.097884916,ctx-lh-supramarginal,ctx-lh-supramarginal,Left,supramarginal
+Microstructure,PC1 of Allen Human Brain Atlas,30,-0.9097755,ctx-lh-frontalpole,ctx-lh-frontalpole,Left,frontalpole
+Microstructure,PC1 of Allen Human Brain Atlas,31,-2.0682714,ctx-lh-temporalpole,ctx-lh-temporalpole,Left,temporalpole
+Microstructure,PC1 of Allen Human Brain Atlas,32,0.44673663,ctx-lh-transversetemporal,ctx-lh-transversetemporal,Left,transversetemporal
+Microstructure,PC1 of Allen Human Brain Atlas,33,-0.7405738,ctx-lh-insula,ctx-lh-insula,Left,insula
+Microstructure,PC1 of Allen Human Brain Atlas,34,0.039094046,ctx-rh-bankssts,ctx-rh-bankssts,Right,bankssts
+Microstructure,PC1 of Allen Human Brain Atlas,35,-1.5019959,ctx-rh-caudalanteriorcingulate,ctx-rh-caudalanteriorcingulate,Right,caudalanteriorcingulate
+Microstructure,PC1 of Allen Human Brain Atlas,36,-0.26251793,ctx-rh-caudalmiddlefrontal,ctx-rh-caudalmiddlefrontal,Right,caudalmiddlefrontal
+Microstructure,PC1 of Allen Human Brain Atlas,37,1.8446741,ctx-rh-cuneus,ctx-rh-cuneus,Right,cuneus
+Microstructure,PC1 of Allen Human Brain Atlas,38,-1.9114033,ctx-rh-entorhinal,ctx-rh-entorhinal,Right,entorhinal
+Microstructure,PC1 of Allen Human Brain Atlas,39,-0.31967753,ctx-rh-fusiform,ctx-rh-fusiform,Right,fusiform
+Microstructure,PC1 of Allen Human Brain Atlas,40,0.1964756,ctx-rh-inferiorparietal,ctx-rh-inferiorparietal,Right,inferiorparietal
+Microstructure,PC1 of Allen Human Brain Atlas,41,-1.0154786,ctx-rh-inferiortemporal,ctx-rh-inferiortemporal,Right,inferiortemporal
+Microstructure,PC1 of Allen Human Brain Atlas,42,0.23889776,ctx-rh-isthmuscingulate,ctx-rh-isthmuscingulate,Right,isthmuscingulate
+Microstructure,PC1 of Allen Human Brain Atlas,43,1.5741961,ctx-rh-lateraloccipital,ctx-rh-lateraloccipital,Right,lateraloccipital
+Microstructure,PC1 of Allen Human Brain Atlas,44,-1.0825258,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,Right,lateralorbitofrontal
+Microstructure,PC1 of Allen Human Brain Atlas,45,1.6272053,ctx-rh-lingual,ctx-rh-lingual,Right,lingual
+Microstructure,PC1 of Allen Human Brain Atlas,46,-1.5398993,ctx-rh-medialorbitofrontal,ctx-rh-medialorbitofrontal,Right,medialorbitofrontal
+Microstructure,PC1 of Allen Human Brain Atlas,47,-0.82348925,ctx-rh-middletemporal,ctx-rh-middletemporal,Right,middletemporal
+Microstructure,PC1 of Allen Human Brain Atlas,48,-0.4463501,ctx-rh-parahippocampal,ctx-rh-parahippocampal,Right,parahippocampal
+Microstructure,PC1 of Allen Human Brain Atlas,49,0.26796758,ctx-rh-paracentral,ctx-rh-paracentral,Right,paracentral
+Microstructure,PC1 of Allen Human Brain Atlas,50,-0.66391194,ctx-rh-parsopercularis,ctx-rh-parsopercularis,Right,parsopercularis
+Microstructure,PC1 of Allen Human Brain Atlas,51,-0.49776542,ctx-rh-parsorbitalis,ctx-rh-parsorbitalis,Right,parsorbitalis
+Microstructure,PC1 of Allen Human Brain Atlas,52,-0.6070973,ctx-rh-parstriangularis,ctx-rh-parstriangularis,Right,parstriangularis
+Microstructure,PC1 of Allen Human Brain Atlas,53,2.3415368,ctx-rh-pericalcarine,ctx-rh-pericalcarine,Right,pericalcarine
+Microstructure,PC1 of Allen Human Brain Atlas,54,0.771941,ctx-rh-postcentral,ctx-rh-postcentral,Right,postcentral
+Microstructure,PC1 of Allen Human Brain Atlas,55,-0.5912674,ctx-rh-posteriorcingulate,ctx-rh-posteriorcingulate,Right,posteriorcingulate
+Microstructure,PC1 of Allen Human Brain Atlas,56,0.34224537,ctx-rh-precentral,ctx-rh-precentral,Right,precentral
+Microstructure,PC1 of Allen Human Brain Atlas,57,0.5920304,ctx-rh-precuneus,ctx-rh-precuneus,Right,precuneus
+Microstructure,PC1 of Allen Human Brain Atlas,58,-1.8869721,ctx-rh-rostralanteriorcingulate,ctx-rh-rostralanteriorcingulate,Right,rostralanteriorcingulate
+Microstructure,PC1 of Allen Human Brain Atlas,59,-0.5121625,ctx-rh-rostralmiddlefrontal,ctx-rh-rostralmiddlefrontal,Right,rostralmiddlefrontal
+Microstructure,PC1 of Allen Human Brain Atlas,60,-0.7362972,ctx-rh-superiorfrontal,ctx-rh-superiorfrontal,Right,superiorfrontal
+Microstructure,PC1 of Allen Human Brain Atlas,61,0.54378706,ctx-rh-superiorparietal,ctx-rh-superiorparietal,Right,superiorparietal
+Microstructure,PC1 of Allen Human Brain Atlas,62,-0.63808286,ctx-rh-superiortemporal,ctx-rh-superiortemporal,Right,superiortemporal
+Microstructure,PC1 of Allen Human Brain Atlas,63,0.18538228,ctx-rh-supramarginal,ctx-rh-supramarginal,Right,supramarginal
+Microstructure,PC1 of Allen Human Brain Atlas,64,-0.8896282,ctx-rh-frontalpole,ctx-rh-frontalpole,Right,frontalpole
+Microstructure,PC1 of Allen Human Brain Atlas,65,-2.0464787,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
+Microstructure,PC1 of Allen Human Brain Atlas,66,0.3314804,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
+Microstructure,PC1 of Allen Human Brain Atlas,67,-0.85770607,ctx-rh-insula,ctx-rh-insula,Right,insula
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,0,3.0730908,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,1,3.2632127,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,2,2.5731862,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,3,3.922346,ctx-lh-cuneus,ctx-lh-cuneus,Left,cuneus
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,4,1.9762521,ctx-lh-entorhinal,ctx-lh-entorhinal,Left,entorhinal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,5,3.9233537,ctx-lh-fusiform,ctx-lh-fusiform,Left,fusiform
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,6,3.9348912,ctx-lh-inferiorparietal,ctx-lh-inferiorparietal,Left,inferiorparietal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,7,3.6292171,ctx-lh-inferiortemporal,ctx-lh-inferiortemporal,Left,inferiortemporal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,8,2.355341,ctx-lh-isthmuscingulate,ctx-lh-isthmuscingulate,Left,isthmuscingulate
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,9,3.6000493,ctx-lh-lateraloccipital,ctx-lh-lateraloccipital,Left,lateraloccipital
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,10,3.0898244,ctx-lh-lateralorbitofrontal,ctx-lh-lateralorbitofrontal,Left,lateralorbitofrontal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,11,3.2911854,ctx-lh-lingual,ctx-lh-lingual,Left,lingual
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,12,4.3269033,ctx-lh-medialorbitofrontal,ctx-lh-medialorbitofrontal,Left,medialorbitofrontal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,13,3.5734036,ctx-lh-middletemporal,ctx-lh-middletemporal,Left,middletemporal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,14,2.508993,ctx-lh-parahippocampal,ctx-lh-parahippocampal,Left,parahippocampal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,15,3.7364776,ctx-lh-paracentral,ctx-lh-paracentral,Left,paracentral
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,16,3.1629033,ctx-lh-parsopercularis,ctx-lh-parsopercularis,Left,parsopercularis
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,17,3.4544928,ctx-lh-parsorbitalis,ctx-lh-parsorbitalis,Left,parsorbitalis
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,18,3.1342692,ctx-lh-parstriangularis,ctx-lh-parstriangularis,Left,parstriangularis
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,19,3.848095,ctx-lh-pericalcarine,ctx-lh-pericalcarine,Left,pericalcarine
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,20,3.4405591,ctx-lh-postcentral,ctx-lh-postcentral,Left,postcentral
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,21,3.065593,ctx-lh-posteriorcingulate,ctx-lh-posteriorcingulate,Left,posteriorcingulate
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,22,2.702099,ctx-lh-precentral,ctx-lh-precentral,Left,precentral
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,23,4.4387536,ctx-lh-precuneus,ctx-lh-precuneus,Left,precuneus
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,24,3.6102538,ctx-lh-rostralanteriorcingulate,ctx-lh-rostralanteriorcingulate,Left,rostralanteriorcingulate
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,25,2.7739935,ctx-lh-rostralmiddlefrontal,ctx-lh-rostralmiddlefrontal,Left,rostralmiddlefrontal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,26,3.4493468,ctx-lh-superiorfrontal,ctx-lh-superiorfrontal,Left,superiorfrontal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,27,3.4984245,ctx-lh-superiorparietal,ctx-lh-superiorparietal,Left,superiorparietal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,28,3.3352213,ctx-lh-superiortemporal,ctx-lh-superiortemporal,Left,superiortemporal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,29,3.7227,ctx-lh-supramarginal,ctx-lh-supramarginal,Left,supramarginal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,30,4.132826,ctx-lh-frontalpole,ctx-lh-frontalpole,Left,frontalpole
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,31,3.0858235,ctx-lh-temporalpole,ctx-lh-temporalpole,Left,temporalpole
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,32,3.079248,ctx-lh-transversetemporal,ctx-lh-transversetemporal,Left,transversetemporal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,33,2.9434996,ctx-lh-insula,ctx-lh-insula,Left,insula
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,34,3.4564588,ctx-rh-bankssts,ctx-rh-bankssts,Right,bankssts
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,35,3.1631305,ctx-rh-caudalanteriorcingulate,ctx-rh-caudalanteriorcingulate,Right,caudalanteriorcingulate
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,36,3.4395328,ctx-rh-caudalmiddlefrontal,ctx-rh-caudalmiddlefrontal,Right,caudalmiddlefrontal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,37,4.0152173,ctx-rh-cuneus,ctx-rh-cuneus,Right,cuneus
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,38,2.1439779,ctx-rh-entorhinal,ctx-rh-entorhinal,Right,entorhinal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,39,3.9965906,ctx-rh-fusiform,ctx-rh-fusiform,Right,fusiform
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,40,4.2909846,ctx-rh-inferiorparietal,ctx-rh-inferiorparietal,Right,inferiorparietal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,41,3.8790104,ctx-rh-inferiortemporal,ctx-rh-inferiortemporal,Right,inferiortemporal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,42,2.3863661,ctx-rh-isthmuscingulate,ctx-rh-isthmuscingulate,Right,isthmuscingulate
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,43,4.0319524,ctx-rh-lateraloccipital,ctx-rh-lateraloccipital,Right,lateraloccipital
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,44,3.5000052,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,Right,lateralorbitofrontal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,45,3.6190574,ctx-rh-lingual,ctx-rh-lingual,Right,lingual
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,46,4.2123804,ctx-rh-medialorbitofrontal,ctx-rh-medialorbitofrontal,Right,medialorbitofrontal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,47,4.2802434,ctx-rh-middletemporal,ctx-rh-middletemporal,Right,middletemporal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,48,2.8735478,ctx-rh-parahippocampal,ctx-rh-parahippocampal,Right,parahippocampal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,49,3.4186661,ctx-rh-paracentral,ctx-rh-paracentral,Right,paracentral
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,50,3.8655777,ctx-rh-parsopercularis,ctx-rh-parsopercularis,Right,parsopercularis
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,51,3.978638,ctx-rh-parsorbitalis,ctx-rh-parsorbitalis,Right,parsorbitalis
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,52,4.016656,ctx-rh-parstriangularis,ctx-rh-parstriangularis,Right,parstriangularis
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,53,3.7579823,ctx-rh-pericalcarine,ctx-rh-pericalcarine,Right,pericalcarine
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,54,3.696795,ctx-rh-postcentral,ctx-rh-postcentral,Right,postcentral
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,55,2.4547544,ctx-rh-posteriorcingulate,ctx-rh-posteriorcingulate,Right,posteriorcingulate
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,56,3.0528152,ctx-rh-precentral,ctx-rh-precentral,Right,precentral
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,57,3.9118977,ctx-rh-precuneus,ctx-rh-precuneus,Right,precuneus
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,58,3.2635398,ctx-rh-rostralanteriorcingulate,ctx-rh-rostralanteriorcingulate,Right,rostralanteriorcingulate
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,59,3.9851716,ctx-rh-rostralmiddlefrontal,ctx-rh-rostralmiddlefrontal,Right,rostralmiddlefrontal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,60,3.508983,ctx-rh-superiorfrontal,ctx-rh-superiorfrontal,Right,superiorfrontal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,61,3.7512255,ctx-rh-superiorparietal,ctx-rh-superiorparietal,Right,superiorparietal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,62,3.8871136,ctx-rh-superiortemporal,ctx-rh-superiortemporal,Right,superiortemporal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,63,4.123964,ctx-rh-supramarginal,ctx-rh-supramarginal,Right,supramarginal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,64,3.9845653,ctx-rh-frontalpole,ctx-rh-frontalpole,Right,frontalpole
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,65,3.2518053,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,66,3.9378006,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
+Microstructure,Synaptic vesicle glycoprotein 2A (SV2A) binding,67,3.9268806,ctx-rh-insula,ctx-rh-insula,Right,insula
 Functional hierarchy,Margulies PG1,0,1.2495115,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
 Functional hierarchy,Margulies PG1,1,-1.3406259,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
 Functional hierarchy,Margulies PG1,2,4.1384435,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
@@ -271,74 +339,482 @@ Functional hierarchy,Margulies PG1,64,6.3228,ctx-rh-frontalpole,ctx-rh-frontalpo
 Functional hierarchy,Margulies PG1,65,3.8607068,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
 Functional hierarchy,Margulies PG1,66,-3.7573907,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
 Functional hierarchy,Margulies PG1,67,-2.589022,ctx-rh-insula,ctx-rh-insula,Right,insula
-Functional hierarchy,Sensory-association mean rank axis,0,0.271787,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
-Functional hierarchy,Sensory-association mean rank axis,1,0.24048959,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
-Functional hierarchy,Sensory-association mean rank axis,2,1.0105487,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
-Functional hierarchy,Sensory-association mean rank axis,3,-1.533763,ctx-lh-cuneus,ctx-lh-cuneus,Left,cuneus
-Functional hierarchy,Sensory-association mean rank axis,4,0.24043947,ctx-lh-entorhinal,ctx-lh-entorhinal,Left,entorhinal
-Functional hierarchy,Sensory-association mean rank axis,5,-0.2347382,ctx-lh-fusiform,ctx-lh-fusiform,Left,fusiform
-Functional hierarchy,Sensory-association mean rank axis,6,0.3191308,ctx-lh-inferiorparietal,ctx-lh-inferiorparietal,Left,inferiorparietal
-Functional hierarchy,Sensory-association mean rank axis,7,0.76337034,ctx-lh-inferiortemporal,ctx-lh-inferiortemporal,Left,inferiortemporal
-Functional hierarchy,Sensory-association mean rank axis,8,0.011864398,ctx-lh-isthmuscingulate,ctx-lh-isthmuscingulate,Left,isthmuscingulate
-Functional hierarchy,Sensory-association mean rank axis,9,-1.0739088,ctx-lh-lateraloccipital,ctx-lh-lateraloccipital,Left,lateraloccipital
-Functional hierarchy,Sensory-association mean rank axis,10,0.9439052,ctx-lh-lateralorbitofrontal,ctx-lh-lateralorbitofrontal,Left,lateralorbitofrontal
-Functional hierarchy,Sensory-association mean rank axis,11,-1.3996295,ctx-lh-lingual,ctx-lh-lingual,Left,lingual
-Functional hierarchy,Sensory-association mean rank axis,12,0.87058884,ctx-lh-medialorbitofrontal,ctx-lh-medialorbitofrontal,Left,medialorbitofrontal
-Functional hierarchy,Sensory-association mean rank axis,13,1.2039759,ctx-lh-middletemporal,ctx-lh-middletemporal,Left,middletemporal
-Functional hierarchy,Sensory-association mean rank axis,14,-0.27380744,ctx-lh-parahippocampal,ctx-lh-parahippocampal,Left,parahippocampal
-Functional hierarchy,Sensory-association mean rank axis,15,-1.3104215,ctx-lh-paracentral,ctx-lh-paracentral,Left,paracentral
-Functional hierarchy,Sensory-association mean rank axis,16,0.50662243,ctx-lh-parsopercularis,ctx-lh-parsopercularis,Left,parsopercularis
-Functional hierarchy,Sensory-association mean rank axis,17,1.4916244,ctx-lh-parsorbitalis,ctx-lh-parsorbitalis,Left,parsorbitalis
-Functional hierarchy,Sensory-association mean rank axis,18,0.8440026,ctx-lh-parstriangularis,ctx-lh-parstriangularis,Left,parstriangularis
-Functional hierarchy,Sensory-association mean rank axis,19,-1.6858298,ctx-lh-pericalcarine,ctx-lh-pericalcarine,Left,pericalcarine
-Functional hierarchy,Sensory-association mean rank axis,20,-1.1603705,ctx-lh-postcentral,ctx-lh-postcentral,Left,postcentral
-Functional hierarchy,Sensory-association mean rank axis,21,0.14837715,ctx-lh-posteriorcingulate,ctx-lh-posteriorcingulate,Left,posteriorcingulate
-Functional hierarchy,Sensory-association mean rank axis,22,-0.7954968,ctx-lh-precentral,ctx-lh-precentral,Left,precentral
-Functional hierarchy,Sensory-association mean rank axis,23,-0.30056992,ctx-lh-precuneus,ctx-lh-precuneus,Left,precuneus
-Functional hierarchy,Sensory-association mean rank axis,24,1.1804088,ctx-lh-rostralanteriorcingulate,ctx-lh-rostralanteriorcingulate,Left,rostralanteriorcingulate
-Functional hierarchy,Sensory-association mean rank axis,25,1.2309492,ctx-lh-rostralmiddlefrontal,ctx-lh-rostralmiddlefrontal,Left,rostralmiddlefrontal
-Functional hierarchy,Sensory-association mean rank axis,26,0.7342025,ctx-lh-superiorfrontal,ctx-lh-superiorfrontal,Left,superiorfrontal
-Functional hierarchy,Sensory-association mean rank axis,27,-0.7555259,ctx-lh-superiorparietal,ctx-lh-superiorparietal,Left,superiorparietal
-Functional hierarchy,Sensory-association mean rank axis,28,0.13922703,ctx-lh-superiortemporal,ctx-lh-superiortemporal,Left,superiortemporal
-Functional hierarchy,Sensory-association mean rank axis,29,0.30020323,ctx-lh-supramarginal,ctx-lh-supramarginal,Left,supramarginal
-Functional hierarchy,Sensory-association mean rank axis,30,1.1366887,ctx-lh-frontalpole,ctx-lh-frontalpole,Left,frontalpole
-Functional hierarchy,Sensory-association mean rank axis,31,0.557952,ctx-lh-temporalpole,ctx-lh-temporalpole,Left,temporalpole
-Functional hierarchy,Sensory-association mean rank axis,32,-0.624002,ctx-lh-transversetemporal,ctx-lh-transversetemporal,Left,transversetemporal
-Functional hierarchy,Sensory-association mean rank axis,33,0.16001664,ctx-lh-insula,ctx-lh-insula,Left,insula
-Functional hierarchy,Sensory-association mean rank axis,34,0.07815422,ctx-rh-bankssts,ctx-rh-bankssts,Right,bankssts
-Functional hierarchy,Sensory-association mean rank axis,35,0.38872942,ctx-rh-caudalanteriorcingulate,ctx-rh-caudalanteriorcingulate,Right,caudalanteriorcingulate
-Functional hierarchy,Sensory-association mean rank axis,36,0.9931747,ctx-rh-caudalmiddlefrontal,ctx-rh-caudalmiddlefrontal,Right,caudalmiddlefrontal
-Functional hierarchy,Sensory-association mean rank axis,37,-1.5002562,ctx-rh-cuneus,ctx-rh-cuneus,Right,cuneus
-Functional hierarchy,Sensory-association mean rank axis,38,0.21013236,ctx-rh-entorhinal,ctx-rh-entorhinal,Right,entorhinal
-Functional hierarchy,Sensory-association mean rank axis,39,-0.205624,ctx-rh-fusiform,ctx-rh-fusiform,Right,fusiform
-Functional hierarchy,Sensory-association mean rank axis,40,0.43538716,ctx-rh-inferiorparietal,ctx-rh-inferiorparietal,Right,inferiorparietal
-Functional hierarchy,Sensory-association mean rank axis,41,0.83253723,ctx-rh-inferiortemporal,ctx-rh-inferiortemporal,Right,inferiortemporal
-Functional hierarchy,Sensory-association mean rank axis,42,-0.1405357,ctx-rh-isthmuscingulate,ctx-rh-isthmuscingulate,Right,isthmuscingulate
-Functional hierarchy,Sensory-association mean rank axis,43,-1.107313,ctx-rh-lateraloccipital,ctx-rh-lateraloccipital,Right,lateraloccipital
-Functional hierarchy,Sensory-association mean rank axis,44,0.8924993,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,Right,lateralorbitofrontal
-Functional hierarchy,Sensory-association mean rank axis,45,-1.3820498,ctx-rh-lingual,ctx-rh-lingual,Right,lingual
-Functional hierarchy,Sensory-association mean rank axis,46,1.0725353,ctx-rh-medialorbitofrontal,ctx-rh-medialorbitofrontal,Right,medialorbitofrontal
-Functional hierarchy,Sensory-association mean rank axis,47,1.1117105,ctx-rh-middletemporal,ctx-rh-middletemporal,Right,middletemporal
-Functional hierarchy,Sensory-association mean rank axis,48,-0.3493502,ctx-rh-parahippocampal,ctx-rh-parahippocampal,Right,parahippocampal
-Functional hierarchy,Sensory-association mean rank axis,49,-1.2662462,ctx-rh-paracentral,ctx-rh-paracentral,Right,paracentral
-Functional hierarchy,Sensory-association mean rank axis,50,0.5003871,ctx-rh-parsopercularis,ctx-rh-parsopercularis,Right,parsopercularis
-Functional hierarchy,Sensory-association mean rank axis,51,1.4147387,ctx-rh-parsorbitalis,ctx-rh-parsorbitalis,Right,parsorbitalis
-Functional hierarchy,Sensory-association mean rank axis,52,0.91635394,ctx-rh-parstriangularis,ctx-rh-parstriangularis,Right,parstriangularis
-Functional hierarchy,Sensory-association mean rank axis,53,-1.6193475,ctx-rh-pericalcarine,ctx-rh-pericalcarine,Right,pericalcarine
-Functional hierarchy,Sensory-association mean rank axis,54,-1.1944927,ctx-rh-postcentral,ctx-rh-postcentral,Right,postcentral
-Functional hierarchy,Sensory-association mean rank axis,55,0.025616562,ctx-rh-posteriorcingulate,ctx-rh-posteriorcingulate,Right,posteriorcingulate
-Functional hierarchy,Sensory-association mean rank axis,56,-0.85852504,ctx-rh-precentral,ctx-rh-precentral,Right,precentral
-Functional hierarchy,Sensory-association mean rank axis,57,-0.18049802,ctx-rh-precuneus,ctx-rh-precuneus,Right,precuneus
-Functional hierarchy,Sensory-association mean rank axis,58,1.0189621,ctx-rh-rostralanteriorcingulate,ctx-rh-rostralanteriorcingulate,Right,rostralanteriorcingulate
-Functional hierarchy,Sensory-association mean rank axis,59,1.1852199,ctx-rh-rostralmiddlefrontal,ctx-rh-rostralmiddlefrontal,Right,rostralmiddlefrontal
-Functional hierarchy,Sensory-association mean rank axis,60,0.8290827,ctx-rh-superiorfrontal,ctx-rh-superiorfrontal,Right,superiorfrontal
-Functional hierarchy,Sensory-association mean rank axis,61,-0.7728477,ctx-rh-superiorparietal,ctx-rh-superiorparietal,Right,superiorparietal
-Functional hierarchy,Sensory-association mean rank axis,62,0.20289396,ctx-rh-superiortemporal,ctx-rh-superiortemporal,Right,superiortemporal
-Functional hierarchy,Sensory-association mean rank axis,63,-0.026885461,ctx-rh-supramarginal,ctx-rh-supramarginal,Right,supramarginal
-Functional hierarchy,Sensory-association mean rank axis,64,1.248039,ctx-rh-frontalpole,ctx-rh-frontalpole,Right,frontalpole
-Functional hierarchy,Sensory-association mean rank axis,65,0.5245974,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
-Functional hierarchy,Sensory-association mean rank axis,66,-0.7261214,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
-Functional hierarchy,Sensory-association mean rank axis,67,0.22929755,ctx-rh-insula,ctx-rh-insula,Right,insula
+Oscillatory neural dynamics,"MEG, alpha",0,0.3393975,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
+Oscillatory neural dynamics,"MEG, alpha",1,0.21565731,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
+Oscillatory neural dynamics,"MEG, alpha",2,0.21094851,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
+Oscillatory neural dynamics,"MEG, alpha",3,0.42336565,ctx-lh-cuneus,ctx-lh-cuneus,Left,cuneus
+Oscillatory neural dynamics,"MEG, alpha",4,0.21061167,ctx-lh-entorhinal,ctx-lh-entorhinal,Left,entorhinal
+Oscillatory neural dynamics,"MEG, alpha",5,0.32718456,ctx-lh-fusiform,ctx-lh-fusiform,Left,fusiform
+Oscillatory neural dynamics,"MEG, alpha",6,0.3640945,ctx-lh-inferiorparietal,ctx-lh-inferiorparietal,Left,inferiorparietal
+Oscillatory neural dynamics,"MEG, alpha",7,0.30678505,ctx-lh-inferiortemporal,ctx-lh-inferiortemporal,Left,inferiortemporal
+Oscillatory neural dynamics,"MEG, alpha",8,0.3125059,ctx-lh-isthmuscingulate,ctx-lh-isthmuscingulate,Left,isthmuscingulate
+Oscillatory neural dynamics,"MEG, alpha",9,0.3838604,ctx-lh-lateraloccipital,ctx-lh-lateraloccipital,Left,lateraloccipital
+Oscillatory neural dynamics,"MEG, alpha",10,0.21666463,ctx-lh-lateralorbitofrontal,ctx-lh-lateralorbitofrontal,Left,lateralorbitofrontal
+Oscillatory neural dynamics,"MEG, alpha",11,0.3549995,ctx-lh-lingual,ctx-lh-lingual,Left,lingual
+Oscillatory neural dynamics,"MEG, alpha",12,0.18406111,ctx-lh-medialorbitofrontal,ctx-lh-medialorbitofrontal,Left,medialorbitofrontal
+Oscillatory neural dynamics,"MEG, alpha",13,0.30817398,ctx-lh-middletemporal,ctx-lh-middletemporal,Left,middletemporal
+Oscillatory neural dynamics,"MEG, alpha",14,0.3180545,ctx-lh-parahippocampal,ctx-lh-parahippocampal,Left,parahippocampal
+Oscillatory neural dynamics,"MEG, alpha",15,0.290565,ctx-lh-paracentral,ctx-lh-paracentral,Left,paracentral
+Oscillatory neural dynamics,"MEG, alpha",16,0.22724865,ctx-lh-parsopercularis,ctx-lh-parsopercularis,Left,parsopercularis
+Oscillatory neural dynamics,"MEG, alpha",17,0.20541011,ctx-lh-parsorbitalis,ctx-lh-parsorbitalis,Left,parsorbitalis
+Oscillatory neural dynamics,"MEG, alpha",18,0.21459587,ctx-lh-parstriangularis,ctx-lh-parstriangularis,Left,parstriangularis
+Oscillatory neural dynamics,"MEG, alpha",19,0.40060195,ctx-lh-pericalcarine,ctx-lh-pericalcarine,Left,pericalcarine
+Oscillatory neural dynamics,"MEG, alpha",20,0.31036457,ctx-lh-postcentral,ctx-lh-postcentral,Left,postcentral
+Oscillatory neural dynamics,"MEG, alpha",21,0.26445645,ctx-lh-posteriorcingulate,ctx-lh-posteriorcingulate,Left,posteriorcingulate
+Oscillatory neural dynamics,"MEG, alpha",22,0.26747772,ctx-lh-precentral,ctx-lh-precentral,Left,precentral
+Oscillatory neural dynamics,"MEG, alpha",23,0.36444968,ctx-lh-precuneus,ctx-lh-precuneus,Left,precuneus
+Oscillatory neural dynamics,"MEG, alpha",24,0.16147949,ctx-lh-rostralanteriorcingulate,ctx-lh-rostralanteriorcingulate,Left,rostralanteriorcingulate
+Oscillatory neural dynamics,"MEG, alpha",25,0.1918544,ctx-lh-rostralmiddlefrontal,ctx-lh-rostralmiddlefrontal,Left,rostralmiddlefrontal
+Oscillatory neural dynamics,"MEG, alpha",26,0.20464098,ctx-lh-superiorfrontal,ctx-lh-superiorfrontal,Left,superiorfrontal
+Oscillatory neural dynamics,"MEG, alpha",27,0.3718346,ctx-lh-superiorparietal,ctx-lh-superiorparietal,Left,superiorparietal
+Oscillatory neural dynamics,"MEG, alpha",28,0.3007816,ctx-lh-superiortemporal,ctx-lh-superiortemporal,Left,superiortemporal
+Oscillatory neural dynamics,"MEG, alpha",29,0.32715347,ctx-lh-supramarginal,ctx-lh-supramarginal,Left,supramarginal
+Oscillatory neural dynamics,"MEG, alpha",30,0.18128437,ctx-lh-frontalpole,ctx-lh-frontalpole,Left,frontalpole
+Oscillatory neural dynamics,"MEG, alpha",31,0.17144448,ctx-lh-temporalpole,ctx-lh-temporalpole,Left,temporalpole
+Oscillatory neural dynamics,"MEG, alpha",32,0.32526368,ctx-lh-transversetemporal,ctx-lh-transversetemporal,Left,transversetemporal
+Oscillatory neural dynamics,"MEG, alpha",33,0.26670414,ctx-lh-insula,ctx-lh-insula,Left,insula
+Oscillatory neural dynamics,"MEG, alpha",34,0.3456952,ctx-rh-bankssts,ctx-rh-bankssts,Right,bankssts
+Oscillatory neural dynamics,"MEG, alpha",35,0.21648231,ctx-rh-caudalanteriorcingulate,ctx-rh-caudalanteriorcingulate,Right,caudalanteriorcingulate
+Oscillatory neural dynamics,"MEG, alpha",36,0.2175629,ctx-rh-caudalmiddlefrontal,ctx-rh-caudalmiddlefrontal,Right,caudalmiddlefrontal
+Oscillatory neural dynamics,"MEG, alpha",37,0.43048903,ctx-rh-cuneus,ctx-rh-cuneus,Right,cuneus
+Oscillatory neural dynamics,"MEG, alpha",38,0.22130182,ctx-rh-entorhinal,ctx-rh-entorhinal,Right,entorhinal
+Oscillatory neural dynamics,"MEG, alpha",39,0.33498594,ctx-rh-fusiform,ctx-rh-fusiform,Right,fusiform
+Oscillatory neural dynamics,"MEG, alpha",40,0.36743328,ctx-rh-inferiorparietal,ctx-rh-inferiorparietal,Right,inferiorparietal
+Oscillatory neural dynamics,"MEG, alpha",41,0.30866787,ctx-rh-inferiortemporal,ctx-rh-inferiortemporal,Right,inferiortemporal
+Oscillatory neural dynamics,"MEG, alpha",42,0.3157021,ctx-rh-isthmuscingulate,ctx-rh-isthmuscingulate,Right,isthmuscingulate
+Oscillatory neural dynamics,"MEG, alpha",43,0.39362076,ctx-rh-lateraloccipital,ctx-rh-lateraloccipital,Right,lateraloccipital
+Oscillatory neural dynamics,"MEG, alpha",44,0.215813,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,Right,lateralorbitofrontal
+Oscillatory neural dynamics,"MEG, alpha",45,0.36208987,ctx-rh-lingual,ctx-rh-lingual,Right,lingual
+Oscillatory neural dynamics,"MEG, alpha",46,0.1889998,ctx-rh-medialorbitofrontal,ctx-rh-medialorbitofrontal,Right,medialorbitofrontal
+Oscillatory neural dynamics,"MEG, alpha",47,0.3105381,ctx-rh-middletemporal,ctx-rh-middletemporal,Right,middletemporal
+Oscillatory neural dynamics,"MEG, alpha",48,0.32422012,ctx-rh-parahippocampal,ctx-rh-parahippocampal,Right,parahippocampal
+Oscillatory neural dynamics,"MEG, alpha",49,0.2889567,ctx-rh-paracentral,ctx-rh-paracentral,Right,paracentral
+Oscillatory neural dynamics,"MEG, alpha",50,0.22977714,ctx-rh-parsopercularis,ctx-rh-parsopercularis,Right,parsopercularis
+Oscillatory neural dynamics,"MEG, alpha",51,0.20279253,ctx-rh-parsorbitalis,ctx-rh-parsorbitalis,Right,parsorbitalis
+Oscillatory neural dynamics,"MEG, alpha",52,0.2156787,ctx-rh-parstriangularis,ctx-rh-parstriangularis,Right,parstriangularis
+Oscillatory neural dynamics,"MEG, alpha",53,0.40870017,ctx-rh-pericalcarine,ctx-rh-pericalcarine,Right,pericalcarine
+Oscillatory neural dynamics,"MEG, alpha",54,0.31057522,ctx-rh-postcentral,ctx-rh-postcentral,Right,postcentral
+Oscillatory neural dynamics,"MEG, alpha",55,0.26219115,ctx-rh-posteriorcingulate,ctx-rh-posteriorcingulate,Right,posteriorcingulate
+Oscillatory neural dynamics,"MEG, alpha",56,0.27063993,ctx-rh-precentral,ctx-rh-precentral,Right,precentral
+Oscillatory neural dynamics,"MEG, alpha",57,0.3630352,ctx-rh-precuneus,ctx-rh-precuneus,Right,precuneus
+Oscillatory neural dynamics,"MEG, alpha",58,0.16955486,ctx-rh-rostralanteriorcingulate,ctx-rh-rostralanteriorcingulate,Right,rostralanteriorcingulate
+Oscillatory neural dynamics,"MEG, alpha",59,0.1929345,ctx-rh-rostralmiddlefrontal,ctx-rh-rostralmiddlefrontal,Right,rostralmiddlefrontal
+Oscillatory neural dynamics,"MEG, alpha",60,0.20439735,ctx-rh-superiorfrontal,ctx-rh-superiorfrontal,Right,superiorfrontal
+Oscillatory neural dynamics,"MEG, alpha",61,0.37221217,ctx-rh-superiorparietal,ctx-rh-superiorparietal,Right,superiorparietal
+Oscillatory neural dynamics,"MEG, alpha",62,0.2970052,ctx-rh-superiortemporal,ctx-rh-superiortemporal,Right,superiortemporal
+Oscillatory neural dynamics,"MEG, alpha",63,0.3298109,ctx-rh-supramarginal,ctx-rh-supramarginal,Right,supramarginal
+Oscillatory neural dynamics,"MEG, alpha",64,0.17958044,ctx-rh-frontalpole,ctx-rh-frontalpole,Right,frontalpole
+Oscillatory neural dynamics,"MEG, alpha",65,0.15708007,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
+Oscillatory neural dynamics,"MEG, alpha",66,0.3274653,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
+Oscillatory neural dynamics,"MEG, alpha",67,0.27295095,ctx-rh-insula,ctx-rh-insula,Right,insula
+Oscillatory neural dynamics,"MEG, beta",0,0.08812334,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
+Oscillatory neural dynamics,"MEG, beta",1,0.09798927,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
+Oscillatory neural dynamics,"MEG, beta",2,0.1094101,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
+Oscillatory neural dynamics,"MEG, beta",3,0.086328164,ctx-lh-cuneus,ctx-lh-cuneus,Left,cuneus
+Oscillatory neural dynamics,"MEG, beta",4,0.059063263,ctx-lh-entorhinal,ctx-lh-entorhinal,Left,entorhinal
+Oscillatory neural dynamics,"MEG, beta",5,0.082169,ctx-lh-fusiform,ctx-lh-fusiform,Left,fusiform
+Oscillatory neural dynamics,"MEG, beta",6,0.09882364,ctx-lh-inferiorparietal,ctx-lh-inferiorparietal,Left,inferiorparietal
+Oscillatory neural dynamics,"MEG, beta",7,0.08145264,ctx-lh-inferiortemporal,ctx-lh-inferiortemporal,Left,inferiortemporal
+Oscillatory neural dynamics,"MEG, beta",8,0.09769342,ctx-lh-isthmuscingulate,ctx-lh-isthmuscingulate,Left,isthmuscingulate
+Oscillatory neural dynamics,"MEG, beta",9,0.08420082,ctx-lh-lateraloccipital,ctx-lh-lateraloccipital,Left,lateraloccipital
+Oscillatory neural dynamics,"MEG, beta",10,0.08695589,ctx-lh-lateralorbitofrontal,ctx-lh-lateralorbitofrontal,Left,lateralorbitofrontal
+Oscillatory neural dynamics,"MEG, beta",11,0.08226111,ctx-lh-lingual,ctx-lh-lingual,Left,lingual
+Oscillatory neural dynamics,"MEG, beta",12,0.07782561,ctx-lh-medialorbitofrontal,ctx-lh-medialorbitofrontal,Left,medialorbitofrontal
+Oscillatory neural dynamics,"MEG, beta",13,0.08232174,ctx-lh-middletemporal,ctx-lh-middletemporal,Left,middletemporal
+Oscillatory neural dynamics,"MEG, beta",14,0.084875725,ctx-lh-parahippocampal,ctx-lh-parahippocampal,Left,parahippocampal
+Oscillatory neural dynamics,"MEG, beta",15,0.119900145,ctx-lh-paracentral,ctx-lh-paracentral,Left,paracentral
+Oscillatory neural dynamics,"MEG, beta",16,0.10350663,ctx-lh-parsopercularis,ctx-lh-parsopercularis,Left,parsopercularis
+Oscillatory neural dynamics,"MEG, beta",17,0.09291528,ctx-lh-parsorbitalis,ctx-lh-parsorbitalis,Left,parsorbitalis
+Oscillatory neural dynamics,"MEG, beta",18,0.09755276,ctx-lh-parstriangularis,ctx-lh-parstriangularis,Left,parstriangularis
+Oscillatory neural dynamics,"MEG, beta",19,0.08107871,ctx-lh-pericalcarine,ctx-lh-pericalcarine,Left,pericalcarine
+Oscillatory neural dynamics,"MEG, beta",20,0.12036561,ctx-lh-postcentral,ctx-lh-postcentral,Left,postcentral
+Oscillatory neural dynamics,"MEG, beta",21,0.108171865,ctx-lh-posteriorcingulate,ctx-lh-posteriorcingulate,Left,posteriorcingulate
+Oscillatory neural dynamics,"MEG, beta",22,0.1172683,ctx-lh-precentral,ctx-lh-precentral,Left,precentral
+Oscillatory neural dynamics,"MEG, beta",23,0.101823516,ctx-lh-precuneus,ctx-lh-precuneus,Left,precuneus
+Oscillatory neural dynamics,"MEG, beta",24,0.07702758,ctx-lh-rostralanteriorcingulate,ctx-lh-rostralanteriorcingulate,Left,rostralanteriorcingulate
+Oscillatory neural dynamics,"MEG, beta",25,0.09868827,ctx-lh-rostralmiddlefrontal,ctx-lh-rostralmiddlefrontal,Left,rostralmiddlefrontal
+Oscillatory neural dynamics,"MEG, beta",26,0.104501046,ctx-lh-superiorfrontal,ctx-lh-superiorfrontal,Left,superiorfrontal
+Oscillatory neural dynamics,"MEG, beta",27,0.11084835,ctx-lh-superiorparietal,ctx-lh-superiorparietal,Left,superiorparietal
+Oscillatory neural dynamics,"MEG, beta",28,0.084528126,ctx-lh-superiortemporal,ctx-lh-superiortemporal,Left,superiortemporal
+Oscillatory neural dynamics,"MEG, beta",29,0.10992354,ctx-lh-supramarginal,ctx-lh-supramarginal,Left,supramarginal
+Oscillatory neural dynamics,"MEG, beta",30,0.09312955,ctx-lh-frontalpole,ctx-lh-frontalpole,Left,frontalpole
+Oscillatory neural dynamics,"MEG, beta",31,0.05468121,ctx-lh-temporalpole,ctx-lh-temporalpole,Left,temporalpole
+Oscillatory neural dynamics,"MEG, beta",32,0.08837366,ctx-lh-transversetemporal,ctx-lh-transversetemporal,Left,transversetemporal
+Oscillatory neural dynamics,"MEG, beta",33,0.0905491,ctx-lh-insula,ctx-lh-insula,Left,insula
+Oscillatory neural dynamics,"MEG, beta",34,0.090907484,ctx-rh-bankssts,ctx-rh-bankssts,Right,bankssts
+Oscillatory neural dynamics,"MEG, beta",35,0.09802204,ctx-rh-caudalanteriorcingulate,ctx-rh-caudalanteriorcingulate,Right,caudalanteriorcingulate
+Oscillatory neural dynamics,"MEG, beta",36,0.11175652,ctx-rh-caudalmiddlefrontal,ctx-rh-caudalmiddlefrontal,Right,caudalmiddlefrontal
+Oscillatory neural dynamics,"MEG, beta",37,0.08469711,ctx-rh-cuneus,ctx-rh-cuneus,Right,cuneus
+Oscillatory neural dynamics,"MEG, beta",38,0.06308333,ctx-rh-entorhinal,ctx-rh-entorhinal,Right,entorhinal
+Oscillatory neural dynamics,"MEG, beta",39,0.08285507,ctx-rh-fusiform,ctx-rh-fusiform,Right,fusiform
+Oscillatory neural dynamics,"MEG, beta",40,0.10099928,ctx-rh-inferiorparietal,ctx-rh-inferiorparietal,Right,inferiorparietal
+Oscillatory neural dynamics,"MEG, beta",41,0.082399644,ctx-rh-inferiortemporal,ctx-rh-inferiortemporal,Right,inferiortemporal
+Oscillatory neural dynamics,"MEG, beta",42,0.09705757,ctx-rh-isthmuscingulate,ctx-rh-isthmuscingulate,Right,isthmuscingulate
+Oscillatory neural dynamics,"MEG, beta",43,0.08441001,ctx-rh-lateraloccipital,ctx-rh-lateraloccipital,Right,lateraloccipital
+Oscillatory neural dynamics,"MEG, beta",44,0.08636345,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,Right,lateralorbitofrontal
+Oscillatory neural dynamics,"MEG, beta",45,0.08198092,ctx-rh-lingual,ctx-rh-lingual,Right,lingual
+Oscillatory neural dynamics,"MEG, beta",46,0.08129782,ctx-rh-medialorbitofrontal,ctx-rh-medialorbitofrontal,Right,medialorbitofrontal
+Oscillatory neural dynamics,"MEG, beta",47,0.08478915,ctx-rh-middletemporal,ctx-rh-middletemporal,Right,middletemporal
+Oscillatory neural dynamics,"MEG, beta",48,0.0843065,ctx-rh-parahippocampal,ctx-rh-parahippocampal,Right,parahippocampal
+Oscillatory neural dynamics,"MEG, beta",49,0.118387334,ctx-rh-paracentral,ctx-rh-paracentral,Right,paracentral
+Oscillatory neural dynamics,"MEG, beta",50,0.10635434,ctx-rh-parsopercularis,ctx-rh-parsopercularis,Right,parsopercularis
+Oscillatory neural dynamics,"MEG, beta",51,0.09623728,ctx-rh-parsorbitalis,ctx-rh-parsorbitalis,Right,parsorbitalis
+Oscillatory neural dynamics,"MEG, beta",52,0.1021079,ctx-rh-parstriangularis,ctx-rh-parstriangularis,Right,parstriangularis
+Oscillatory neural dynamics,"MEG, beta",53,0.07887114,ctx-rh-pericalcarine,ctx-rh-pericalcarine,Right,pericalcarine
+Oscillatory neural dynamics,"MEG, beta",54,0.119649254,ctx-rh-postcentral,ctx-rh-postcentral,Right,postcentral
+Oscillatory neural dynamics,"MEG, beta",55,0.10615999,ctx-rh-posteriorcingulate,ctx-rh-posteriorcingulate,Right,posteriorcingulate
+Oscillatory neural dynamics,"MEG, beta",56,0.11829905,ctx-rh-precentral,ctx-rh-precentral,Right,precentral
+Oscillatory neural dynamics,"MEG, beta",57,0.10182772,ctx-rh-precuneus,ctx-rh-precuneus,Right,precuneus
+Oscillatory neural dynamics,"MEG, beta",58,0.0807178,ctx-rh-rostralanteriorcingulate,ctx-rh-rostralanteriorcingulate,Right,rostralanteriorcingulate
+Oscillatory neural dynamics,"MEG, beta",59,0.101914,ctx-rh-rostralmiddlefrontal,ctx-rh-rostralmiddlefrontal,Right,rostralmiddlefrontal
+Oscillatory neural dynamics,"MEG, beta",60,0.10453114,ctx-rh-superiorfrontal,ctx-rh-superiorfrontal,Right,superiorfrontal
+Oscillatory neural dynamics,"MEG, beta",61,0.11073065,ctx-rh-superiorparietal,ctx-rh-superiorparietal,Right,superiorparietal
+Oscillatory neural dynamics,"MEG, beta",62,0.08735967,ctx-rh-superiortemporal,ctx-rh-superiortemporal,Right,superiortemporal
+Oscillatory neural dynamics,"MEG, beta",63,0.11328076,ctx-rh-supramarginal,ctx-rh-supramarginal,Right,supramarginal
+Oscillatory neural dynamics,"MEG, beta",64,0.09307079,ctx-rh-frontalpole,ctx-rh-frontalpole,Right,frontalpole
+Oscillatory neural dynamics,"MEG, beta",65,0.05149885,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
+Oscillatory neural dynamics,"MEG, beta",66,0.09044421,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
+Oscillatory neural dynamics,"MEG, beta",67,0.09253648,ctx-rh-insula,ctx-rh-insula,Right,insula
+Oscillatory neural dynamics,"MEG, low gamma",0,0.016992612,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
+Oscillatory neural dynamics,"MEG, low gamma",1,0.022837156,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
+Oscillatory neural dynamics,"MEG, low gamma",2,0.024481542,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
+Oscillatory neural dynamics,"MEG, low gamma",3,0.015973814,ctx-lh-cuneus,ctx-lh-cuneus,Left,cuneus
+Oscillatory neural dynamics,"MEG, low gamma",4,0.016669368,ctx-lh-entorhinal,ctx-lh-entorhinal,Left,entorhinal
+Oscillatory neural dynamics,"MEG, low gamma",5,0.02003924,ctx-lh-fusiform,ctx-lh-fusiform,Left,fusiform
+Oscillatory neural dynamics,"MEG, low gamma",6,0.017217029,ctx-lh-inferiorparietal,ctx-lh-inferiorparietal,Left,inferiorparietal
+Oscillatory neural dynamics,"MEG, low gamma",7,0.02129009,ctx-lh-inferiortemporal,ctx-lh-inferiortemporal,Left,inferiortemporal
+Oscillatory neural dynamics,"MEG, low gamma",8,0.022621134,ctx-lh-isthmuscingulate,ctx-lh-isthmuscingulate,Left,isthmuscingulate
+Oscillatory neural dynamics,"MEG, low gamma",9,0.018401662,ctx-lh-lateraloccipital,ctx-lh-lateraloccipital,Left,lateraloccipital
+Oscillatory neural dynamics,"MEG, low gamma",10,0.026225261,ctx-lh-lateralorbitofrontal,ctx-lh-lateralorbitofrontal,Left,lateralorbitofrontal
+Oscillatory neural dynamics,"MEG, low gamma",11,0.017644787,ctx-lh-lingual,ctx-lh-lingual,Left,lingual
+Oscillatory neural dynamics,"MEG, low gamma",12,0.024194391,ctx-lh-medialorbitofrontal,ctx-lh-medialorbitofrontal,Left,medialorbitofrontal
+Oscillatory neural dynamics,"MEG, low gamma",13,0.020761218,ctx-lh-middletemporal,ctx-lh-middletemporal,Left,middletemporal
+Oscillatory neural dynamics,"MEG, low gamma",14,0.021077676,ctx-lh-parahippocampal,ctx-lh-parahippocampal,Left,parahippocampal
+Oscillatory neural dynamics,"MEG, low gamma",15,0.023916934,ctx-lh-paracentral,ctx-lh-paracentral,Left,paracentral
+Oscillatory neural dynamics,"MEG, low gamma",16,0.02590345,ctx-lh-parsopercularis,ctx-lh-parsopercularis,Left,parsopercularis
+Oscillatory neural dynamics,"MEG, low gamma",17,0.030882478,ctx-lh-parsorbitalis,ctx-lh-parsorbitalis,Left,parsorbitalis
+Oscillatory neural dynamics,"MEG, low gamma",18,0.028017832,ctx-lh-parstriangularis,ctx-lh-parstriangularis,Left,parstriangularis
+Oscillatory neural dynamics,"MEG, low gamma",19,0.015342169,ctx-lh-pericalcarine,ctx-lh-pericalcarine,Left,pericalcarine
+Oscillatory neural dynamics,"MEG, low gamma",20,0.022441188,ctx-lh-postcentral,ctx-lh-postcentral,Left,postcentral
+Oscillatory neural dynamics,"MEG, low gamma",21,0.025618672,ctx-lh-posteriorcingulate,ctx-lh-posteriorcingulate,Left,posteriorcingulate
+Oscillatory neural dynamics,"MEG, low gamma",22,0.023985676,ctx-lh-precentral,ctx-lh-precentral,Left,precentral
+Oscillatory neural dynamics,"MEG, low gamma",23,0.019055506,ctx-lh-precuneus,ctx-lh-precuneus,Left,precuneus
+Oscillatory neural dynamics,"MEG, low gamma",24,0.02018686,ctx-lh-rostralanteriorcingulate,ctx-lh-rostralanteriorcingulate,Left,rostralanteriorcingulate
+Oscillatory neural dynamics,"MEG, low gamma",25,0.029386714,ctx-lh-rostralmiddlefrontal,ctx-lh-rostralmiddlefrontal,Left,rostralmiddlefrontal
+Oscillatory neural dynamics,"MEG, low gamma",26,0.026490288,ctx-lh-superiorfrontal,ctx-lh-superiorfrontal,Left,superiorfrontal
+Oscillatory neural dynamics,"MEG, low gamma",27,0.01923486,ctx-lh-superiorparietal,ctx-lh-superiorparietal,Left,superiorparietal
+Oscillatory neural dynamics,"MEG, low gamma",28,0.019591305,ctx-lh-superiortemporal,ctx-lh-superiortemporal,Left,superiortemporal
+Oscillatory neural dynamics,"MEG, low gamma",29,0.019275462,ctx-lh-supramarginal,ctx-lh-supramarginal,Left,supramarginal
+Oscillatory neural dynamics,"MEG, low gamma",30,0.035651237,ctx-lh-frontalpole,ctx-lh-frontalpole,Left,frontalpole
+Oscillatory neural dynamics,"MEG, low gamma",31,0.018316405,ctx-lh-temporalpole,ctx-lh-temporalpole,Left,temporalpole
+Oscillatory neural dynamics,"MEG, low gamma",32,0.017245974,ctx-lh-transversetemporal,ctx-lh-transversetemporal,Left,transversetemporal
+Oscillatory neural dynamics,"MEG, low gamma",33,0.023308715,ctx-lh-insula,ctx-lh-insula,Left,insula
+Oscillatory neural dynamics,"MEG, low gamma",34,0.016874379,ctx-rh-bankssts,ctx-rh-bankssts,Right,bankssts
+Oscillatory neural dynamics,"MEG, low gamma",35,0.023332931,ctx-rh-caudalanteriorcingulate,ctx-rh-caudalanteriorcingulate,Right,caudalanteriorcingulate
+Oscillatory neural dynamics,"MEG, low gamma",36,0.025525892,ctx-rh-caudalmiddlefrontal,ctx-rh-caudalmiddlefrontal,Right,caudalmiddlefrontal
+Oscillatory neural dynamics,"MEG, low gamma",37,0.015823567,ctx-rh-cuneus,ctx-rh-cuneus,Right,cuneus
+Oscillatory neural dynamics,"MEG, low gamma",38,0.018567778,ctx-rh-entorhinal,ctx-rh-entorhinal,Right,entorhinal
+Oscillatory neural dynamics,"MEG, low gamma",39,0.0201203,ctx-rh-fusiform,ctx-rh-fusiform,Right,fusiform
+Oscillatory neural dynamics,"MEG, low gamma",40,0.017056204,ctx-rh-inferiorparietal,ctx-rh-inferiorparietal,Right,inferiorparietal
+Oscillatory neural dynamics,"MEG, low gamma",41,0.022445878,ctx-rh-inferiortemporal,ctx-rh-inferiortemporal,Right,inferiortemporal
+Oscillatory neural dynamics,"MEG, low gamma",42,0.022357037,ctx-rh-isthmuscingulate,ctx-rh-isthmuscingulate,Right,isthmuscingulate
+Oscillatory neural dynamics,"MEG, low gamma",43,0.017505953,ctx-rh-lateraloccipital,ctx-rh-lateraloccipital,Right,lateraloccipital
+Oscillatory neural dynamics,"MEG, low gamma",44,0.026975477,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,Right,lateralorbitofrontal
+Oscillatory neural dynamics,"MEG, low gamma",45,0.01736176,ctx-rh-lingual,ctx-rh-lingual,Right,lingual
+Oscillatory neural dynamics,"MEG, low gamma",46,0.025513427,ctx-rh-medialorbitofrontal,ctx-rh-medialorbitofrontal,Right,medialorbitofrontal
+Oscillatory neural dynamics,"MEG, low gamma",47,0.021698384,ctx-rh-middletemporal,ctx-rh-middletemporal,Right,middletemporal
+Oscillatory neural dynamics,"MEG, low gamma",48,0.020966856,ctx-rh-parahippocampal,ctx-rh-parahippocampal,Right,parahippocampal
+Oscillatory neural dynamics,"MEG, low gamma",49,0.02368415,ctx-rh-paracentral,ctx-rh-paracentral,Right,paracentral
+Oscillatory neural dynamics,"MEG, low gamma",50,0.026834074,ctx-rh-parsopercularis,ctx-rh-parsopercularis,Right,parsopercularis
+Oscillatory neural dynamics,"MEG, low gamma",51,0.033002116,ctx-rh-parsorbitalis,ctx-rh-parsorbitalis,Right,parsorbitalis
+Oscillatory neural dynamics,"MEG, low gamma",52,0.029929236,ctx-rh-parstriangularis,ctx-rh-parstriangularis,Right,parstriangularis
+Oscillatory neural dynamics,"MEG, low gamma",53,0.014906201,ctx-rh-pericalcarine,ctx-rh-pericalcarine,Right,pericalcarine
+Oscillatory neural dynamics,"MEG, low gamma",54,0.022705222,ctx-rh-postcentral,ctx-rh-postcentral,Right,postcentral
+Oscillatory neural dynamics,"MEG, low gamma",55,0.025214143,ctx-rh-posteriorcingulate,ctx-rh-posteriorcingulate,Right,posteriorcingulate
+Oscillatory neural dynamics,"MEG, low gamma",56,0.02472969,ctx-rh-precentral,ctx-rh-precentral,Right,precentral
+Oscillatory neural dynamics,"MEG, low gamma",57,0.019246472,ctx-rh-precuneus,ctx-rh-precuneus,Right,precuneus
+Oscillatory neural dynamics,"MEG, low gamma",58,0.02100016,ctx-rh-rostralanteriorcingulate,ctx-rh-rostralanteriorcingulate,Right,rostralanteriorcingulate
+Oscillatory neural dynamics,"MEG, low gamma",59,0.031702165,ctx-rh-rostralmiddlefrontal,ctx-rh-rostralmiddlefrontal,Right,rostralmiddlefrontal
+Oscillatory neural dynamics,"MEG, low gamma",60,0.026913688,ctx-rh-superiorfrontal,ctx-rh-superiorfrontal,Right,superiorfrontal
+Oscillatory neural dynamics,"MEG, low gamma",61,0.01944845,ctx-rh-superiorparietal,ctx-rh-superiorparietal,Right,superiorparietal
+Oscillatory neural dynamics,"MEG, low gamma",62,0.021003503,ctx-rh-superiortemporal,ctx-rh-superiortemporal,Right,superiortemporal
+Oscillatory neural dynamics,"MEG, low gamma",63,0.019358857,ctx-rh-supramarginal,ctx-rh-supramarginal,Right,supramarginal
+Oscillatory neural dynamics,"MEG, low gamma",64,0.036575906,ctx-rh-frontalpole,ctx-rh-frontalpole,Right,frontalpole
+Oscillatory neural dynamics,"MEG, low gamma",65,0.017515237,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
+Oscillatory neural dynamics,"MEG, low gamma",66,0.017233739,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
+Oscillatory neural dynamics,"MEG, low gamma",67,0.024586758,ctx-rh-insula,ctx-rh-insula,Right,insula
+Oscillatory neural dynamics,"MEG, high gamma",0,0.010253298,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
+Oscillatory neural dynamics,"MEG, high gamma",1,0.010603816,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
+Oscillatory neural dynamics,"MEG, high gamma",2,0.010827686,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
+Oscillatory neural dynamics,"MEG, high gamma",3,0.008030304,ctx-lh-cuneus,ctx-lh-cuneus,Left,cuneus
+Oscillatory neural dynamics,"MEG, high gamma",4,0.0117785735,ctx-lh-entorhinal,ctx-lh-entorhinal,Left,entorhinal
+Oscillatory neural dynamics,"MEG, high gamma",5,0.013329405,ctx-lh-fusiform,ctx-lh-fusiform,Left,fusiform
+Oscillatory neural dynamics,"MEG, high gamma",6,0.008855452,ctx-lh-inferiorparietal,ctx-lh-inferiorparietal,Left,inferiorparietal
+Oscillatory neural dynamics,"MEG, high gamma",7,0.015135032,ctx-lh-inferiortemporal,ctx-lh-inferiortemporal,Left,inferiortemporal
+Oscillatory neural dynamics,"MEG, high gamma",8,0.012544921,ctx-lh-isthmuscingulate,ctx-lh-isthmuscingulate,Left,isthmuscingulate
+Oscillatory neural dynamics,"MEG, high gamma",9,0.010762327,ctx-lh-lateraloccipital,ctx-lh-lateraloccipital,Left,lateraloccipital
+Oscillatory neural dynamics,"MEG, high gamma",10,0.016504114,ctx-lh-lateralorbitofrontal,ctx-lh-lateralorbitofrontal,Left,lateralorbitofrontal
+Oscillatory neural dynamics,"MEG, high gamma",11,0.010288393,ctx-lh-lingual,ctx-lh-lingual,Left,lingual
+Oscillatory neural dynamics,"MEG, high gamma",12,0.014848383,ctx-lh-medialorbitofrontal,ctx-lh-medialorbitofrontal,Left,medialorbitofrontal
+Oscillatory neural dynamics,"MEG, high gamma",13,0.014514913,ctx-lh-middletemporal,ctx-lh-middletemporal,Left,middletemporal
+Oscillatory neural dynamics,"MEG, high gamma",14,0.014056231,ctx-lh-parahippocampal,ctx-lh-parahippocampal,Left,parahippocampal
+Oscillatory neural dynamics,"MEG, high gamma",15,0.008789993,ctx-lh-paracentral,ctx-lh-paracentral,Left,paracentral
+Oscillatory neural dynamics,"MEG, high gamma",16,0.0144488625,ctx-lh-parsopercularis,ctx-lh-parsopercularis,Left,parsopercularis
+Oscillatory neural dynamics,"MEG, high gamma",17,0.01995937,ctx-lh-parsorbitalis,ctx-lh-parsorbitalis,Left,parsorbitalis
+Oscillatory neural dynamics,"MEG, high gamma",18,0.016559968,ctx-lh-parstriangularis,ctx-lh-parstriangularis,Left,parstriangularis
+Oscillatory neural dynamics,"MEG, high gamma",19,0.008009994,ctx-lh-pericalcarine,ctx-lh-pericalcarine,Left,pericalcarine
+Oscillatory neural dynamics,"MEG, high gamma",20,0.010101408,ctx-lh-postcentral,ctx-lh-postcentral,Left,postcentral
+Oscillatory neural dynamics,"MEG, high gamma",21,0.012827582,ctx-lh-posteriorcingulate,ctx-lh-posteriorcingulate,Left,posteriorcingulate
+Oscillatory neural dynamics,"MEG, high gamma",22,0.010690972,ctx-lh-precentral,ctx-lh-precentral,Left,precentral
+Oscillatory neural dynamics,"MEG, high gamma",23,0.00843834,ctx-lh-precuneus,ctx-lh-precuneus,Left,precuneus
+Oscillatory neural dynamics,"MEG, high gamma",24,0.01033545,ctx-lh-rostralanteriorcingulate,ctx-lh-rostralanteriorcingulate,Left,rostralanteriorcingulate
+Oscillatory neural dynamics,"MEG, high gamma",25,0.016740777,ctx-lh-rostralmiddlefrontal,ctx-lh-rostralmiddlefrontal,Left,rostralmiddlefrontal
+Oscillatory neural dynamics,"MEG, high gamma",26,0.01247325,ctx-lh-superiorfrontal,ctx-lh-superiorfrontal,Left,superiorfrontal
+Oscillatory neural dynamics,"MEG, high gamma",27,0.008341689,ctx-lh-superiorparietal,ctx-lh-superiorparietal,Left,superiorparietal
+Oscillatory neural dynamics,"MEG, high gamma",28,0.012620194,ctx-lh-superiortemporal,ctx-lh-superiortemporal,Left,superiortemporal
+Oscillatory neural dynamics,"MEG, high gamma",29,0.00995202,ctx-lh-supramarginal,ctx-lh-supramarginal,Left,supramarginal
+Oscillatory neural dynamics,"MEG, high gamma",30,0.023194704,ctx-lh-frontalpole,ctx-lh-frontalpole,Left,frontalpole
+Oscillatory neural dynamics,"MEG, high gamma",31,0.013523686,ctx-lh-temporalpole,ctx-lh-temporalpole,Left,temporalpole
+Oscillatory neural dynamics,"MEG, high gamma",32,0.009607714,ctx-lh-transversetemporal,ctx-lh-transversetemporal,Left,transversetemporal
+Oscillatory neural dynamics,"MEG, high gamma",33,0.01456232,ctx-lh-insula,ctx-lh-insula,Left,insula
+Oscillatory neural dynamics,"MEG, high gamma",34,0.009596298,ctx-rh-bankssts,ctx-rh-bankssts,Right,bankssts
+Oscillatory neural dynamics,"MEG, high gamma",35,0.01090746,ctx-rh-caudalanteriorcingulate,ctx-rh-caudalanteriorcingulate,Right,caudalanteriorcingulate
+Oscillatory neural dynamics,"MEG, high gamma",36,0.011229575,ctx-rh-caudalmiddlefrontal,ctx-rh-caudalmiddlefrontal,Right,caudalmiddlefrontal
+Oscillatory neural dynamics,"MEG, high gamma",37,0.008052537,ctx-rh-cuneus,ctx-rh-cuneus,Right,cuneus
+Oscillatory neural dynamics,"MEG, high gamma",38,0.013036725,ctx-rh-entorhinal,ctx-rh-entorhinal,Right,entorhinal
+Oscillatory neural dynamics,"MEG, high gamma",39,0.013135341,ctx-rh-fusiform,ctx-rh-fusiform,Right,fusiform
+Oscillatory neural dynamics,"MEG, high gamma",40,0.0083099995,ctx-rh-inferiorparietal,ctx-rh-inferiorparietal,Right,inferiorparietal
+Oscillatory neural dynamics,"MEG, high gamma",41,0.015768943,ctx-rh-inferiortemporal,ctx-rh-inferiortemporal,Right,inferiortemporal
+Oscillatory neural dynamics,"MEG, high gamma",42,0.012402222,ctx-rh-isthmuscingulate,ctx-rh-isthmuscingulate,Right,isthmuscingulate
+Oscillatory neural dynamics,"MEG, high gamma",43,0.010008902,ctx-rh-lateraloccipital,ctx-rh-lateraloccipital,Right,lateraloccipital
+Oscillatory neural dynamics,"MEG, high gamma",44,0.017102774,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,Right,lateralorbitofrontal
+Oscillatory neural dynamics,"MEG, high gamma",45,0.010033086,ctx-rh-lingual,ctx-rh-lingual,Right,lingual
+Oscillatory neural dynamics,"MEG, high gamma",46,0.0155895185,ctx-rh-medialorbitofrontal,ctx-rh-medialorbitofrontal,Right,medialorbitofrontal
+Oscillatory neural dynamics,"MEG, high gamma",47,0.014869152,ctx-rh-middletemporal,ctx-rh-middletemporal,Right,middletemporal
+Oscillatory neural dynamics,"MEG, high gamma",48,0.013861558,ctx-rh-parahippocampal,ctx-rh-parahippocampal,Right,parahippocampal
+Oscillatory neural dynamics,"MEG, high gamma",49,0.008599997,ctx-rh-paracentral,ctx-rh-paracentral,Right,paracentral
+Oscillatory neural dynamics,"MEG, high gamma",50,0.014792564,ctx-rh-parsopercularis,ctx-rh-parsopercularis,Right,parsopercularis
+Oscillatory neural dynamics,"MEG, high gamma",51,0.020983228,ctx-rh-parsorbitalis,ctx-rh-parsorbitalis,Right,parsorbitalis
+Oscillatory neural dynamics,"MEG, high gamma",52,0.017709898,ctx-rh-parstriangularis,ctx-rh-parstriangularis,Right,parstriangularis
+Oscillatory neural dynamics,"MEG, high gamma",53,0.007873868,ctx-rh-pericalcarine,ctx-rh-pericalcarine,Right,pericalcarine
+Oscillatory neural dynamics,"MEG, high gamma",54,0.009789678,ctx-rh-postcentral,ctx-rh-postcentral,Right,postcentral
+Oscillatory neural dynamics,"MEG, high gamma",55,0.012564855,ctx-rh-posteriorcingulate,ctx-rh-posteriorcingulate,Right,posteriorcingulate
+Oscillatory neural dynamics,"MEG, high gamma",56,0.010571554,ctx-rh-precentral,ctx-rh-precentral,Right,precentral
+Oscillatory neural dynamics,"MEG, high gamma",57,0.008475842,ctx-rh-precuneus,ctx-rh-precuneus,Right,precuneus
+Oscillatory neural dynamics,"MEG, high gamma",58,0.010660091,ctx-rh-rostralanteriorcingulate,ctx-rh-rostralanteriorcingulate,Right,rostralanteriorcingulate
+Oscillatory neural dynamics,"MEG, high gamma",59,0.017997628,ctx-rh-rostralmiddlefrontal,ctx-rh-rostralmiddlefrontal,Right,rostralmiddlefrontal
+Oscillatory neural dynamics,"MEG, high gamma",60,0.01265602,ctx-rh-superiorfrontal,ctx-rh-superiorfrontal,Right,superiorfrontal
+Oscillatory neural dynamics,"MEG, high gamma",61,0.0081722895,ctx-rh-superiorparietal,ctx-rh-superiorparietal,Right,superiorparietal
+Oscillatory neural dynamics,"MEG, high gamma",62,0.013479326,ctx-rh-superiortemporal,ctx-rh-superiortemporal,Right,superiortemporal
+Oscillatory neural dynamics,"MEG, high gamma",63,0.009252283,ctx-rh-supramarginal,ctx-rh-supramarginal,Right,supramarginal
+Oscillatory neural dynamics,"MEG, high gamma",64,0.024154903,ctx-rh-frontalpole,ctx-rh-frontalpole,Right,frontalpole
+Oscillatory neural dynamics,"MEG, high gamma",65,0.012718842,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
+Oscillatory neural dynamics,"MEG, high gamma",66,0.009187552,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
+Oscillatory neural dynamics,"MEG, high gamma",67,0.015382761,ctx-rh-insula,ctx-rh-insula,Right,insula
+Oscillatory neural dynamics,"MEG, delta",0,0.29911527,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
+Oscillatory neural dynamics,"MEG, delta",1,0.32710478,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
+Oscillatory neural dynamics,"MEG, delta",2,0.341331,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
+Oscillatory neural dynamics,"MEG, delta",3,0.2579118,ctx-lh-cuneus,ctx-lh-cuneus,Left,cuneus
+Oscillatory neural dynamics,"MEG, delta",4,0.2563444,ctx-lh-entorhinal,ctx-lh-entorhinal,Left,entorhinal
+Oscillatory neural dynamics,"MEG, delta",5,0.32005236,ctx-lh-fusiform,ctx-lh-fusiform,Left,fusiform
+Oscillatory neural dynamics,"MEG, delta",6,0.27612743,ctx-lh-inferiorparietal,ctx-lh-inferiorparietal,Left,inferiorparietal
+Oscillatory neural dynamics,"MEG, delta",7,0.33088768,ctx-lh-inferiortemporal,ctx-lh-inferiortemporal,Left,inferiortemporal
+Oscillatory neural dynamics,"MEG, delta",8,0.30699113,ctx-lh-isthmuscingulate,ctx-lh-isthmuscingulate,Left,isthmuscingulate
+Oscillatory neural dynamics,"MEG, delta",9,0.28505751,ctx-lh-lateraloccipital,ctx-lh-lateraloccipital,Left,lateraloccipital
+Oscillatory neural dynamics,"MEG, delta",10,0.3788935,ctx-lh-lateralorbitofrontal,ctx-lh-lateralorbitofrontal,Left,lateralorbitofrontal
+Oscillatory neural dynamics,"MEG, delta",11,0.30759197,ctx-lh-lingual,ctx-lh-lingual,Left,lingual
+Oscillatory neural dynamics,"MEG, delta",12,0.34613717,ctx-lh-medialorbitofrontal,ctx-lh-medialorbitofrontal,Left,medialorbitofrontal
+Oscillatory neural dynamics,"MEG, delta",13,0.32811245,ctx-lh-middletemporal,ctx-lh-middletemporal,Left,middletemporal
+Oscillatory neural dynamics,"MEG, delta",14,0.32199353,ctx-lh-parahippocampal,ctx-lh-parahippocampal,Left,parahippocampal
+Oscillatory neural dynamics,"MEG, delta",15,0.2880139,ctx-lh-paracentral,ctx-lh-paracentral,Left,paracentral
+Oscillatory neural dynamics,"MEG, delta",16,0.35223812,ctx-lh-parsopercularis,ctx-lh-parsopercularis,Left,parsopercularis
+Oscillatory neural dynamics,"MEG, delta",17,0.38291362,ctx-lh-parsorbitalis,ctx-lh-parsorbitalis,Left,parsorbitalis
+Oscillatory neural dynamics,"MEG, delta",18,0.3688737,ctx-lh-parstriangularis,ctx-lh-parstriangularis,Left,parstriangularis
+Oscillatory neural dynamics,"MEG, delta",19,0.2798648,ctx-lh-pericalcarine,ctx-lh-pericalcarine,Left,pericalcarine
+Oscillatory neural dynamics,"MEG, delta",20,0.28308913,ctx-lh-postcentral,ctx-lh-postcentral,Left,postcentral
+Oscillatory neural dynamics,"MEG, delta",21,0.3024743,ctx-lh-posteriorcingulate,ctx-lh-posteriorcingulate,Left,posteriorcingulate
+Oscillatory neural dynamics,"MEG, delta",22,0.30630895,ctx-lh-precentral,ctx-lh-precentral,Left,precentral
+Oscillatory neural dynamics,"MEG, delta",23,0.27076775,ctx-lh-precuneus,ctx-lh-precuneus,Left,precuneus
+Oscillatory neural dynamics,"MEG, delta",24,0.30295774,ctx-lh-rostralanteriorcingulate,ctx-lh-rostralanteriorcingulate,Left,rostralanteriorcingulate
+Oscillatory neural dynamics,"MEG, delta",25,0.37305558,ctx-lh-rostralmiddlefrontal,ctx-lh-rostralmiddlefrontal,Left,rostralmiddlefrontal
+Oscillatory neural dynamics,"MEG, delta",26,0.34447142,ctx-lh-superiorfrontal,ctx-lh-superiorfrontal,Left,superiorfrontal
+Oscillatory neural dynamics,"MEG, delta",27,0.25652716,ctx-lh-superiorparietal,ctx-lh-superiorparietal,Left,superiorparietal
+Oscillatory neural dynamics,"MEG, delta",28,0.3174841,ctx-lh-superiortemporal,ctx-lh-superiortemporal,Left,superiortemporal
+Oscillatory neural dynamics,"MEG, delta",29,0.28420538,ctx-lh-supramarginal,ctx-lh-supramarginal,Left,supramarginal
+Oscillatory neural dynamics,"MEG, delta",30,0.3890363,ctx-lh-frontalpole,ctx-lh-frontalpole,Left,frontalpole
+Oscillatory neural dynamics,"MEG, delta",31,0.26692656,ctx-lh-temporalpole,ctx-lh-temporalpole,Left,temporalpole
+Oscillatory neural dynamics,"MEG, delta",32,0.3125722,ctx-lh-transversetemporal,ctx-lh-transversetemporal,Left,transversetemporal
+Oscillatory neural dynamics,"MEG, delta",33,0.32640684,ctx-lh-insula,ctx-lh-insula,Left,insula
+Oscillatory neural dynamics,"MEG, delta",34,0.30072105,ctx-rh-bankssts,ctx-rh-bankssts,Right,bankssts
+Oscillatory neural dynamics,"MEG, delta",35,0.33349732,ctx-rh-caudalanteriorcingulate,ctx-rh-caudalanteriorcingulate,Right,caudalanteriorcingulate
+Oscillatory neural dynamics,"MEG, delta",36,0.3371598,ctx-rh-caudalmiddlefrontal,ctx-rh-caudalmiddlefrontal,Right,caudalmiddlefrontal
+Oscillatory neural dynamics,"MEG, delta",37,0.25593773,ctx-rh-cuneus,ctx-rh-cuneus,Right,cuneus
+Oscillatory neural dynamics,"MEG, delta",38,0.27239072,ctx-rh-entorhinal,ctx-rh-entorhinal,Right,entorhinal
+Oscillatory neural dynamics,"MEG, delta",39,0.3201035,ctx-rh-fusiform,ctx-rh-fusiform,Right,fusiform
+Oscillatory neural dynamics,"MEG, delta",40,0.2768003,ctx-rh-inferiorparietal,ctx-rh-inferiorparietal,Right,inferiorparietal
+Oscillatory neural dynamics,"MEG, delta",41,0.33726498,ctx-rh-inferiortemporal,ctx-rh-inferiortemporal,Right,inferiortemporal
+Oscillatory neural dynamics,"MEG, delta",42,0.3066117,ctx-rh-isthmuscingulate,ctx-rh-isthmuscingulate,Right,isthmuscingulate
+Oscillatory neural dynamics,"MEG, delta",43,0.28315255,ctx-rh-lateraloccipital,ctx-rh-lateraloccipital,Right,lateraloccipital
+Oscillatory neural dynamics,"MEG, delta",44,0.38395536,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,Right,lateralorbitofrontal
+Oscillatory neural dynamics,"MEG, delta",45,0.30517575,ctx-rh-lingual,ctx-rh-lingual,Right,lingual
+Oscillatory neural dynamics,"MEG, delta",46,0.3587078,ctx-rh-medialorbitofrontal,ctx-rh-medialorbitofrontal,Right,medialorbitofrontal
+Oscillatory neural dynamics,"MEG, delta",47,0.33386627,ctx-rh-middletemporal,ctx-rh-middletemporal,Right,middletemporal
+Oscillatory neural dynamics,"MEG, delta",48,0.32211176,ctx-rh-parahippocampal,ctx-rh-parahippocampal,Right,parahippocampal
+Oscillatory neural dynamics,"MEG, delta",49,0.29043353,ctx-rh-paracentral,ctx-rh-paracentral,Right,paracentral
+Oscillatory neural dynamics,"MEG, delta",50,0.35226408,ctx-rh-parsopercularis,ctx-rh-parsopercularis,Right,parsopercularis
+Oscillatory neural dynamics,"MEG, delta",51,0.38641632,ctx-rh-parsorbitalis,ctx-rh-parsorbitalis,Right,parsorbitalis
+Oscillatory neural dynamics,"MEG, delta",52,0.3686143,ctx-rh-parstriangularis,ctx-rh-parstriangularis,Right,parstriangularis
+Oscillatory neural dynamics,"MEG, delta",53,0.2784545,ctx-rh-pericalcarine,ctx-rh-pericalcarine,Right,pericalcarine
+Oscillatory neural dynamics,"MEG, delta",54,0.28416806,ctx-rh-postcentral,ctx-rh-postcentral,Right,postcentral
+Oscillatory neural dynamics,"MEG, delta",55,0.30096707,ctx-rh-posteriorcingulate,ctx-rh-posteriorcingulate,Right,posteriorcingulate
+Oscillatory neural dynamics,"MEG, delta",56,0.30395803,ctx-rh-precentral,ctx-rh-precentral,Right,precentral
+Oscillatory neural dynamics,"MEG, delta",57,0.27221683,ctx-rh-precuneus,ctx-rh-precuneus,Right,precuneus
+Oscillatory neural dynamics,"MEG, delta",58,0.31306633,ctx-rh-rostralanteriorcingulate,ctx-rh-rostralanteriorcingulate,Right,rostralanteriorcingulate
+Oscillatory neural dynamics,"MEG, delta",59,0.37093496,ctx-rh-rostralmiddlefrontal,ctx-rh-rostralmiddlefrontal,Right,rostralmiddlefrontal
+Oscillatory neural dynamics,"MEG, delta",60,0.34554818,ctx-rh-superiorfrontal,ctx-rh-superiorfrontal,Right,superiorfrontal
+Oscillatory neural dynamics,"MEG, delta",61,0.25611874,ctx-rh-superiorparietal,ctx-rh-superiorparietal,Right,superiorparietal
+Oscillatory neural dynamics,"MEG, delta",62,0.33374673,ctx-rh-superiortemporal,ctx-rh-superiortemporal,Right,superiortemporal
+Oscillatory neural dynamics,"MEG, delta",63,0.28578442,ctx-rh-supramarginal,ctx-rh-supramarginal,Right,supramarginal
+Oscillatory neural dynamics,"MEG, delta",64,0.3927147,ctx-rh-frontalpole,ctx-rh-frontalpole,Right,frontalpole
+Oscillatory neural dynamics,"MEG, delta",65,0.25073993,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
+Oscillatory neural dynamics,"MEG, delta",66,0.31585214,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
+Oscillatory neural dynamics,"MEG, delta",67,0.33321786,ctx-rh-insula,ctx-rh-insula,Right,insula
+Oscillatory neural dynamics,"MEG, theta",0,0.246118,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
+Oscillatory neural dynamics,"MEG, theta",1,0.2806374,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
+Oscillatory neural dynamics,"MEG, theta",2,0.30300117,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
+Oscillatory neural dynamics,"MEG, theta",3,0.20839025,ctx-lh-cuneus,ctx-lh-cuneus,Left,cuneus
+Oscillatory neural dynamics,"MEG, theta",4,0.17420784,ctx-lh-entorhinal,ctx-lh-entorhinal,Left,entorhinal
+Oscillatory neural dynamics,"MEG, theta",5,0.23722544,ctx-lh-fusiform,ctx-lh-fusiform,Left,fusiform
+Oscillatory neural dynamics,"MEG, theta",6,0.23488197,ctx-lh-inferiorparietal,ctx-lh-inferiorparietal,Left,inferiorparietal
+Oscillatory neural dynamics,"MEG, theta",7,0.24444953,ctx-lh-inferiortemporal,ctx-lh-inferiortemporal,Left,inferiortemporal
+Oscillatory neural dynamics,"MEG, theta",8,0.24764349,ctx-lh-isthmuscingulate,ctx-lh-isthmuscingulate,Left,isthmuscingulate
+Oscillatory neural dynamics,"MEG, theta",9,0.21771728,ctx-lh-lateraloccipital,ctx-lh-lateraloccipital,Left,lateraloccipital
+Oscillatory neural dynamics,"MEG, theta",10,0.26281774,ctx-lh-lateralorbitofrontal,ctx-lh-lateralorbitofrontal,Left,lateralorbitofrontal
+Oscillatory neural dynamics,"MEG, theta",11,0.22721422,ctx-lh-lingual,ctx-lh-lingual,Left,lingual
+Oscillatory neural dynamics,"MEG, theta",12,0.23947686,ctx-lh-medialorbitofrontal,ctx-lh-medialorbitofrontal,Left,medialorbitofrontal
+Oscillatory neural dynamics,"MEG, theta",13,0.24611571,ctx-lh-middletemporal,ctx-lh-middletemporal,Left,middletemporal
+Oscillatory neural dynamics,"MEG, theta",14,0.23994234,ctx-lh-parahippocampal,ctx-lh-parahippocampal,Left,parahippocampal
+Oscillatory neural dynamics,"MEG, theta",15,0.268814,ctx-lh-paracentral,ctx-lh-paracentral,Left,paracentral
+Oscillatory neural dynamics,"MEG, theta",16,0.27665427,ctx-lh-parsopercularis,ctx-lh-parsopercularis,Left,parsopercularis
+Oscillatory neural dynamics,"MEG, theta",17,0.26791912,ctx-lh-parsorbitalis,ctx-lh-parsorbitalis,Left,parsorbitalis
+Oscillatory neural dynamics,"MEG, theta",18,0.27439988,ctx-lh-parstriangularis,ctx-lh-parstriangularis,Left,parstriangularis
+Oscillatory neural dynamics,"MEG, theta",19,0.21510237,ctx-lh-pericalcarine,ctx-lh-pericalcarine,Left,pericalcarine
+Oscillatory neural dynamics,"MEG, theta",20,0.2536381,ctx-lh-postcentral,ctx-lh-postcentral,Left,postcentral
+Oscillatory neural dynamics,"MEG, theta",21,0.25950688,ctx-lh-posteriorcingulate,ctx-lh-posteriorcingulate,Left,posteriorcingulate
+Oscillatory neural dynamics,"MEG, theta",22,0.2742684,ctx-lh-precentral,ctx-lh-precentral,Left,precentral
+Oscillatory neural dynamics,"MEG, theta",23,0.23546523,ctx-lh-precuneus,ctx-lh-precuneus,Left,precuneus
+Oscillatory neural dynamics,"MEG, theta",24,0.23467956,ctx-lh-rostralanteriorcingulate,ctx-lh-rostralanteriorcingulate,Left,rostralanteriorcingulate
+Oscillatory neural dynamics,"MEG, theta",25,0.29027426,ctx-lh-rostralmiddlefrontal,ctx-lh-rostralmiddlefrontal,Left,rostralmiddlefrontal
+Oscillatory neural dynamics,"MEG, theta",26,0.30742303,ctx-lh-superiorfrontal,ctx-lh-superiorfrontal,Left,superiorfrontal
+Oscillatory neural dynamics,"MEG, theta",27,0.23321337,ctx-lh-superiorparietal,ctx-lh-superiorparietal,Left,superiorparietal
+Oscillatory neural dynamics,"MEG, theta",28,0.24092643,ctx-lh-superiortemporal,ctx-lh-superiortemporal,Left,superiortemporal
+Oscillatory neural dynamics,"MEG, theta",29,0.24949014,ctx-lh-supramarginal,ctx-lh-supramarginal,Left,supramarginal
+Oscillatory neural dynamics,"MEG, theta",30,0.27770385,ctx-lh-frontalpole,ctx-lh-frontalpole,Left,frontalpole
+Oscillatory neural dynamics,"MEG, theta",31,0.1747501,ctx-lh-temporalpole,ctx-lh-temporalpole,Left,temporalpole
+Oscillatory neural dynamics,"MEG, theta",32,0.24693674,ctx-lh-transversetemporal,ctx-lh-transversetemporal,Left,transversetemporal
+Oscillatory neural dynamics,"MEG, theta",33,0.24767907,ctx-lh-insula,ctx-lh-insula,Left,insula
+Oscillatory neural dynamics,"MEG, theta",34,0.23620558,ctx-rh-bankssts,ctx-rh-bankssts,Right,bankssts
+Oscillatory neural dynamics,"MEG, theta",35,0.28106642,ctx-rh-caudalanteriorcingulate,ctx-rh-caudalanteriorcingulate,Right,caudalanteriorcingulate
+Oscillatory neural dynamics,"MEG, theta",36,0.2967653,ctx-rh-caudalmiddlefrontal,ctx-rh-caudalmiddlefrontal,Right,caudalmiddlefrontal
+Oscillatory neural dynamics,"MEG, theta",37,0.205,ctx-rh-cuneus,ctx-rh-cuneus,Right,cuneus
+Oscillatory neural dynamics,"MEG, theta",38,0.1821296,ctx-rh-entorhinal,ctx-rh-entorhinal,Right,entorhinal
+Oscillatory neural dynamics,"MEG, theta",39,0.22879983,ctx-rh-fusiform,ctx-rh-fusiform,Right,fusiform
+Oscillatory neural dynamics,"MEG, theta",40,0.22940092,ctx-rh-inferiorparietal,ctx-rh-inferiorparietal,Right,inferiorparietal
+Oscillatory neural dynamics,"MEG, theta",41,0.23345268,ctx-rh-inferiortemporal,ctx-rh-inferiortemporal,Right,inferiortemporal
+Oscillatory neural dynamics,"MEG, theta",42,0.2458694,ctx-rh-isthmuscingulate,ctx-rh-isthmuscingulate,Right,isthmuscingulate
+Oscillatory neural dynamics,"MEG, theta",43,0.21130183,ctx-rh-lateraloccipital,ctx-rh-lateraloccipital,Right,lateraloccipital
+Oscillatory neural dynamics,"MEG, theta",44,0.25394246,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,Right,lateralorbitofrontal
+Oscillatory neural dynamics,"MEG, theta",45,0.22335863,ctx-rh-lingual,ctx-rh-lingual,Right,lingual
+Oscillatory neural dynamics,"MEG, theta",46,0.24670708,ctx-rh-medialorbitofrontal,ctx-rh-medialorbitofrontal,Right,medialorbitofrontal
+Oscillatory neural dynamics,"MEG, theta",47,0.23423892,ctx-rh-middletemporal,ctx-rh-middletemporal,Right,middletemporal
+Oscillatory neural dynamics,"MEG, theta",48,0.23453325,ctx-rh-parahippocampal,ctx-rh-parahippocampal,Right,parahippocampal
+Oscillatory neural dynamics,"MEG, theta",49,0.2699383,ctx-rh-paracentral,ctx-rh-paracentral,Right,paracentral
+Oscillatory neural dynamics,"MEG, theta",50,0.2699778,ctx-rh-parsopercularis,ctx-rh-parsopercularis,Right,parsopercularis
+Oscillatory neural dynamics,"MEG, theta",51,0.26056853,ctx-rh-parsorbitalis,ctx-rh-parsorbitalis,Right,parsorbitalis
+Oscillatory neural dynamics,"MEG, theta",52,0.26595998,ctx-rh-parstriangularis,ctx-rh-parstriangularis,Right,parstriangularis
+Oscillatory neural dynamics,"MEG, theta",53,0.21119411,ctx-rh-pericalcarine,ctx-rh-pericalcarine,Right,pericalcarine
+Oscillatory neural dynamics,"MEG, theta",54,0.25311252,ctx-rh-postcentral,ctx-rh-postcentral,Right,postcentral
+Oscillatory neural dynamics,"MEG, theta",55,0.25716466,ctx-rh-posteriorcingulate,ctx-rh-posteriorcingulate,Right,posteriorcingulate
+Oscillatory neural dynamics,"MEG, theta",56,0.27180174,ctx-rh-precentral,ctx-rh-precentral,Right,precentral
+Oscillatory neural dynamics,"MEG, theta",57,0.23519795,ctx-rh-precuneus,ctx-rh-precuneus,Right,precuneus
+Oscillatory neural dynamics,"MEG, theta",58,0.24229857,ctx-rh-rostralanteriorcingulate,ctx-rh-rostralanteriorcingulate,Right,rostralanteriorcingulate
+Oscillatory neural dynamics,"MEG, theta",59,0.28451675,ctx-rh-rostralmiddlefrontal,ctx-rh-rostralmiddlefrontal,Right,rostralmiddlefrontal
+Oscillatory neural dynamics,"MEG, theta",60,0.3059536,ctx-rh-superiorfrontal,ctx-rh-superiorfrontal,Right,superiorfrontal
+Oscillatory neural dynamics,"MEG, theta",61,0.23331769,ctx-rh-superiorparietal,ctx-rh-superiorparietal,Right,superiorparietal
+Oscillatory neural dynamics,"MEG, theta",62,0.23502931,ctx-rh-superiortemporal,ctx-rh-superiortemporal,Right,superiortemporal
+Oscillatory neural dynamics,"MEG, theta",63,0.24251278,ctx-rh-supramarginal,ctx-rh-supramarginal,Right,supramarginal
+Oscillatory neural dynamics,"MEG, theta",64,0.27390325,ctx-rh-frontalpole,ctx-rh-frontalpole,Right,frontalpole
+Oscillatory neural dynamics,"MEG, theta",65,0.1567139,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
+Oscillatory neural dynamics,"MEG, theta",66,0.2398171,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
+Oscillatory neural dynamics,"MEG, theta",67,0.243447,ctx-rh-insula,ctx-rh-insula,Right,insula
+Oscillatory neural dynamics,"MEG, intrinsic timescale",0,17.149258,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
+Oscillatory neural dynamics,"MEG, intrinsic timescale",1,18.37247,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
+Oscillatory neural dynamics,"MEG, intrinsic timescale",2,20.930758,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",3,12.922121,ctx-lh-cuneus,ctx-lh-cuneus,Left,cuneus
+Oscillatory neural dynamics,"MEG, intrinsic timescale",4,18.77805,ctx-lh-entorhinal,ctx-lh-entorhinal,Left,entorhinal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",5,19.889553,ctx-lh-fusiform,ctx-lh-fusiform,Left,fusiform
+Oscillatory neural dynamics,"MEG, intrinsic timescale",6,13.040896,ctx-lh-inferiorparietal,ctx-lh-inferiorparietal,Left,inferiorparietal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",7,22.028027,ctx-lh-inferiortemporal,ctx-lh-inferiortemporal,Left,inferiortemporal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",8,17.047419,ctx-lh-isthmuscingulate,ctx-lh-isthmuscingulate,Left,isthmuscingulate
+Oscillatory neural dynamics,"MEG, intrinsic timescale",9,13.904851,ctx-lh-lateraloccipital,ctx-lh-lateraloccipital,Left,lateraloccipital
+Oscillatory neural dynamics,"MEG, intrinsic timescale",10,30.396875,ctx-lh-lateralorbitofrontal,ctx-lh-lateralorbitofrontal,Left,lateralorbitofrontal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",11,16.27652,ctx-lh-lingual,ctx-lh-lingual,Left,lingual
+Oscillatory neural dynamics,"MEG, intrinsic timescale",12,30.294575,ctx-lh-medialorbitofrontal,ctx-lh-medialorbitofrontal,Left,medialorbitofrontal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",13,22.021751,ctx-lh-middletemporal,ctx-lh-middletemporal,Left,middletemporal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",14,21.076931,ctx-lh-parahippocampal,ctx-lh-parahippocampal,Left,parahippocampal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",15,13.998791,ctx-lh-paracentral,ctx-lh-paracentral,Left,paracentral
+Oscillatory neural dynamics,"MEG, intrinsic timescale",16,21.185514,ctx-lh-parsopercularis,ctx-lh-parsopercularis,Left,parsopercularis
+Oscillatory neural dynamics,"MEG, intrinsic timescale",17,33.077225,ctx-lh-parsorbitalis,ctx-lh-parsorbitalis,Left,parsorbitalis
+Oscillatory neural dynamics,"MEG, intrinsic timescale",18,25.449455,ctx-lh-parstriangularis,ctx-lh-parstriangularis,Left,parstriangularis
+Oscillatory neural dynamics,"MEG, intrinsic timescale",19,13.339278,ctx-lh-pericalcarine,ctx-lh-pericalcarine,Left,pericalcarine
+Oscillatory neural dynamics,"MEG, intrinsic timescale",20,13.592185,ctx-lh-postcentral,ctx-lh-postcentral,Left,postcentral
+Oscillatory neural dynamics,"MEG, intrinsic timescale",21,16.51719,ctx-lh-posteriorcingulate,ctx-lh-posteriorcingulate,Left,posteriorcingulate
+Oscillatory neural dynamics,"MEG, intrinsic timescale",22,15.854326,ctx-lh-precentral,ctx-lh-precentral,Left,precentral
+Oscillatory neural dynamics,"MEG, intrinsic timescale",23,13.309766,ctx-lh-precuneus,ctx-lh-precuneus,Left,precuneus
+Oscillatory neural dynamics,"MEG, intrinsic timescale",24,21.222397,ctx-lh-rostralanteriorcingulate,ctx-lh-rostralanteriorcingulate,Left,rostralanteriorcingulate
+Oscillatory neural dynamics,"MEG, intrinsic timescale",25,30.641132,ctx-lh-rostralmiddlefrontal,ctx-lh-rostralmiddlefrontal,Left,rostralmiddlefrontal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",26,24.44904,ctx-lh-superiorfrontal,ctx-lh-superiorfrontal,Left,superiorfrontal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",27,11.8351965,ctx-lh-superiorparietal,ctx-lh-superiorparietal,Left,superiorparietal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",28,20.667118,ctx-lh-superiortemporal,ctx-lh-superiortemporal,Left,superiortemporal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",29,13.298311,ctx-lh-supramarginal,ctx-lh-supramarginal,Left,supramarginal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",30,40.307205,ctx-lh-frontalpole,ctx-lh-frontalpole,Left,frontalpole
+Oscillatory neural dynamics,"MEG, intrinsic timescale",31,25.008455,ctx-lh-temporalpole,ctx-lh-temporalpole,Left,temporalpole
+Oscillatory neural dynamics,"MEG, intrinsic timescale",32,17.070683,ctx-lh-transversetemporal,ctx-lh-transversetemporal,Left,transversetemporal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",33,20.457554,ctx-lh-insula,ctx-lh-insula,Left,insula
+Oscillatory neural dynamics,"MEG, intrinsic timescale",34,15.8562,ctx-rh-bankssts,ctx-rh-bankssts,Right,bankssts
+Oscillatory neural dynamics,"MEG, intrinsic timescale",35,19.766811,ctx-rh-caudalanteriorcingulate,ctx-rh-caudalanteriorcingulate,Right,caudalanteriorcingulate
+Oscillatory neural dynamics,"MEG, intrinsic timescale",36,20.13228,ctx-rh-caudalmiddlefrontal,ctx-rh-caudalmiddlefrontal,Right,caudalmiddlefrontal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",37,13.014385,ctx-rh-cuneus,ctx-rh-cuneus,Right,cuneus
+Oscillatory neural dynamics,"MEG, intrinsic timescale",38,21.714785,ctx-rh-entorhinal,ctx-rh-entorhinal,Right,entorhinal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",39,20.739872,ctx-rh-fusiform,ctx-rh-fusiform,Right,fusiform
+Oscillatory neural dynamics,"MEG, intrinsic timescale",40,13.267023,ctx-rh-inferiorparietal,ctx-rh-inferiorparietal,Right,inferiorparietal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",41,24.239475,ctx-rh-inferiortemporal,ctx-rh-inferiortemporal,Right,inferiortemporal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",42,17.293457,ctx-rh-isthmuscingulate,ctx-rh-isthmuscingulate,Right,isthmuscingulate
+Oscillatory neural dynamics,"MEG, intrinsic timescale",43,14.239563,ctx-rh-lateraloccipital,ctx-rh-lateraloccipital,Right,lateraloccipital
+Oscillatory neural dynamics,"MEG, intrinsic timescale",44,32.686237,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,Right,lateralorbitofrontal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",45,16.587997,ctx-rh-lingual,ctx-rh-lingual,Right,lingual
+Oscillatory neural dynamics,"MEG, intrinsic timescale",46,31.015165,ctx-rh-medialorbitofrontal,ctx-rh-medialorbitofrontal,Right,medialorbitofrontal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",47,22.685081,ctx-rh-middletemporal,ctx-rh-middletemporal,Right,middletemporal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",48,21.728565,ctx-rh-parahippocampal,ctx-rh-parahippocampal,Right,parahippocampal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",49,13.857713,ctx-rh-paracentral,ctx-rh-paracentral,Right,paracentral
+Oscillatory neural dynamics,"MEG, intrinsic timescale",50,20.232885,ctx-rh-parsopercularis,ctx-rh-parsopercularis,Right,parsopercularis
+Oscillatory neural dynamics,"MEG, intrinsic timescale",51,31.292841,ctx-rh-parsorbitalis,ctx-rh-parsorbitalis,Right,parsorbitalis
+Oscillatory neural dynamics,"MEG, intrinsic timescale",52,25.284327,ctx-rh-parstriangularis,ctx-rh-parstriangularis,Right,parstriangularis
+Oscillatory neural dynamics,"MEG, intrinsic timescale",53,13.75031,ctx-rh-pericalcarine,ctx-rh-pericalcarine,Right,pericalcarine
+Oscillatory neural dynamics,"MEG, intrinsic timescale",54,12.995795,ctx-rh-postcentral,ctx-rh-postcentral,Right,postcentral
+Oscillatory neural dynamics,"MEG, intrinsic timescale",55,16.801786,ctx-rh-posteriorcingulate,ctx-rh-posteriorcingulate,Right,posteriorcingulate
+Oscillatory neural dynamics,"MEG, intrinsic timescale",56,14.775211,ctx-rh-precentral,ctx-rh-precentral,Right,precentral
+Oscillatory neural dynamics,"MEG, intrinsic timescale",57,13.254209,ctx-rh-precuneus,ctx-rh-precuneus,Right,precuneus
+Oscillatory neural dynamics,"MEG, intrinsic timescale",58,21.732368,ctx-rh-rostralanteriorcingulate,ctx-rh-rostralanteriorcingulate,Right,rostralanteriorcingulate
+Oscillatory neural dynamics,"MEG, intrinsic timescale",59,29.988075,ctx-rh-rostralmiddlefrontal,ctx-rh-rostralmiddlefrontal,Right,rostralmiddlefrontal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",60,23.768301,ctx-rh-superiorfrontal,ctx-rh-superiorfrontal,Right,superiorfrontal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",61,11.708917,ctx-rh-superiorparietal,ctx-rh-superiorparietal,Right,superiorparietal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",62,20.840483,ctx-rh-superiortemporal,ctx-rh-superiortemporal,Right,superiortemporal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",63,13.084446,ctx-rh-supramarginal,ctx-rh-supramarginal,Right,supramarginal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",64,42.16305,ctx-rh-frontalpole,ctx-rh-frontalpole,Right,frontalpole
+Oscillatory neural dynamics,"MEG, intrinsic timescale",65,22.40621,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
+Oscillatory neural dynamics,"MEG, intrinsic timescale",66,16.61682,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
+Oscillatory neural dynamics,"MEG, intrinsic timescale",67,21.068314,ctx-rh-insula,ctx-rh-insula,Right,insula
 Neurotransmitter receptors and transporters,"Serotonin, 5-HT1a",0,37.068554,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
 Neurotransmitter receptors and transporters,"Serotonin, 5-HT1a",1,33.89683,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
 Neurotransmitter receptors and transporters,"Serotonin, 5-HT1a",2,27.697044,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
@@ -1971,618 +2447,6 @@ Metabolism,Glucose metabolism,64,6202.994,ctx-rh-frontalpole,ctx-rh-frontalpole,
 Metabolism,Glucose metabolism,65,4381.331,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
 Metabolism,Glucose metabolism,66,7076.002,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
 Metabolism,Glucose metabolism,67,5922.2646,ctx-rh-insula,ctx-rh-insula,Right,insula
-Oscillatory neural dynamics,"MEG, alpha",0,0.3393975,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
-Oscillatory neural dynamics,"MEG, alpha",1,0.21565731,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
-Oscillatory neural dynamics,"MEG, alpha",2,0.21094851,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
-Oscillatory neural dynamics,"MEG, alpha",3,0.42336565,ctx-lh-cuneus,ctx-lh-cuneus,Left,cuneus
-Oscillatory neural dynamics,"MEG, alpha",4,0.21061167,ctx-lh-entorhinal,ctx-lh-entorhinal,Left,entorhinal
-Oscillatory neural dynamics,"MEG, alpha",5,0.32718456,ctx-lh-fusiform,ctx-lh-fusiform,Left,fusiform
-Oscillatory neural dynamics,"MEG, alpha",6,0.3640945,ctx-lh-inferiorparietal,ctx-lh-inferiorparietal,Left,inferiorparietal
-Oscillatory neural dynamics,"MEG, alpha",7,0.30678505,ctx-lh-inferiortemporal,ctx-lh-inferiortemporal,Left,inferiortemporal
-Oscillatory neural dynamics,"MEG, alpha",8,0.3125059,ctx-lh-isthmuscingulate,ctx-lh-isthmuscingulate,Left,isthmuscingulate
-Oscillatory neural dynamics,"MEG, alpha",9,0.3838604,ctx-lh-lateraloccipital,ctx-lh-lateraloccipital,Left,lateraloccipital
-Oscillatory neural dynamics,"MEG, alpha",10,0.21666463,ctx-lh-lateralorbitofrontal,ctx-lh-lateralorbitofrontal,Left,lateralorbitofrontal
-Oscillatory neural dynamics,"MEG, alpha",11,0.3549995,ctx-lh-lingual,ctx-lh-lingual,Left,lingual
-Oscillatory neural dynamics,"MEG, alpha",12,0.18406111,ctx-lh-medialorbitofrontal,ctx-lh-medialorbitofrontal,Left,medialorbitofrontal
-Oscillatory neural dynamics,"MEG, alpha",13,0.30817398,ctx-lh-middletemporal,ctx-lh-middletemporal,Left,middletemporal
-Oscillatory neural dynamics,"MEG, alpha",14,0.3180545,ctx-lh-parahippocampal,ctx-lh-parahippocampal,Left,parahippocampal
-Oscillatory neural dynamics,"MEG, alpha",15,0.290565,ctx-lh-paracentral,ctx-lh-paracentral,Left,paracentral
-Oscillatory neural dynamics,"MEG, alpha",16,0.22724865,ctx-lh-parsopercularis,ctx-lh-parsopercularis,Left,parsopercularis
-Oscillatory neural dynamics,"MEG, alpha",17,0.20541011,ctx-lh-parsorbitalis,ctx-lh-parsorbitalis,Left,parsorbitalis
-Oscillatory neural dynamics,"MEG, alpha",18,0.21459587,ctx-lh-parstriangularis,ctx-lh-parstriangularis,Left,parstriangularis
-Oscillatory neural dynamics,"MEG, alpha",19,0.40060195,ctx-lh-pericalcarine,ctx-lh-pericalcarine,Left,pericalcarine
-Oscillatory neural dynamics,"MEG, alpha",20,0.31036457,ctx-lh-postcentral,ctx-lh-postcentral,Left,postcentral
-Oscillatory neural dynamics,"MEG, alpha",21,0.26445645,ctx-lh-posteriorcingulate,ctx-lh-posteriorcingulate,Left,posteriorcingulate
-Oscillatory neural dynamics,"MEG, alpha",22,0.26747772,ctx-lh-precentral,ctx-lh-precentral,Left,precentral
-Oscillatory neural dynamics,"MEG, alpha",23,0.36444968,ctx-lh-precuneus,ctx-lh-precuneus,Left,precuneus
-Oscillatory neural dynamics,"MEG, alpha",24,0.16147949,ctx-lh-rostralanteriorcingulate,ctx-lh-rostralanteriorcingulate,Left,rostralanteriorcingulate
-Oscillatory neural dynamics,"MEG, alpha",25,0.1918544,ctx-lh-rostralmiddlefrontal,ctx-lh-rostralmiddlefrontal,Left,rostralmiddlefrontal
-Oscillatory neural dynamics,"MEG, alpha",26,0.20464098,ctx-lh-superiorfrontal,ctx-lh-superiorfrontal,Left,superiorfrontal
-Oscillatory neural dynamics,"MEG, alpha",27,0.3718346,ctx-lh-superiorparietal,ctx-lh-superiorparietal,Left,superiorparietal
-Oscillatory neural dynamics,"MEG, alpha",28,0.3007816,ctx-lh-superiortemporal,ctx-lh-superiortemporal,Left,superiortemporal
-Oscillatory neural dynamics,"MEG, alpha",29,0.32715347,ctx-lh-supramarginal,ctx-lh-supramarginal,Left,supramarginal
-Oscillatory neural dynamics,"MEG, alpha",30,0.18128437,ctx-lh-frontalpole,ctx-lh-frontalpole,Left,frontalpole
-Oscillatory neural dynamics,"MEG, alpha",31,0.17144448,ctx-lh-temporalpole,ctx-lh-temporalpole,Left,temporalpole
-Oscillatory neural dynamics,"MEG, alpha",32,0.32526368,ctx-lh-transversetemporal,ctx-lh-transversetemporal,Left,transversetemporal
-Oscillatory neural dynamics,"MEG, alpha",33,0.26670414,ctx-lh-insula,ctx-lh-insula,Left,insula
-Oscillatory neural dynamics,"MEG, alpha",34,0.3456952,ctx-rh-bankssts,ctx-rh-bankssts,Right,bankssts
-Oscillatory neural dynamics,"MEG, alpha",35,0.21648231,ctx-rh-caudalanteriorcingulate,ctx-rh-caudalanteriorcingulate,Right,caudalanteriorcingulate
-Oscillatory neural dynamics,"MEG, alpha",36,0.2175629,ctx-rh-caudalmiddlefrontal,ctx-rh-caudalmiddlefrontal,Right,caudalmiddlefrontal
-Oscillatory neural dynamics,"MEG, alpha",37,0.43048903,ctx-rh-cuneus,ctx-rh-cuneus,Right,cuneus
-Oscillatory neural dynamics,"MEG, alpha",38,0.22130182,ctx-rh-entorhinal,ctx-rh-entorhinal,Right,entorhinal
-Oscillatory neural dynamics,"MEG, alpha",39,0.33498594,ctx-rh-fusiform,ctx-rh-fusiform,Right,fusiform
-Oscillatory neural dynamics,"MEG, alpha",40,0.36743328,ctx-rh-inferiorparietal,ctx-rh-inferiorparietal,Right,inferiorparietal
-Oscillatory neural dynamics,"MEG, alpha",41,0.30866787,ctx-rh-inferiortemporal,ctx-rh-inferiortemporal,Right,inferiortemporal
-Oscillatory neural dynamics,"MEG, alpha",42,0.3157021,ctx-rh-isthmuscingulate,ctx-rh-isthmuscingulate,Right,isthmuscingulate
-Oscillatory neural dynamics,"MEG, alpha",43,0.39362076,ctx-rh-lateraloccipital,ctx-rh-lateraloccipital,Right,lateraloccipital
-Oscillatory neural dynamics,"MEG, alpha",44,0.215813,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,Right,lateralorbitofrontal
-Oscillatory neural dynamics,"MEG, alpha",45,0.36208987,ctx-rh-lingual,ctx-rh-lingual,Right,lingual
-Oscillatory neural dynamics,"MEG, alpha",46,0.1889998,ctx-rh-medialorbitofrontal,ctx-rh-medialorbitofrontal,Right,medialorbitofrontal
-Oscillatory neural dynamics,"MEG, alpha",47,0.3105381,ctx-rh-middletemporal,ctx-rh-middletemporal,Right,middletemporal
-Oscillatory neural dynamics,"MEG, alpha",48,0.32422012,ctx-rh-parahippocampal,ctx-rh-parahippocampal,Right,parahippocampal
-Oscillatory neural dynamics,"MEG, alpha",49,0.2889567,ctx-rh-paracentral,ctx-rh-paracentral,Right,paracentral
-Oscillatory neural dynamics,"MEG, alpha",50,0.22977714,ctx-rh-parsopercularis,ctx-rh-parsopercularis,Right,parsopercularis
-Oscillatory neural dynamics,"MEG, alpha",51,0.20279253,ctx-rh-parsorbitalis,ctx-rh-parsorbitalis,Right,parsorbitalis
-Oscillatory neural dynamics,"MEG, alpha",52,0.2156787,ctx-rh-parstriangularis,ctx-rh-parstriangularis,Right,parstriangularis
-Oscillatory neural dynamics,"MEG, alpha",53,0.40870017,ctx-rh-pericalcarine,ctx-rh-pericalcarine,Right,pericalcarine
-Oscillatory neural dynamics,"MEG, alpha",54,0.31057522,ctx-rh-postcentral,ctx-rh-postcentral,Right,postcentral
-Oscillatory neural dynamics,"MEG, alpha",55,0.26219115,ctx-rh-posteriorcingulate,ctx-rh-posteriorcingulate,Right,posteriorcingulate
-Oscillatory neural dynamics,"MEG, alpha",56,0.27063993,ctx-rh-precentral,ctx-rh-precentral,Right,precentral
-Oscillatory neural dynamics,"MEG, alpha",57,0.3630352,ctx-rh-precuneus,ctx-rh-precuneus,Right,precuneus
-Oscillatory neural dynamics,"MEG, alpha",58,0.16955486,ctx-rh-rostralanteriorcingulate,ctx-rh-rostralanteriorcingulate,Right,rostralanteriorcingulate
-Oscillatory neural dynamics,"MEG, alpha",59,0.1929345,ctx-rh-rostralmiddlefrontal,ctx-rh-rostralmiddlefrontal,Right,rostralmiddlefrontal
-Oscillatory neural dynamics,"MEG, alpha",60,0.20439735,ctx-rh-superiorfrontal,ctx-rh-superiorfrontal,Right,superiorfrontal
-Oscillatory neural dynamics,"MEG, alpha",61,0.37221217,ctx-rh-superiorparietal,ctx-rh-superiorparietal,Right,superiorparietal
-Oscillatory neural dynamics,"MEG, alpha",62,0.2970052,ctx-rh-superiortemporal,ctx-rh-superiortemporal,Right,superiortemporal
-Oscillatory neural dynamics,"MEG, alpha",63,0.3298109,ctx-rh-supramarginal,ctx-rh-supramarginal,Right,supramarginal
-Oscillatory neural dynamics,"MEG, alpha",64,0.17958044,ctx-rh-frontalpole,ctx-rh-frontalpole,Right,frontalpole
-Oscillatory neural dynamics,"MEG, alpha",65,0.15708007,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
-Oscillatory neural dynamics,"MEG, alpha",66,0.3274653,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
-Oscillatory neural dynamics,"MEG, alpha",67,0.27295095,ctx-rh-insula,ctx-rh-insula,Right,insula
-Oscillatory neural dynamics,"MEG, beta",0,0.08812334,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
-Oscillatory neural dynamics,"MEG, beta",1,0.09798927,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
-Oscillatory neural dynamics,"MEG, beta",2,0.1094101,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
-Oscillatory neural dynamics,"MEG, beta",3,0.086328164,ctx-lh-cuneus,ctx-lh-cuneus,Left,cuneus
-Oscillatory neural dynamics,"MEG, beta",4,0.059063263,ctx-lh-entorhinal,ctx-lh-entorhinal,Left,entorhinal
-Oscillatory neural dynamics,"MEG, beta",5,0.082169,ctx-lh-fusiform,ctx-lh-fusiform,Left,fusiform
-Oscillatory neural dynamics,"MEG, beta",6,0.09882364,ctx-lh-inferiorparietal,ctx-lh-inferiorparietal,Left,inferiorparietal
-Oscillatory neural dynamics,"MEG, beta",7,0.08145264,ctx-lh-inferiortemporal,ctx-lh-inferiortemporal,Left,inferiortemporal
-Oscillatory neural dynamics,"MEG, beta",8,0.09769342,ctx-lh-isthmuscingulate,ctx-lh-isthmuscingulate,Left,isthmuscingulate
-Oscillatory neural dynamics,"MEG, beta",9,0.08420082,ctx-lh-lateraloccipital,ctx-lh-lateraloccipital,Left,lateraloccipital
-Oscillatory neural dynamics,"MEG, beta",10,0.08695589,ctx-lh-lateralorbitofrontal,ctx-lh-lateralorbitofrontal,Left,lateralorbitofrontal
-Oscillatory neural dynamics,"MEG, beta",11,0.08226111,ctx-lh-lingual,ctx-lh-lingual,Left,lingual
-Oscillatory neural dynamics,"MEG, beta",12,0.07782561,ctx-lh-medialorbitofrontal,ctx-lh-medialorbitofrontal,Left,medialorbitofrontal
-Oscillatory neural dynamics,"MEG, beta",13,0.08232174,ctx-lh-middletemporal,ctx-lh-middletemporal,Left,middletemporal
-Oscillatory neural dynamics,"MEG, beta",14,0.084875725,ctx-lh-parahippocampal,ctx-lh-parahippocampal,Left,parahippocampal
-Oscillatory neural dynamics,"MEG, beta",15,0.119900145,ctx-lh-paracentral,ctx-lh-paracentral,Left,paracentral
-Oscillatory neural dynamics,"MEG, beta",16,0.10350663,ctx-lh-parsopercularis,ctx-lh-parsopercularis,Left,parsopercularis
-Oscillatory neural dynamics,"MEG, beta",17,0.09291528,ctx-lh-parsorbitalis,ctx-lh-parsorbitalis,Left,parsorbitalis
-Oscillatory neural dynamics,"MEG, beta",18,0.09755276,ctx-lh-parstriangularis,ctx-lh-parstriangularis,Left,parstriangularis
-Oscillatory neural dynamics,"MEG, beta",19,0.08107871,ctx-lh-pericalcarine,ctx-lh-pericalcarine,Left,pericalcarine
-Oscillatory neural dynamics,"MEG, beta",20,0.12036561,ctx-lh-postcentral,ctx-lh-postcentral,Left,postcentral
-Oscillatory neural dynamics,"MEG, beta",21,0.108171865,ctx-lh-posteriorcingulate,ctx-lh-posteriorcingulate,Left,posteriorcingulate
-Oscillatory neural dynamics,"MEG, beta",22,0.1172683,ctx-lh-precentral,ctx-lh-precentral,Left,precentral
-Oscillatory neural dynamics,"MEG, beta",23,0.101823516,ctx-lh-precuneus,ctx-lh-precuneus,Left,precuneus
-Oscillatory neural dynamics,"MEG, beta",24,0.07702758,ctx-lh-rostralanteriorcingulate,ctx-lh-rostralanteriorcingulate,Left,rostralanteriorcingulate
-Oscillatory neural dynamics,"MEG, beta",25,0.09868827,ctx-lh-rostralmiddlefrontal,ctx-lh-rostralmiddlefrontal,Left,rostralmiddlefrontal
-Oscillatory neural dynamics,"MEG, beta",26,0.104501046,ctx-lh-superiorfrontal,ctx-lh-superiorfrontal,Left,superiorfrontal
-Oscillatory neural dynamics,"MEG, beta",27,0.11084835,ctx-lh-superiorparietal,ctx-lh-superiorparietal,Left,superiorparietal
-Oscillatory neural dynamics,"MEG, beta",28,0.084528126,ctx-lh-superiortemporal,ctx-lh-superiortemporal,Left,superiortemporal
-Oscillatory neural dynamics,"MEG, beta",29,0.10992354,ctx-lh-supramarginal,ctx-lh-supramarginal,Left,supramarginal
-Oscillatory neural dynamics,"MEG, beta",30,0.09312955,ctx-lh-frontalpole,ctx-lh-frontalpole,Left,frontalpole
-Oscillatory neural dynamics,"MEG, beta",31,0.05468121,ctx-lh-temporalpole,ctx-lh-temporalpole,Left,temporalpole
-Oscillatory neural dynamics,"MEG, beta",32,0.08837366,ctx-lh-transversetemporal,ctx-lh-transversetemporal,Left,transversetemporal
-Oscillatory neural dynamics,"MEG, beta",33,0.0905491,ctx-lh-insula,ctx-lh-insula,Left,insula
-Oscillatory neural dynamics,"MEG, beta",34,0.090907484,ctx-rh-bankssts,ctx-rh-bankssts,Right,bankssts
-Oscillatory neural dynamics,"MEG, beta",35,0.09802204,ctx-rh-caudalanteriorcingulate,ctx-rh-caudalanteriorcingulate,Right,caudalanteriorcingulate
-Oscillatory neural dynamics,"MEG, beta",36,0.11175652,ctx-rh-caudalmiddlefrontal,ctx-rh-caudalmiddlefrontal,Right,caudalmiddlefrontal
-Oscillatory neural dynamics,"MEG, beta",37,0.08469711,ctx-rh-cuneus,ctx-rh-cuneus,Right,cuneus
-Oscillatory neural dynamics,"MEG, beta",38,0.06308333,ctx-rh-entorhinal,ctx-rh-entorhinal,Right,entorhinal
-Oscillatory neural dynamics,"MEG, beta",39,0.08285507,ctx-rh-fusiform,ctx-rh-fusiform,Right,fusiform
-Oscillatory neural dynamics,"MEG, beta",40,0.10099928,ctx-rh-inferiorparietal,ctx-rh-inferiorparietal,Right,inferiorparietal
-Oscillatory neural dynamics,"MEG, beta",41,0.082399644,ctx-rh-inferiortemporal,ctx-rh-inferiortemporal,Right,inferiortemporal
-Oscillatory neural dynamics,"MEG, beta",42,0.09705757,ctx-rh-isthmuscingulate,ctx-rh-isthmuscingulate,Right,isthmuscingulate
-Oscillatory neural dynamics,"MEG, beta",43,0.08441001,ctx-rh-lateraloccipital,ctx-rh-lateraloccipital,Right,lateraloccipital
-Oscillatory neural dynamics,"MEG, beta",44,0.08636345,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,Right,lateralorbitofrontal
-Oscillatory neural dynamics,"MEG, beta",45,0.08198092,ctx-rh-lingual,ctx-rh-lingual,Right,lingual
-Oscillatory neural dynamics,"MEG, beta",46,0.08129782,ctx-rh-medialorbitofrontal,ctx-rh-medialorbitofrontal,Right,medialorbitofrontal
-Oscillatory neural dynamics,"MEG, beta",47,0.08478915,ctx-rh-middletemporal,ctx-rh-middletemporal,Right,middletemporal
-Oscillatory neural dynamics,"MEG, beta",48,0.0843065,ctx-rh-parahippocampal,ctx-rh-parahippocampal,Right,parahippocampal
-Oscillatory neural dynamics,"MEG, beta",49,0.118387334,ctx-rh-paracentral,ctx-rh-paracentral,Right,paracentral
-Oscillatory neural dynamics,"MEG, beta",50,0.10635434,ctx-rh-parsopercularis,ctx-rh-parsopercularis,Right,parsopercularis
-Oscillatory neural dynamics,"MEG, beta",51,0.09623728,ctx-rh-parsorbitalis,ctx-rh-parsorbitalis,Right,parsorbitalis
-Oscillatory neural dynamics,"MEG, beta",52,0.1021079,ctx-rh-parstriangularis,ctx-rh-parstriangularis,Right,parstriangularis
-Oscillatory neural dynamics,"MEG, beta",53,0.07887114,ctx-rh-pericalcarine,ctx-rh-pericalcarine,Right,pericalcarine
-Oscillatory neural dynamics,"MEG, beta",54,0.119649254,ctx-rh-postcentral,ctx-rh-postcentral,Right,postcentral
-Oscillatory neural dynamics,"MEG, beta",55,0.10615999,ctx-rh-posteriorcingulate,ctx-rh-posteriorcingulate,Right,posteriorcingulate
-Oscillatory neural dynamics,"MEG, beta",56,0.11829905,ctx-rh-precentral,ctx-rh-precentral,Right,precentral
-Oscillatory neural dynamics,"MEG, beta",57,0.10182772,ctx-rh-precuneus,ctx-rh-precuneus,Right,precuneus
-Oscillatory neural dynamics,"MEG, beta",58,0.0807178,ctx-rh-rostralanteriorcingulate,ctx-rh-rostralanteriorcingulate,Right,rostralanteriorcingulate
-Oscillatory neural dynamics,"MEG, beta",59,0.101914,ctx-rh-rostralmiddlefrontal,ctx-rh-rostralmiddlefrontal,Right,rostralmiddlefrontal
-Oscillatory neural dynamics,"MEG, beta",60,0.10453114,ctx-rh-superiorfrontal,ctx-rh-superiorfrontal,Right,superiorfrontal
-Oscillatory neural dynamics,"MEG, beta",61,0.11073065,ctx-rh-superiorparietal,ctx-rh-superiorparietal,Right,superiorparietal
-Oscillatory neural dynamics,"MEG, beta",62,0.08735967,ctx-rh-superiortemporal,ctx-rh-superiortemporal,Right,superiortemporal
-Oscillatory neural dynamics,"MEG, beta",63,0.11328076,ctx-rh-supramarginal,ctx-rh-supramarginal,Right,supramarginal
-Oscillatory neural dynamics,"MEG, beta",64,0.09307079,ctx-rh-frontalpole,ctx-rh-frontalpole,Right,frontalpole
-Oscillatory neural dynamics,"MEG, beta",65,0.05149885,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
-Oscillatory neural dynamics,"MEG, beta",66,0.09044421,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
-Oscillatory neural dynamics,"MEG, beta",67,0.09253648,ctx-rh-insula,ctx-rh-insula,Right,insula
-Oscillatory neural dynamics,"MEG, low gamma",0,0.016992612,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
-Oscillatory neural dynamics,"MEG, low gamma",1,0.022837156,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
-Oscillatory neural dynamics,"MEG, low gamma",2,0.024481542,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
-Oscillatory neural dynamics,"MEG, low gamma",3,0.015973814,ctx-lh-cuneus,ctx-lh-cuneus,Left,cuneus
-Oscillatory neural dynamics,"MEG, low gamma",4,0.016669368,ctx-lh-entorhinal,ctx-lh-entorhinal,Left,entorhinal
-Oscillatory neural dynamics,"MEG, low gamma",5,0.02003924,ctx-lh-fusiform,ctx-lh-fusiform,Left,fusiform
-Oscillatory neural dynamics,"MEG, low gamma",6,0.017217029,ctx-lh-inferiorparietal,ctx-lh-inferiorparietal,Left,inferiorparietal
-Oscillatory neural dynamics,"MEG, low gamma",7,0.02129009,ctx-lh-inferiortemporal,ctx-lh-inferiortemporal,Left,inferiortemporal
-Oscillatory neural dynamics,"MEG, low gamma",8,0.022621134,ctx-lh-isthmuscingulate,ctx-lh-isthmuscingulate,Left,isthmuscingulate
-Oscillatory neural dynamics,"MEG, low gamma",9,0.018401662,ctx-lh-lateraloccipital,ctx-lh-lateraloccipital,Left,lateraloccipital
-Oscillatory neural dynamics,"MEG, low gamma",10,0.026225261,ctx-lh-lateralorbitofrontal,ctx-lh-lateralorbitofrontal,Left,lateralorbitofrontal
-Oscillatory neural dynamics,"MEG, low gamma",11,0.017644787,ctx-lh-lingual,ctx-lh-lingual,Left,lingual
-Oscillatory neural dynamics,"MEG, low gamma",12,0.024194391,ctx-lh-medialorbitofrontal,ctx-lh-medialorbitofrontal,Left,medialorbitofrontal
-Oscillatory neural dynamics,"MEG, low gamma",13,0.020761218,ctx-lh-middletemporal,ctx-lh-middletemporal,Left,middletemporal
-Oscillatory neural dynamics,"MEG, low gamma",14,0.021077676,ctx-lh-parahippocampal,ctx-lh-parahippocampal,Left,parahippocampal
-Oscillatory neural dynamics,"MEG, low gamma",15,0.023916934,ctx-lh-paracentral,ctx-lh-paracentral,Left,paracentral
-Oscillatory neural dynamics,"MEG, low gamma",16,0.02590345,ctx-lh-parsopercularis,ctx-lh-parsopercularis,Left,parsopercularis
-Oscillatory neural dynamics,"MEG, low gamma",17,0.030882478,ctx-lh-parsorbitalis,ctx-lh-parsorbitalis,Left,parsorbitalis
-Oscillatory neural dynamics,"MEG, low gamma",18,0.028017832,ctx-lh-parstriangularis,ctx-lh-parstriangularis,Left,parstriangularis
-Oscillatory neural dynamics,"MEG, low gamma",19,0.015342169,ctx-lh-pericalcarine,ctx-lh-pericalcarine,Left,pericalcarine
-Oscillatory neural dynamics,"MEG, low gamma",20,0.022441188,ctx-lh-postcentral,ctx-lh-postcentral,Left,postcentral
-Oscillatory neural dynamics,"MEG, low gamma",21,0.025618672,ctx-lh-posteriorcingulate,ctx-lh-posteriorcingulate,Left,posteriorcingulate
-Oscillatory neural dynamics,"MEG, low gamma",22,0.023985676,ctx-lh-precentral,ctx-lh-precentral,Left,precentral
-Oscillatory neural dynamics,"MEG, low gamma",23,0.019055506,ctx-lh-precuneus,ctx-lh-precuneus,Left,precuneus
-Oscillatory neural dynamics,"MEG, low gamma",24,0.02018686,ctx-lh-rostralanteriorcingulate,ctx-lh-rostralanteriorcingulate,Left,rostralanteriorcingulate
-Oscillatory neural dynamics,"MEG, low gamma",25,0.029386714,ctx-lh-rostralmiddlefrontal,ctx-lh-rostralmiddlefrontal,Left,rostralmiddlefrontal
-Oscillatory neural dynamics,"MEG, low gamma",26,0.026490288,ctx-lh-superiorfrontal,ctx-lh-superiorfrontal,Left,superiorfrontal
-Oscillatory neural dynamics,"MEG, low gamma",27,0.01923486,ctx-lh-superiorparietal,ctx-lh-superiorparietal,Left,superiorparietal
-Oscillatory neural dynamics,"MEG, low gamma",28,0.019591305,ctx-lh-superiortemporal,ctx-lh-superiortemporal,Left,superiortemporal
-Oscillatory neural dynamics,"MEG, low gamma",29,0.019275462,ctx-lh-supramarginal,ctx-lh-supramarginal,Left,supramarginal
-Oscillatory neural dynamics,"MEG, low gamma",30,0.035651237,ctx-lh-frontalpole,ctx-lh-frontalpole,Left,frontalpole
-Oscillatory neural dynamics,"MEG, low gamma",31,0.018316405,ctx-lh-temporalpole,ctx-lh-temporalpole,Left,temporalpole
-Oscillatory neural dynamics,"MEG, low gamma",32,0.017245974,ctx-lh-transversetemporal,ctx-lh-transversetemporal,Left,transversetemporal
-Oscillatory neural dynamics,"MEG, low gamma",33,0.023308715,ctx-lh-insula,ctx-lh-insula,Left,insula
-Oscillatory neural dynamics,"MEG, low gamma",34,0.016874379,ctx-rh-bankssts,ctx-rh-bankssts,Right,bankssts
-Oscillatory neural dynamics,"MEG, low gamma",35,0.023332931,ctx-rh-caudalanteriorcingulate,ctx-rh-caudalanteriorcingulate,Right,caudalanteriorcingulate
-Oscillatory neural dynamics,"MEG, low gamma",36,0.025525892,ctx-rh-caudalmiddlefrontal,ctx-rh-caudalmiddlefrontal,Right,caudalmiddlefrontal
-Oscillatory neural dynamics,"MEG, low gamma",37,0.015823567,ctx-rh-cuneus,ctx-rh-cuneus,Right,cuneus
-Oscillatory neural dynamics,"MEG, low gamma",38,0.018567778,ctx-rh-entorhinal,ctx-rh-entorhinal,Right,entorhinal
-Oscillatory neural dynamics,"MEG, low gamma",39,0.0201203,ctx-rh-fusiform,ctx-rh-fusiform,Right,fusiform
-Oscillatory neural dynamics,"MEG, low gamma",40,0.017056204,ctx-rh-inferiorparietal,ctx-rh-inferiorparietal,Right,inferiorparietal
-Oscillatory neural dynamics,"MEG, low gamma",41,0.022445878,ctx-rh-inferiortemporal,ctx-rh-inferiortemporal,Right,inferiortemporal
-Oscillatory neural dynamics,"MEG, low gamma",42,0.022357037,ctx-rh-isthmuscingulate,ctx-rh-isthmuscingulate,Right,isthmuscingulate
-Oscillatory neural dynamics,"MEG, low gamma",43,0.017505953,ctx-rh-lateraloccipital,ctx-rh-lateraloccipital,Right,lateraloccipital
-Oscillatory neural dynamics,"MEG, low gamma",44,0.026975477,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,Right,lateralorbitofrontal
-Oscillatory neural dynamics,"MEG, low gamma",45,0.01736176,ctx-rh-lingual,ctx-rh-lingual,Right,lingual
-Oscillatory neural dynamics,"MEG, low gamma",46,0.025513427,ctx-rh-medialorbitofrontal,ctx-rh-medialorbitofrontal,Right,medialorbitofrontal
-Oscillatory neural dynamics,"MEG, low gamma",47,0.021698384,ctx-rh-middletemporal,ctx-rh-middletemporal,Right,middletemporal
-Oscillatory neural dynamics,"MEG, low gamma",48,0.020966856,ctx-rh-parahippocampal,ctx-rh-parahippocampal,Right,parahippocampal
-Oscillatory neural dynamics,"MEG, low gamma",49,0.02368415,ctx-rh-paracentral,ctx-rh-paracentral,Right,paracentral
-Oscillatory neural dynamics,"MEG, low gamma",50,0.026834074,ctx-rh-parsopercularis,ctx-rh-parsopercularis,Right,parsopercularis
-Oscillatory neural dynamics,"MEG, low gamma",51,0.033002116,ctx-rh-parsorbitalis,ctx-rh-parsorbitalis,Right,parsorbitalis
-Oscillatory neural dynamics,"MEG, low gamma",52,0.029929236,ctx-rh-parstriangularis,ctx-rh-parstriangularis,Right,parstriangularis
-Oscillatory neural dynamics,"MEG, low gamma",53,0.014906201,ctx-rh-pericalcarine,ctx-rh-pericalcarine,Right,pericalcarine
-Oscillatory neural dynamics,"MEG, low gamma",54,0.022705222,ctx-rh-postcentral,ctx-rh-postcentral,Right,postcentral
-Oscillatory neural dynamics,"MEG, low gamma",55,0.025214143,ctx-rh-posteriorcingulate,ctx-rh-posteriorcingulate,Right,posteriorcingulate
-Oscillatory neural dynamics,"MEG, low gamma",56,0.02472969,ctx-rh-precentral,ctx-rh-precentral,Right,precentral
-Oscillatory neural dynamics,"MEG, low gamma",57,0.019246472,ctx-rh-precuneus,ctx-rh-precuneus,Right,precuneus
-Oscillatory neural dynamics,"MEG, low gamma",58,0.02100016,ctx-rh-rostralanteriorcingulate,ctx-rh-rostralanteriorcingulate,Right,rostralanteriorcingulate
-Oscillatory neural dynamics,"MEG, low gamma",59,0.031702165,ctx-rh-rostralmiddlefrontal,ctx-rh-rostralmiddlefrontal,Right,rostralmiddlefrontal
-Oscillatory neural dynamics,"MEG, low gamma",60,0.026913688,ctx-rh-superiorfrontal,ctx-rh-superiorfrontal,Right,superiorfrontal
-Oscillatory neural dynamics,"MEG, low gamma",61,0.01944845,ctx-rh-superiorparietal,ctx-rh-superiorparietal,Right,superiorparietal
-Oscillatory neural dynamics,"MEG, low gamma",62,0.021003503,ctx-rh-superiortemporal,ctx-rh-superiortemporal,Right,superiortemporal
-Oscillatory neural dynamics,"MEG, low gamma",63,0.019358857,ctx-rh-supramarginal,ctx-rh-supramarginal,Right,supramarginal
-Oscillatory neural dynamics,"MEG, low gamma",64,0.036575906,ctx-rh-frontalpole,ctx-rh-frontalpole,Right,frontalpole
-Oscillatory neural dynamics,"MEG, low gamma",65,0.017515237,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
-Oscillatory neural dynamics,"MEG, low gamma",66,0.017233739,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
-Oscillatory neural dynamics,"MEG, low gamma",67,0.024586758,ctx-rh-insula,ctx-rh-insula,Right,insula
-Oscillatory neural dynamics,"MEG, high gamma",0,0.010253298,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
-Oscillatory neural dynamics,"MEG, high gamma",1,0.010603816,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
-Oscillatory neural dynamics,"MEG, high gamma",2,0.010827686,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
-Oscillatory neural dynamics,"MEG, high gamma",3,0.008030304,ctx-lh-cuneus,ctx-lh-cuneus,Left,cuneus
-Oscillatory neural dynamics,"MEG, high gamma",4,0.0117785735,ctx-lh-entorhinal,ctx-lh-entorhinal,Left,entorhinal
-Oscillatory neural dynamics,"MEG, high gamma",5,0.013329405,ctx-lh-fusiform,ctx-lh-fusiform,Left,fusiform
-Oscillatory neural dynamics,"MEG, high gamma",6,0.008855452,ctx-lh-inferiorparietal,ctx-lh-inferiorparietal,Left,inferiorparietal
-Oscillatory neural dynamics,"MEG, high gamma",7,0.015135032,ctx-lh-inferiortemporal,ctx-lh-inferiortemporal,Left,inferiortemporal
-Oscillatory neural dynamics,"MEG, high gamma",8,0.012544921,ctx-lh-isthmuscingulate,ctx-lh-isthmuscingulate,Left,isthmuscingulate
-Oscillatory neural dynamics,"MEG, high gamma",9,0.010762327,ctx-lh-lateraloccipital,ctx-lh-lateraloccipital,Left,lateraloccipital
-Oscillatory neural dynamics,"MEG, high gamma",10,0.016504114,ctx-lh-lateralorbitofrontal,ctx-lh-lateralorbitofrontal,Left,lateralorbitofrontal
-Oscillatory neural dynamics,"MEG, high gamma",11,0.010288393,ctx-lh-lingual,ctx-lh-lingual,Left,lingual
-Oscillatory neural dynamics,"MEG, high gamma",12,0.014848383,ctx-lh-medialorbitofrontal,ctx-lh-medialorbitofrontal,Left,medialorbitofrontal
-Oscillatory neural dynamics,"MEG, high gamma",13,0.014514913,ctx-lh-middletemporal,ctx-lh-middletemporal,Left,middletemporal
-Oscillatory neural dynamics,"MEG, high gamma",14,0.014056231,ctx-lh-parahippocampal,ctx-lh-parahippocampal,Left,parahippocampal
-Oscillatory neural dynamics,"MEG, high gamma",15,0.008789993,ctx-lh-paracentral,ctx-lh-paracentral,Left,paracentral
-Oscillatory neural dynamics,"MEG, high gamma",16,0.0144488625,ctx-lh-parsopercularis,ctx-lh-parsopercularis,Left,parsopercularis
-Oscillatory neural dynamics,"MEG, high gamma",17,0.01995937,ctx-lh-parsorbitalis,ctx-lh-parsorbitalis,Left,parsorbitalis
-Oscillatory neural dynamics,"MEG, high gamma",18,0.016559968,ctx-lh-parstriangularis,ctx-lh-parstriangularis,Left,parstriangularis
-Oscillatory neural dynamics,"MEG, high gamma",19,0.008009994,ctx-lh-pericalcarine,ctx-lh-pericalcarine,Left,pericalcarine
-Oscillatory neural dynamics,"MEG, high gamma",20,0.010101408,ctx-lh-postcentral,ctx-lh-postcentral,Left,postcentral
-Oscillatory neural dynamics,"MEG, high gamma",21,0.012827582,ctx-lh-posteriorcingulate,ctx-lh-posteriorcingulate,Left,posteriorcingulate
-Oscillatory neural dynamics,"MEG, high gamma",22,0.010690972,ctx-lh-precentral,ctx-lh-precentral,Left,precentral
-Oscillatory neural dynamics,"MEG, high gamma",23,0.00843834,ctx-lh-precuneus,ctx-lh-precuneus,Left,precuneus
-Oscillatory neural dynamics,"MEG, high gamma",24,0.01033545,ctx-lh-rostralanteriorcingulate,ctx-lh-rostralanteriorcingulate,Left,rostralanteriorcingulate
-Oscillatory neural dynamics,"MEG, high gamma",25,0.016740777,ctx-lh-rostralmiddlefrontal,ctx-lh-rostralmiddlefrontal,Left,rostralmiddlefrontal
-Oscillatory neural dynamics,"MEG, high gamma",26,0.01247325,ctx-lh-superiorfrontal,ctx-lh-superiorfrontal,Left,superiorfrontal
-Oscillatory neural dynamics,"MEG, high gamma",27,0.008341689,ctx-lh-superiorparietal,ctx-lh-superiorparietal,Left,superiorparietal
-Oscillatory neural dynamics,"MEG, high gamma",28,0.012620194,ctx-lh-superiortemporal,ctx-lh-superiortemporal,Left,superiortemporal
-Oscillatory neural dynamics,"MEG, high gamma",29,0.00995202,ctx-lh-supramarginal,ctx-lh-supramarginal,Left,supramarginal
-Oscillatory neural dynamics,"MEG, high gamma",30,0.023194704,ctx-lh-frontalpole,ctx-lh-frontalpole,Left,frontalpole
-Oscillatory neural dynamics,"MEG, high gamma",31,0.013523686,ctx-lh-temporalpole,ctx-lh-temporalpole,Left,temporalpole
-Oscillatory neural dynamics,"MEG, high gamma",32,0.009607714,ctx-lh-transversetemporal,ctx-lh-transversetemporal,Left,transversetemporal
-Oscillatory neural dynamics,"MEG, high gamma",33,0.01456232,ctx-lh-insula,ctx-lh-insula,Left,insula
-Oscillatory neural dynamics,"MEG, high gamma",34,0.009596298,ctx-rh-bankssts,ctx-rh-bankssts,Right,bankssts
-Oscillatory neural dynamics,"MEG, high gamma",35,0.01090746,ctx-rh-caudalanteriorcingulate,ctx-rh-caudalanteriorcingulate,Right,caudalanteriorcingulate
-Oscillatory neural dynamics,"MEG, high gamma",36,0.011229575,ctx-rh-caudalmiddlefrontal,ctx-rh-caudalmiddlefrontal,Right,caudalmiddlefrontal
-Oscillatory neural dynamics,"MEG, high gamma",37,0.008052537,ctx-rh-cuneus,ctx-rh-cuneus,Right,cuneus
-Oscillatory neural dynamics,"MEG, high gamma",38,0.013036725,ctx-rh-entorhinal,ctx-rh-entorhinal,Right,entorhinal
-Oscillatory neural dynamics,"MEG, high gamma",39,0.013135341,ctx-rh-fusiform,ctx-rh-fusiform,Right,fusiform
-Oscillatory neural dynamics,"MEG, high gamma",40,0.0083099995,ctx-rh-inferiorparietal,ctx-rh-inferiorparietal,Right,inferiorparietal
-Oscillatory neural dynamics,"MEG, high gamma",41,0.015768943,ctx-rh-inferiortemporal,ctx-rh-inferiortemporal,Right,inferiortemporal
-Oscillatory neural dynamics,"MEG, high gamma",42,0.012402222,ctx-rh-isthmuscingulate,ctx-rh-isthmuscingulate,Right,isthmuscingulate
-Oscillatory neural dynamics,"MEG, high gamma",43,0.010008902,ctx-rh-lateraloccipital,ctx-rh-lateraloccipital,Right,lateraloccipital
-Oscillatory neural dynamics,"MEG, high gamma",44,0.017102774,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,Right,lateralorbitofrontal
-Oscillatory neural dynamics,"MEG, high gamma",45,0.010033086,ctx-rh-lingual,ctx-rh-lingual,Right,lingual
-Oscillatory neural dynamics,"MEG, high gamma",46,0.0155895185,ctx-rh-medialorbitofrontal,ctx-rh-medialorbitofrontal,Right,medialorbitofrontal
-Oscillatory neural dynamics,"MEG, high gamma",47,0.014869152,ctx-rh-middletemporal,ctx-rh-middletemporal,Right,middletemporal
-Oscillatory neural dynamics,"MEG, high gamma",48,0.013861558,ctx-rh-parahippocampal,ctx-rh-parahippocampal,Right,parahippocampal
-Oscillatory neural dynamics,"MEG, high gamma",49,0.008599997,ctx-rh-paracentral,ctx-rh-paracentral,Right,paracentral
-Oscillatory neural dynamics,"MEG, high gamma",50,0.014792564,ctx-rh-parsopercularis,ctx-rh-parsopercularis,Right,parsopercularis
-Oscillatory neural dynamics,"MEG, high gamma",51,0.020983228,ctx-rh-parsorbitalis,ctx-rh-parsorbitalis,Right,parsorbitalis
-Oscillatory neural dynamics,"MEG, high gamma",52,0.017709898,ctx-rh-parstriangularis,ctx-rh-parstriangularis,Right,parstriangularis
-Oscillatory neural dynamics,"MEG, high gamma",53,0.007873868,ctx-rh-pericalcarine,ctx-rh-pericalcarine,Right,pericalcarine
-Oscillatory neural dynamics,"MEG, high gamma",54,0.009789678,ctx-rh-postcentral,ctx-rh-postcentral,Right,postcentral
-Oscillatory neural dynamics,"MEG, high gamma",55,0.012564855,ctx-rh-posteriorcingulate,ctx-rh-posteriorcingulate,Right,posteriorcingulate
-Oscillatory neural dynamics,"MEG, high gamma",56,0.010571554,ctx-rh-precentral,ctx-rh-precentral,Right,precentral
-Oscillatory neural dynamics,"MEG, high gamma",57,0.008475842,ctx-rh-precuneus,ctx-rh-precuneus,Right,precuneus
-Oscillatory neural dynamics,"MEG, high gamma",58,0.010660091,ctx-rh-rostralanteriorcingulate,ctx-rh-rostralanteriorcingulate,Right,rostralanteriorcingulate
-Oscillatory neural dynamics,"MEG, high gamma",59,0.017997628,ctx-rh-rostralmiddlefrontal,ctx-rh-rostralmiddlefrontal,Right,rostralmiddlefrontal
-Oscillatory neural dynamics,"MEG, high gamma",60,0.01265602,ctx-rh-superiorfrontal,ctx-rh-superiorfrontal,Right,superiorfrontal
-Oscillatory neural dynamics,"MEG, high gamma",61,0.0081722895,ctx-rh-superiorparietal,ctx-rh-superiorparietal,Right,superiorparietal
-Oscillatory neural dynamics,"MEG, high gamma",62,0.013479326,ctx-rh-superiortemporal,ctx-rh-superiortemporal,Right,superiortemporal
-Oscillatory neural dynamics,"MEG, high gamma",63,0.009252283,ctx-rh-supramarginal,ctx-rh-supramarginal,Right,supramarginal
-Oscillatory neural dynamics,"MEG, high gamma",64,0.024154903,ctx-rh-frontalpole,ctx-rh-frontalpole,Right,frontalpole
-Oscillatory neural dynamics,"MEG, high gamma",65,0.012718842,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
-Oscillatory neural dynamics,"MEG, high gamma",66,0.009187552,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
-Oscillatory neural dynamics,"MEG, high gamma",67,0.015382761,ctx-rh-insula,ctx-rh-insula,Right,insula
-Oscillatory neural dynamics,"MEG, delta",0,0.29911527,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
-Oscillatory neural dynamics,"MEG, delta",1,0.32710478,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
-Oscillatory neural dynamics,"MEG, delta",2,0.341331,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
-Oscillatory neural dynamics,"MEG, delta",3,0.2579118,ctx-lh-cuneus,ctx-lh-cuneus,Left,cuneus
-Oscillatory neural dynamics,"MEG, delta",4,0.2563444,ctx-lh-entorhinal,ctx-lh-entorhinal,Left,entorhinal
-Oscillatory neural dynamics,"MEG, delta",5,0.32005236,ctx-lh-fusiform,ctx-lh-fusiform,Left,fusiform
-Oscillatory neural dynamics,"MEG, delta",6,0.27612743,ctx-lh-inferiorparietal,ctx-lh-inferiorparietal,Left,inferiorparietal
-Oscillatory neural dynamics,"MEG, delta",7,0.33088768,ctx-lh-inferiortemporal,ctx-lh-inferiortemporal,Left,inferiortemporal
-Oscillatory neural dynamics,"MEG, delta",8,0.30699113,ctx-lh-isthmuscingulate,ctx-lh-isthmuscingulate,Left,isthmuscingulate
-Oscillatory neural dynamics,"MEG, delta",9,0.28505751,ctx-lh-lateraloccipital,ctx-lh-lateraloccipital,Left,lateraloccipital
-Oscillatory neural dynamics,"MEG, delta",10,0.3788935,ctx-lh-lateralorbitofrontal,ctx-lh-lateralorbitofrontal,Left,lateralorbitofrontal
-Oscillatory neural dynamics,"MEG, delta",11,0.30759197,ctx-lh-lingual,ctx-lh-lingual,Left,lingual
-Oscillatory neural dynamics,"MEG, delta",12,0.34613717,ctx-lh-medialorbitofrontal,ctx-lh-medialorbitofrontal,Left,medialorbitofrontal
-Oscillatory neural dynamics,"MEG, delta",13,0.32811245,ctx-lh-middletemporal,ctx-lh-middletemporal,Left,middletemporal
-Oscillatory neural dynamics,"MEG, delta",14,0.32199353,ctx-lh-parahippocampal,ctx-lh-parahippocampal,Left,parahippocampal
-Oscillatory neural dynamics,"MEG, delta",15,0.2880139,ctx-lh-paracentral,ctx-lh-paracentral,Left,paracentral
-Oscillatory neural dynamics,"MEG, delta",16,0.35223812,ctx-lh-parsopercularis,ctx-lh-parsopercularis,Left,parsopercularis
-Oscillatory neural dynamics,"MEG, delta",17,0.38291362,ctx-lh-parsorbitalis,ctx-lh-parsorbitalis,Left,parsorbitalis
-Oscillatory neural dynamics,"MEG, delta",18,0.3688737,ctx-lh-parstriangularis,ctx-lh-parstriangularis,Left,parstriangularis
-Oscillatory neural dynamics,"MEG, delta",19,0.2798648,ctx-lh-pericalcarine,ctx-lh-pericalcarine,Left,pericalcarine
-Oscillatory neural dynamics,"MEG, delta",20,0.28308913,ctx-lh-postcentral,ctx-lh-postcentral,Left,postcentral
-Oscillatory neural dynamics,"MEG, delta",21,0.3024743,ctx-lh-posteriorcingulate,ctx-lh-posteriorcingulate,Left,posteriorcingulate
-Oscillatory neural dynamics,"MEG, delta",22,0.30630895,ctx-lh-precentral,ctx-lh-precentral,Left,precentral
-Oscillatory neural dynamics,"MEG, delta",23,0.27076775,ctx-lh-precuneus,ctx-lh-precuneus,Left,precuneus
-Oscillatory neural dynamics,"MEG, delta",24,0.30295774,ctx-lh-rostralanteriorcingulate,ctx-lh-rostralanteriorcingulate,Left,rostralanteriorcingulate
-Oscillatory neural dynamics,"MEG, delta",25,0.37305558,ctx-lh-rostralmiddlefrontal,ctx-lh-rostralmiddlefrontal,Left,rostralmiddlefrontal
-Oscillatory neural dynamics,"MEG, delta",26,0.34447142,ctx-lh-superiorfrontal,ctx-lh-superiorfrontal,Left,superiorfrontal
-Oscillatory neural dynamics,"MEG, delta",27,0.25652716,ctx-lh-superiorparietal,ctx-lh-superiorparietal,Left,superiorparietal
-Oscillatory neural dynamics,"MEG, delta",28,0.3174841,ctx-lh-superiortemporal,ctx-lh-superiortemporal,Left,superiortemporal
-Oscillatory neural dynamics,"MEG, delta",29,0.28420538,ctx-lh-supramarginal,ctx-lh-supramarginal,Left,supramarginal
-Oscillatory neural dynamics,"MEG, delta",30,0.3890363,ctx-lh-frontalpole,ctx-lh-frontalpole,Left,frontalpole
-Oscillatory neural dynamics,"MEG, delta",31,0.26692656,ctx-lh-temporalpole,ctx-lh-temporalpole,Left,temporalpole
-Oscillatory neural dynamics,"MEG, delta",32,0.3125722,ctx-lh-transversetemporal,ctx-lh-transversetemporal,Left,transversetemporal
-Oscillatory neural dynamics,"MEG, delta",33,0.32640684,ctx-lh-insula,ctx-lh-insula,Left,insula
-Oscillatory neural dynamics,"MEG, delta",34,0.30072105,ctx-rh-bankssts,ctx-rh-bankssts,Right,bankssts
-Oscillatory neural dynamics,"MEG, delta",35,0.33349732,ctx-rh-caudalanteriorcingulate,ctx-rh-caudalanteriorcingulate,Right,caudalanteriorcingulate
-Oscillatory neural dynamics,"MEG, delta",36,0.3371598,ctx-rh-caudalmiddlefrontal,ctx-rh-caudalmiddlefrontal,Right,caudalmiddlefrontal
-Oscillatory neural dynamics,"MEG, delta",37,0.25593773,ctx-rh-cuneus,ctx-rh-cuneus,Right,cuneus
-Oscillatory neural dynamics,"MEG, delta",38,0.27239072,ctx-rh-entorhinal,ctx-rh-entorhinal,Right,entorhinal
-Oscillatory neural dynamics,"MEG, delta",39,0.3201035,ctx-rh-fusiform,ctx-rh-fusiform,Right,fusiform
-Oscillatory neural dynamics,"MEG, delta",40,0.2768003,ctx-rh-inferiorparietal,ctx-rh-inferiorparietal,Right,inferiorparietal
-Oscillatory neural dynamics,"MEG, delta",41,0.33726498,ctx-rh-inferiortemporal,ctx-rh-inferiortemporal,Right,inferiortemporal
-Oscillatory neural dynamics,"MEG, delta",42,0.3066117,ctx-rh-isthmuscingulate,ctx-rh-isthmuscingulate,Right,isthmuscingulate
-Oscillatory neural dynamics,"MEG, delta",43,0.28315255,ctx-rh-lateraloccipital,ctx-rh-lateraloccipital,Right,lateraloccipital
-Oscillatory neural dynamics,"MEG, delta",44,0.38395536,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,Right,lateralorbitofrontal
-Oscillatory neural dynamics,"MEG, delta",45,0.30517575,ctx-rh-lingual,ctx-rh-lingual,Right,lingual
-Oscillatory neural dynamics,"MEG, delta",46,0.3587078,ctx-rh-medialorbitofrontal,ctx-rh-medialorbitofrontal,Right,medialorbitofrontal
-Oscillatory neural dynamics,"MEG, delta",47,0.33386627,ctx-rh-middletemporal,ctx-rh-middletemporal,Right,middletemporal
-Oscillatory neural dynamics,"MEG, delta",48,0.32211176,ctx-rh-parahippocampal,ctx-rh-parahippocampal,Right,parahippocampal
-Oscillatory neural dynamics,"MEG, delta",49,0.29043353,ctx-rh-paracentral,ctx-rh-paracentral,Right,paracentral
-Oscillatory neural dynamics,"MEG, delta",50,0.35226408,ctx-rh-parsopercularis,ctx-rh-parsopercularis,Right,parsopercularis
-Oscillatory neural dynamics,"MEG, delta",51,0.38641632,ctx-rh-parsorbitalis,ctx-rh-parsorbitalis,Right,parsorbitalis
-Oscillatory neural dynamics,"MEG, delta",52,0.3686143,ctx-rh-parstriangularis,ctx-rh-parstriangularis,Right,parstriangularis
-Oscillatory neural dynamics,"MEG, delta",53,0.2784545,ctx-rh-pericalcarine,ctx-rh-pericalcarine,Right,pericalcarine
-Oscillatory neural dynamics,"MEG, delta",54,0.28416806,ctx-rh-postcentral,ctx-rh-postcentral,Right,postcentral
-Oscillatory neural dynamics,"MEG, delta",55,0.30096707,ctx-rh-posteriorcingulate,ctx-rh-posteriorcingulate,Right,posteriorcingulate
-Oscillatory neural dynamics,"MEG, delta",56,0.30395803,ctx-rh-precentral,ctx-rh-precentral,Right,precentral
-Oscillatory neural dynamics,"MEG, delta",57,0.27221683,ctx-rh-precuneus,ctx-rh-precuneus,Right,precuneus
-Oscillatory neural dynamics,"MEG, delta",58,0.31306633,ctx-rh-rostralanteriorcingulate,ctx-rh-rostralanteriorcingulate,Right,rostralanteriorcingulate
-Oscillatory neural dynamics,"MEG, delta",59,0.37093496,ctx-rh-rostralmiddlefrontal,ctx-rh-rostralmiddlefrontal,Right,rostralmiddlefrontal
-Oscillatory neural dynamics,"MEG, delta",60,0.34554818,ctx-rh-superiorfrontal,ctx-rh-superiorfrontal,Right,superiorfrontal
-Oscillatory neural dynamics,"MEG, delta",61,0.25611874,ctx-rh-superiorparietal,ctx-rh-superiorparietal,Right,superiorparietal
-Oscillatory neural dynamics,"MEG, delta",62,0.33374673,ctx-rh-superiortemporal,ctx-rh-superiortemporal,Right,superiortemporal
-Oscillatory neural dynamics,"MEG, delta",63,0.28578442,ctx-rh-supramarginal,ctx-rh-supramarginal,Right,supramarginal
-Oscillatory neural dynamics,"MEG, delta",64,0.3927147,ctx-rh-frontalpole,ctx-rh-frontalpole,Right,frontalpole
-Oscillatory neural dynamics,"MEG, delta",65,0.25073993,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
-Oscillatory neural dynamics,"MEG, delta",66,0.31585214,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
-Oscillatory neural dynamics,"MEG, delta",67,0.33321786,ctx-rh-insula,ctx-rh-insula,Right,insula
-Oscillatory neural dynamics,"MEG, theta",0,0.246118,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
-Oscillatory neural dynamics,"MEG, theta",1,0.2806374,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
-Oscillatory neural dynamics,"MEG, theta",2,0.30300117,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
-Oscillatory neural dynamics,"MEG, theta",3,0.20839025,ctx-lh-cuneus,ctx-lh-cuneus,Left,cuneus
-Oscillatory neural dynamics,"MEG, theta",4,0.17420784,ctx-lh-entorhinal,ctx-lh-entorhinal,Left,entorhinal
-Oscillatory neural dynamics,"MEG, theta",5,0.23722544,ctx-lh-fusiform,ctx-lh-fusiform,Left,fusiform
-Oscillatory neural dynamics,"MEG, theta",6,0.23488197,ctx-lh-inferiorparietal,ctx-lh-inferiorparietal,Left,inferiorparietal
-Oscillatory neural dynamics,"MEG, theta",7,0.24444953,ctx-lh-inferiortemporal,ctx-lh-inferiortemporal,Left,inferiortemporal
-Oscillatory neural dynamics,"MEG, theta",8,0.24764349,ctx-lh-isthmuscingulate,ctx-lh-isthmuscingulate,Left,isthmuscingulate
-Oscillatory neural dynamics,"MEG, theta",9,0.21771728,ctx-lh-lateraloccipital,ctx-lh-lateraloccipital,Left,lateraloccipital
-Oscillatory neural dynamics,"MEG, theta",10,0.26281774,ctx-lh-lateralorbitofrontal,ctx-lh-lateralorbitofrontal,Left,lateralorbitofrontal
-Oscillatory neural dynamics,"MEG, theta",11,0.22721422,ctx-lh-lingual,ctx-lh-lingual,Left,lingual
-Oscillatory neural dynamics,"MEG, theta",12,0.23947686,ctx-lh-medialorbitofrontal,ctx-lh-medialorbitofrontal,Left,medialorbitofrontal
-Oscillatory neural dynamics,"MEG, theta",13,0.24611571,ctx-lh-middletemporal,ctx-lh-middletemporal,Left,middletemporal
-Oscillatory neural dynamics,"MEG, theta",14,0.23994234,ctx-lh-parahippocampal,ctx-lh-parahippocampal,Left,parahippocampal
-Oscillatory neural dynamics,"MEG, theta",15,0.268814,ctx-lh-paracentral,ctx-lh-paracentral,Left,paracentral
-Oscillatory neural dynamics,"MEG, theta",16,0.27665427,ctx-lh-parsopercularis,ctx-lh-parsopercularis,Left,parsopercularis
-Oscillatory neural dynamics,"MEG, theta",17,0.26791912,ctx-lh-parsorbitalis,ctx-lh-parsorbitalis,Left,parsorbitalis
-Oscillatory neural dynamics,"MEG, theta",18,0.27439988,ctx-lh-parstriangularis,ctx-lh-parstriangularis,Left,parstriangularis
-Oscillatory neural dynamics,"MEG, theta",19,0.21510237,ctx-lh-pericalcarine,ctx-lh-pericalcarine,Left,pericalcarine
-Oscillatory neural dynamics,"MEG, theta",20,0.2536381,ctx-lh-postcentral,ctx-lh-postcentral,Left,postcentral
-Oscillatory neural dynamics,"MEG, theta",21,0.25950688,ctx-lh-posteriorcingulate,ctx-lh-posteriorcingulate,Left,posteriorcingulate
-Oscillatory neural dynamics,"MEG, theta",22,0.2742684,ctx-lh-precentral,ctx-lh-precentral,Left,precentral
-Oscillatory neural dynamics,"MEG, theta",23,0.23546523,ctx-lh-precuneus,ctx-lh-precuneus,Left,precuneus
-Oscillatory neural dynamics,"MEG, theta",24,0.23467956,ctx-lh-rostralanteriorcingulate,ctx-lh-rostralanteriorcingulate,Left,rostralanteriorcingulate
-Oscillatory neural dynamics,"MEG, theta",25,0.29027426,ctx-lh-rostralmiddlefrontal,ctx-lh-rostralmiddlefrontal,Left,rostralmiddlefrontal
-Oscillatory neural dynamics,"MEG, theta",26,0.30742303,ctx-lh-superiorfrontal,ctx-lh-superiorfrontal,Left,superiorfrontal
-Oscillatory neural dynamics,"MEG, theta",27,0.23321337,ctx-lh-superiorparietal,ctx-lh-superiorparietal,Left,superiorparietal
-Oscillatory neural dynamics,"MEG, theta",28,0.24092643,ctx-lh-superiortemporal,ctx-lh-superiortemporal,Left,superiortemporal
-Oscillatory neural dynamics,"MEG, theta",29,0.24949014,ctx-lh-supramarginal,ctx-lh-supramarginal,Left,supramarginal
-Oscillatory neural dynamics,"MEG, theta",30,0.27770385,ctx-lh-frontalpole,ctx-lh-frontalpole,Left,frontalpole
-Oscillatory neural dynamics,"MEG, theta",31,0.1747501,ctx-lh-temporalpole,ctx-lh-temporalpole,Left,temporalpole
-Oscillatory neural dynamics,"MEG, theta",32,0.24693674,ctx-lh-transversetemporal,ctx-lh-transversetemporal,Left,transversetemporal
-Oscillatory neural dynamics,"MEG, theta",33,0.24767907,ctx-lh-insula,ctx-lh-insula,Left,insula
-Oscillatory neural dynamics,"MEG, theta",34,0.23620558,ctx-rh-bankssts,ctx-rh-bankssts,Right,bankssts
-Oscillatory neural dynamics,"MEG, theta",35,0.28106642,ctx-rh-caudalanteriorcingulate,ctx-rh-caudalanteriorcingulate,Right,caudalanteriorcingulate
-Oscillatory neural dynamics,"MEG, theta",36,0.2967653,ctx-rh-caudalmiddlefrontal,ctx-rh-caudalmiddlefrontal,Right,caudalmiddlefrontal
-Oscillatory neural dynamics,"MEG, theta",37,0.205,ctx-rh-cuneus,ctx-rh-cuneus,Right,cuneus
-Oscillatory neural dynamics,"MEG, theta",38,0.1821296,ctx-rh-entorhinal,ctx-rh-entorhinal,Right,entorhinal
-Oscillatory neural dynamics,"MEG, theta",39,0.22879983,ctx-rh-fusiform,ctx-rh-fusiform,Right,fusiform
-Oscillatory neural dynamics,"MEG, theta",40,0.22940092,ctx-rh-inferiorparietal,ctx-rh-inferiorparietal,Right,inferiorparietal
-Oscillatory neural dynamics,"MEG, theta",41,0.23345268,ctx-rh-inferiortemporal,ctx-rh-inferiortemporal,Right,inferiortemporal
-Oscillatory neural dynamics,"MEG, theta",42,0.2458694,ctx-rh-isthmuscingulate,ctx-rh-isthmuscingulate,Right,isthmuscingulate
-Oscillatory neural dynamics,"MEG, theta",43,0.21130183,ctx-rh-lateraloccipital,ctx-rh-lateraloccipital,Right,lateraloccipital
-Oscillatory neural dynamics,"MEG, theta",44,0.25394246,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,Right,lateralorbitofrontal
-Oscillatory neural dynamics,"MEG, theta",45,0.22335863,ctx-rh-lingual,ctx-rh-lingual,Right,lingual
-Oscillatory neural dynamics,"MEG, theta",46,0.24670708,ctx-rh-medialorbitofrontal,ctx-rh-medialorbitofrontal,Right,medialorbitofrontal
-Oscillatory neural dynamics,"MEG, theta",47,0.23423892,ctx-rh-middletemporal,ctx-rh-middletemporal,Right,middletemporal
-Oscillatory neural dynamics,"MEG, theta",48,0.23453325,ctx-rh-parahippocampal,ctx-rh-parahippocampal,Right,parahippocampal
-Oscillatory neural dynamics,"MEG, theta",49,0.2699383,ctx-rh-paracentral,ctx-rh-paracentral,Right,paracentral
-Oscillatory neural dynamics,"MEG, theta",50,0.2699778,ctx-rh-parsopercularis,ctx-rh-parsopercularis,Right,parsopercularis
-Oscillatory neural dynamics,"MEG, theta",51,0.26056853,ctx-rh-parsorbitalis,ctx-rh-parsorbitalis,Right,parsorbitalis
-Oscillatory neural dynamics,"MEG, theta",52,0.26595998,ctx-rh-parstriangularis,ctx-rh-parstriangularis,Right,parstriangularis
-Oscillatory neural dynamics,"MEG, theta",53,0.21119411,ctx-rh-pericalcarine,ctx-rh-pericalcarine,Right,pericalcarine
-Oscillatory neural dynamics,"MEG, theta",54,0.25311252,ctx-rh-postcentral,ctx-rh-postcentral,Right,postcentral
-Oscillatory neural dynamics,"MEG, theta",55,0.25716466,ctx-rh-posteriorcingulate,ctx-rh-posteriorcingulate,Right,posteriorcingulate
-Oscillatory neural dynamics,"MEG, theta",56,0.27180174,ctx-rh-precentral,ctx-rh-precentral,Right,precentral
-Oscillatory neural dynamics,"MEG, theta",57,0.23519795,ctx-rh-precuneus,ctx-rh-precuneus,Right,precuneus
-Oscillatory neural dynamics,"MEG, theta",58,0.24229857,ctx-rh-rostralanteriorcingulate,ctx-rh-rostralanteriorcingulate,Right,rostralanteriorcingulate
-Oscillatory neural dynamics,"MEG, theta",59,0.28451675,ctx-rh-rostralmiddlefrontal,ctx-rh-rostralmiddlefrontal,Right,rostralmiddlefrontal
-Oscillatory neural dynamics,"MEG, theta",60,0.3059536,ctx-rh-superiorfrontal,ctx-rh-superiorfrontal,Right,superiorfrontal
-Oscillatory neural dynamics,"MEG, theta",61,0.23331769,ctx-rh-superiorparietal,ctx-rh-superiorparietal,Right,superiorparietal
-Oscillatory neural dynamics,"MEG, theta",62,0.23502931,ctx-rh-superiortemporal,ctx-rh-superiortemporal,Right,superiortemporal
-Oscillatory neural dynamics,"MEG, theta",63,0.24251278,ctx-rh-supramarginal,ctx-rh-supramarginal,Right,supramarginal
-Oscillatory neural dynamics,"MEG, theta",64,0.27390325,ctx-rh-frontalpole,ctx-rh-frontalpole,Right,frontalpole
-Oscillatory neural dynamics,"MEG, theta",65,0.1567139,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
-Oscillatory neural dynamics,"MEG, theta",66,0.2398171,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
-Oscillatory neural dynamics,"MEG, theta",67,0.243447,ctx-rh-insula,ctx-rh-insula,Right,insula
-Oscillatory neural dynamics,"MEG, intrinsic timescale",0,17.149258,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
-Oscillatory neural dynamics,"MEG, intrinsic timescale",1,18.37247,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
-Oscillatory neural dynamics,"MEG, intrinsic timescale",2,20.930758,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",3,12.922121,ctx-lh-cuneus,ctx-lh-cuneus,Left,cuneus
-Oscillatory neural dynamics,"MEG, intrinsic timescale",4,18.77805,ctx-lh-entorhinal,ctx-lh-entorhinal,Left,entorhinal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",5,19.889553,ctx-lh-fusiform,ctx-lh-fusiform,Left,fusiform
-Oscillatory neural dynamics,"MEG, intrinsic timescale",6,13.040896,ctx-lh-inferiorparietal,ctx-lh-inferiorparietal,Left,inferiorparietal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",7,22.028027,ctx-lh-inferiortemporal,ctx-lh-inferiortemporal,Left,inferiortemporal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",8,17.047419,ctx-lh-isthmuscingulate,ctx-lh-isthmuscingulate,Left,isthmuscingulate
-Oscillatory neural dynamics,"MEG, intrinsic timescale",9,13.904851,ctx-lh-lateraloccipital,ctx-lh-lateraloccipital,Left,lateraloccipital
-Oscillatory neural dynamics,"MEG, intrinsic timescale",10,30.396875,ctx-lh-lateralorbitofrontal,ctx-lh-lateralorbitofrontal,Left,lateralorbitofrontal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",11,16.27652,ctx-lh-lingual,ctx-lh-lingual,Left,lingual
-Oscillatory neural dynamics,"MEG, intrinsic timescale",12,30.294575,ctx-lh-medialorbitofrontal,ctx-lh-medialorbitofrontal,Left,medialorbitofrontal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",13,22.021751,ctx-lh-middletemporal,ctx-lh-middletemporal,Left,middletemporal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",14,21.076931,ctx-lh-parahippocampal,ctx-lh-parahippocampal,Left,parahippocampal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",15,13.998791,ctx-lh-paracentral,ctx-lh-paracentral,Left,paracentral
-Oscillatory neural dynamics,"MEG, intrinsic timescale",16,21.185514,ctx-lh-parsopercularis,ctx-lh-parsopercularis,Left,parsopercularis
-Oscillatory neural dynamics,"MEG, intrinsic timescale",17,33.077225,ctx-lh-parsorbitalis,ctx-lh-parsorbitalis,Left,parsorbitalis
-Oscillatory neural dynamics,"MEG, intrinsic timescale",18,25.449455,ctx-lh-parstriangularis,ctx-lh-parstriangularis,Left,parstriangularis
-Oscillatory neural dynamics,"MEG, intrinsic timescale",19,13.339278,ctx-lh-pericalcarine,ctx-lh-pericalcarine,Left,pericalcarine
-Oscillatory neural dynamics,"MEG, intrinsic timescale",20,13.592185,ctx-lh-postcentral,ctx-lh-postcentral,Left,postcentral
-Oscillatory neural dynamics,"MEG, intrinsic timescale",21,16.51719,ctx-lh-posteriorcingulate,ctx-lh-posteriorcingulate,Left,posteriorcingulate
-Oscillatory neural dynamics,"MEG, intrinsic timescale",22,15.854326,ctx-lh-precentral,ctx-lh-precentral,Left,precentral
-Oscillatory neural dynamics,"MEG, intrinsic timescale",23,13.309766,ctx-lh-precuneus,ctx-lh-precuneus,Left,precuneus
-Oscillatory neural dynamics,"MEG, intrinsic timescale",24,21.222397,ctx-lh-rostralanteriorcingulate,ctx-lh-rostralanteriorcingulate,Left,rostralanteriorcingulate
-Oscillatory neural dynamics,"MEG, intrinsic timescale",25,30.641132,ctx-lh-rostralmiddlefrontal,ctx-lh-rostralmiddlefrontal,Left,rostralmiddlefrontal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",26,24.44904,ctx-lh-superiorfrontal,ctx-lh-superiorfrontal,Left,superiorfrontal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",27,11.8351965,ctx-lh-superiorparietal,ctx-lh-superiorparietal,Left,superiorparietal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",28,20.667118,ctx-lh-superiortemporal,ctx-lh-superiortemporal,Left,superiortemporal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",29,13.298311,ctx-lh-supramarginal,ctx-lh-supramarginal,Left,supramarginal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",30,40.307205,ctx-lh-frontalpole,ctx-lh-frontalpole,Left,frontalpole
-Oscillatory neural dynamics,"MEG, intrinsic timescale",31,25.008455,ctx-lh-temporalpole,ctx-lh-temporalpole,Left,temporalpole
-Oscillatory neural dynamics,"MEG, intrinsic timescale",32,17.070683,ctx-lh-transversetemporal,ctx-lh-transversetemporal,Left,transversetemporal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",33,20.457554,ctx-lh-insula,ctx-lh-insula,Left,insula
-Oscillatory neural dynamics,"MEG, intrinsic timescale",34,15.8562,ctx-rh-bankssts,ctx-rh-bankssts,Right,bankssts
-Oscillatory neural dynamics,"MEG, intrinsic timescale",35,19.766811,ctx-rh-caudalanteriorcingulate,ctx-rh-caudalanteriorcingulate,Right,caudalanteriorcingulate
-Oscillatory neural dynamics,"MEG, intrinsic timescale",36,20.13228,ctx-rh-caudalmiddlefrontal,ctx-rh-caudalmiddlefrontal,Right,caudalmiddlefrontal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",37,13.014385,ctx-rh-cuneus,ctx-rh-cuneus,Right,cuneus
-Oscillatory neural dynamics,"MEG, intrinsic timescale",38,21.714785,ctx-rh-entorhinal,ctx-rh-entorhinal,Right,entorhinal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",39,20.739872,ctx-rh-fusiform,ctx-rh-fusiform,Right,fusiform
-Oscillatory neural dynamics,"MEG, intrinsic timescale",40,13.267023,ctx-rh-inferiorparietal,ctx-rh-inferiorparietal,Right,inferiorparietal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",41,24.239475,ctx-rh-inferiortemporal,ctx-rh-inferiortemporal,Right,inferiortemporal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",42,17.293457,ctx-rh-isthmuscingulate,ctx-rh-isthmuscingulate,Right,isthmuscingulate
-Oscillatory neural dynamics,"MEG, intrinsic timescale",43,14.239563,ctx-rh-lateraloccipital,ctx-rh-lateraloccipital,Right,lateraloccipital
-Oscillatory neural dynamics,"MEG, intrinsic timescale",44,32.686237,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,Right,lateralorbitofrontal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",45,16.587997,ctx-rh-lingual,ctx-rh-lingual,Right,lingual
-Oscillatory neural dynamics,"MEG, intrinsic timescale",46,31.015165,ctx-rh-medialorbitofrontal,ctx-rh-medialorbitofrontal,Right,medialorbitofrontal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",47,22.685081,ctx-rh-middletemporal,ctx-rh-middletemporal,Right,middletemporal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",48,21.728565,ctx-rh-parahippocampal,ctx-rh-parahippocampal,Right,parahippocampal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",49,13.857713,ctx-rh-paracentral,ctx-rh-paracentral,Right,paracentral
-Oscillatory neural dynamics,"MEG, intrinsic timescale",50,20.232885,ctx-rh-parsopercularis,ctx-rh-parsopercularis,Right,parsopercularis
-Oscillatory neural dynamics,"MEG, intrinsic timescale",51,31.292841,ctx-rh-parsorbitalis,ctx-rh-parsorbitalis,Right,parsorbitalis
-Oscillatory neural dynamics,"MEG, intrinsic timescale",52,25.284327,ctx-rh-parstriangularis,ctx-rh-parstriangularis,Right,parstriangularis
-Oscillatory neural dynamics,"MEG, intrinsic timescale",53,13.75031,ctx-rh-pericalcarine,ctx-rh-pericalcarine,Right,pericalcarine
-Oscillatory neural dynamics,"MEG, intrinsic timescale",54,12.995795,ctx-rh-postcentral,ctx-rh-postcentral,Right,postcentral
-Oscillatory neural dynamics,"MEG, intrinsic timescale",55,16.801786,ctx-rh-posteriorcingulate,ctx-rh-posteriorcingulate,Right,posteriorcingulate
-Oscillatory neural dynamics,"MEG, intrinsic timescale",56,14.775211,ctx-rh-precentral,ctx-rh-precentral,Right,precentral
-Oscillatory neural dynamics,"MEG, intrinsic timescale",57,13.254209,ctx-rh-precuneus,ctx-rh-precuneus,Right,precuneus
-Oscillatory neural dynamics,"MEG, intrinsic timescale",58,21.732368,ctx-rh-rostralanteriorcingulate,ctx-rh-rostralanteriorcingulate,Right,rostralanteriorcingulate
-Oscillatory neural dynamics,"MEG, intrinsic timescale",59,29.988075,ctx-rh-rostralmiddlefrontal,ctx-rh-rostralmiddlefrontal,Right,rostralmiddlefrontal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",60,23.768301,ctx-rh-superiorfrontal,ctx-rh-superiorfrontal,Right,superiorfrontal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",61,11.708917,ctx-rh-superiorparietal,ctx-rh-superiorparietal,Right,superiorparietal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",62,20.840483,ctx-rh-superiortemporal,ctx-rh-superiortemporal,Right,superiortemporal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",63,13.084446,ctx-rh-supramarginal,ctx-rh-supramarginal,Right,supramarginal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",64,42.16305,ctx-rh-frontalpole,ctx-rh-frontalpole,Right,frontalpole
-Oscillatory neural dynamics,"MEG, intrinsic timescale",65,22.40621,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
-Oscillatory neural dynamics,"MEG, intrinsic timescale",66,16.61682,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
-Oscillatory neural dynamics,"MEG, intrinsic timescale",67,21.068314,ctx-rh-insula,ctx-rh-insula,Right,insula
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,0,3.0730908,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,1,3.2632127,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,2,2.5731862,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,3,3.922346,ctx-lh-cuneus,ctx-lh-cuneus,Left,cuneus
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,4,1.9762521,ctx-lh-entorhinal,ctx-lh-entorhinal,Left,entorhinal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,5,3.9233537,ctx-lh-fusiform,ctx-lh-fusiform,Left,fusiform
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,6,3.9348912,ctx-lh-inferiorparietal,ctx-lh-inferiorparietal,Left,inferiorparietal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,7,3.6292171,ctx-lh-inferiortemporal,ctx-lh-inferiortemporal,Left,inferiortemporal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,8,2.355341,ctx-lh-isthmuscingulate,ctx-lh-isthmuscingulate,Left,isthmuscingulate
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,9,3.6000493,ctx-lh-lateraloccipital,ctx-lh-lateraloccipital,Left,lateraloccipital
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,10,3.0898244,ctx-lh-lateralorbitofrontal,ctx-lh-lateralorbitofrontal,Left,lateralorbitofrontal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,11,3.2911854,ctx-lh-lingual,ctx-lh-lingual,Left,lingual
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,12,4.3269033,ctx-lh-medialorbitofrontal,ctx-lh-medialorbitofrontal,Left,medialorbitofrontal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,13,3.5734036,ctx-lh-middletemporal,ctx-lh-middletemporal,Left,middletemporal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,14,2.508993,ctx-lh-parahippocampal,ctx-lh-parahippocampal,Left,parahippocampal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,15,3.7364776,ctx-lh-paracentral,ctx-lh-paracentral,Left,paracentral
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,16,3.1629033,ctx-lh-parsopercularis,ctx-lh-parsopercularis,Left,parsopercularis
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,17,3.4544928,ctx-lh-parsorbitalis,ctx-lh-parsorbitalis,Left,parsorbitalis
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,18,3.1342692,ctx-lh-parstriangularis,ctx-lh-parstriangularis,Left,parstriangularis
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,19,3.848095,ctx-lh-pericalcarine,ctx-lh-pericalcarine,Left,pericalcarine
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,20,3.4405591,ctx-lh-postcentral,ctx-lh-postcentral,Left,postcentral
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,21,3.065593,ctx-lh-posteriorcingulate,ctx-lh-posteriorcingulate,Left,posteriorcingulate
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,22,2.702099,ctx-lh-precentral,ctx-lh-precentral,Left,precentral
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,23,4.4387536,ctx-lh-precuneus,ctx-lh-precuneus,Left,precuneus
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,24,3.6102538,ctx-lh-rostralanteriorcingulate,ctx-lh-rostralanteriorcingulate,Left,rostralanteriorcingulate
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,25,2.7739935,ctx-lh-rostralmiddlefrontal,ctx-lh-rostralmiddlefrontal,Left,rostralmiddlefrontal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,26,3.4493468,ctx-lh-superiorfrontal,ctx-lh-superiorfrontal,Left,superiorfrontal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,27,3.4984245,ctx-lh-superiorparietal,ctx-lh-superiorparietal,Left,superiorparietal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,28,3.3352213,ctx-lh-superiortemporal,ctx-lh-superiortemporal,Left,superiortemporal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,29,3.7227,ctx-lh-supramarginal,ctx-lh-supramarginal,Left,supramarginal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,30,4.132826,ctx-lh-frontalpole,ctx-lh-frontalpole,Left,frontalpole
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,31,3.0858235,ctx-lh-temporalpole,ctx-lh-temporalpole,Left,temporalpole
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,32,3.079248,ctx-lh-transversetemporal,ctx-lh-transversetemporal,Left,transversetemporal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,33,2.9434996,ctx-lh-insula,ctx-lh-insula,Left,insula
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,34,3.4564588,ctx-rh-bankssts,ctx-rh-bankssts,Right,bankssts
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,35,3.1631305,ctx-rh-caudalanteriorcingulate,ctx-rh-caudalanteriorcingulate,Right,caudalanteriorcingulate
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,36,3.4395328,ctx-rh-caudalmiddlefrontal,ctx-rh-caudalmiddlefrontal,Right,caudalmiddlefrontal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,37,4.0152173,ctx-rh-cuneus,ctx-rh-cuneus,Right,cuneus
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,38,2.1439779,ctx-rh-entorhinal,ctx-rh-entorhinal,Right,entorhinal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,39,3.9965906,ctx-rh-fusiform,ctx-rh-fusiform,Right,fusiform
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,40,4.2909846,ctx-rh-inferiorparietal,ctx-rh-inferiorparietal,Right,inferiorparietal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,41,3.8790104,ctx-rh-inferiortemporal,ctx-rh-inferiortemporal,Right,inferiortemporal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,42,2.3863661,ctx-rh-isthmuscingulate,ctx-rh-isthmuscingulate,Right,isthmuscingulate
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,43,4.0319524,ctx-rh-lateraloccipital,ctx-rh-lateraloccipital,Right,lateraloccipital
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,44,3.5000052,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,Right,lateralorbitofrontal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,45,3.6190574,ctx-rh-lingual,ctx-rh-lingual,Right,lingual
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,46,4.2123804,ctx-rh-medialorbitofrontal,ctx-rh-medialorbitofrontal,Right,medialorbitofrontal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,47,4.2802434,ctx-rh-middletemporal,ctx-rh-middletemporal,Right,middletemporal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,48,2.8735478,ctx-rh-parahippocampal,ctx-rh-parahippocampal,Right,parahippocampal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,49,3.4186661,ctx-rh-paracentral,ctx-rh-paracentral,Right,paracentral
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,50,3.8655777,ctx-rh-parsopercularis,ctx-rh-parsopercularis,Right,parsopercularis
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,51,3.978638,ctx-rh-parsorbitalis,ctx-rh-parsorbitalis,Right,parsorbitalis
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,52,4.016656,ctx-rh-parstriangularis,ctx-rh-parstriangularis,Right,parstriangularis
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,53,3.7579823,ctx-rh-pericalcarine,ctx-rh-pericalcarine,Right,pericalcarine
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,54,3.696795,ctx-rh-postcentral,ctx-rh-postcentral,Right,postcentral
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,55,2.4547544,ctx-rh-posteriorcingulate,ctx-rh-posteriorcingulate,Right,posteriorcingulate
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,56,3.0528152,ctx-rh-precentral,ctx-rh-precentral,Right,precentral
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,57,3.9118977,ctx-rh-precuneus,ctx-rh-precuneus,Right,precuneus
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,58,3.2635398,ctx-rh-rostralanteriorcingulate,ctx-rh-rostralanteriorcingulate,Right,rostralanteriorcingulate
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,59,3.9851716,ctx-rh-rostralmiddlefrontal,ctx-rh-rostralmiddlefrontal,Right,rostralmiddlefrontal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,60,3.508983,ctx-rh-superiorfrontal,ctx-rh-superiorfrontal,Right,superiorfrontal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,61,3.7512255,ctx-rh-superiorparietal,ctx-rh-superiorparietal,Right,superiorparietal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,62,3.8871136,ctx-rh-superiortemporal,ctx-rh-superiortemporal,Right,superiortemporal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,63,4.123964,ctx-rh-supramarginal,ctx-rh-supramarginal,Right,supramarginal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,64,3.9845653,ctx-rh-frontalpole,ctx-rh-frontalpole,Right,frontalpole
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,65,3.2518053,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,66,3.9378006,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
-Synapse density,Synaptic vesicle glycoprotein 2A (SV2A) binding,67,3.9268806,ctx-rh-insula,ctx-rh-insula,Right,insula
-Development,Evolutionary and developmental expansion,0,14.80582,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
-Development,Evolutionary and developmental expansion,1,5.4772935,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
-Development,Evolutionary and developmental expansion,2,21.251627,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
-Development,Evolutionary and developmental expansion,3,19.667877,ctx-lh-cuneus,ctx-lh-cuneus,Left,cuneus
-Development,Evolutionary and developmental expansion,4,7.6458693,ctx-lh-entorhinal,ctx-lh-entorhinal,Left,entorhinal
-Development,Evolutionary and developmental expansion,5,12.392794,ctx-lh-fusiform,ctx-lh-fusiform,Left,fusiform
-Development,Evolutionary and developmental expansion,6,41.289898,ctx-lh-inferiorparietal,ctx-lh-inferiorparietal,Left,inferiorparietal
-Development,Evolutionary and developmental expansion,7,18.61337,ctx-lh-inferiortemporal,ctx-lh-inferiortemporal,Left,inferiortemporal
-Development,Evolutionary and developmental expansion,8,18.857958,ctx-lh-isthmuscingulate,ctx-lh-isthmuscingulate,Left,isthmuscingulate
-Development,Evolutionary and developmental expansion,9,5.2159023,ctx-lh-lateraloccipital,ctx-lh-lateraloccipital,Left,lateraloccipital
-Development,Evolutionary and developmental expansion,10,14.8631735,ctx-lh-lateralorbitofrontal,ctx-lh-lateralorbitofrontal,Left,lateralorbitofrontal
-Development,Evolutionary and developmental expansion,11,7.604964,ctx-lh-lingual,ctx-lh-lingual,Left,lingual
-Development,Evolutionary and developmental expansion,12,8.431183,ctx-lh-medialorbitofrontal,ctx-lh-medialorbitofrontal,Left,medialorbitofrontal
-Development,Evolutionary and developmental expansion,13,26.485607,ctx-lh-middletemporal,ctx-lh-middletemporal,Left,middletemporal
-Development,Evolutionary and developmental expansion,14,4.305196,ctx-lh-parahippocampal,ctx-lh-parahippocampal,Left,parahippocampal
-Development,Evolutionary and developmental expansion,15,10.526035,ctx-lh-paracentral,ctx-lh-paracentral,Left,paracentral
-Development,Evolutionary and developmental expansion,16,13.53778,ctx-lh-parsopercularis,ctx-lh-parsopercularis,Left,parsopercularis
-Development,Evolutionary and developmental expansion,17,16.73424,ctx-lh-parsorbitalis,ctx-lh-parsorbitalis,Left,parsorbitalis
-Development,Evolutionary and developmental expansion,18,9.870137,ctx-lh-parstriangularis,ctx-lh-parstriangularis,Left,parstriangularis
-Development,Evolutionary and developmental expansion,19,9.151755,ctx-lh-pericalcarine,ctx-lh-pericalcarine,Left,pericalcarine
-Development,Evolutionary and developmental expansion,20,9.554549,ctx-lh-postcentral,ctx-lh-postcentral,Left,postcentral
-Development,Evolutionary and developmental expansion,21,18.992775,ctx-lh-posteriorcingulate,ctx-lh-posteriorcingulate,Left,posteriorcingulate
-Development,Evolutionary and developmental expansion,22,12.694674,ctx-lh-precentral,ctx-lh-precentral,Left,precentral
-Development,Evolutionary and developmental expansion,23,34.866398,ctx-lh-precuneus,ctx-lh-precuneus,Left,precuneus
-Development,Evolutionary and developmental expansion,24,6.7962794,ctx-lh-rostralanteriorcingulate,ctx-lh-rostralanteriorcingulate,Left,rostralanteriorcingulate
-Development,Evolutionary and developmental expansion,25,13.430489,ctx-lh-rostralmiddlefrontal,ctx-lh-rostralmiddlefrontal,Left,rostralmiddlefrontal
-Development,Evolutionary and developmental expansion,26,16.70766,ctx-lh-superiorfrontal,ctx-lh-superiorfrontal,Left,superiorfrontal
-Development,Evolutionary and developmental expansion,27,8.348557,ctx-lh-superiorparietal,ctx-lh-superiorparietal,Left,superiorparietal
-Development,Evolutionary and developmental expansion,28,8.179196,ctx-lh-superiortemporal,ctx-lh-superiortemporal,Left,superiortemporal
-Development,Evolutionary and developmental expansion,29,17.587786,ctx-lh-supramarginal,ctx-lh-supramarginal,Left,supramarginal
-Development,Evolutionary and developmental expansion,30,15.448285,ctx-lh-frontalpole,ctx-lh-frontalpole,Left,frontalpole
-Development,Evolutionary and developmental expansion,31,9.943687,ctx-lh-temporalpole,ctx-lh-temporalpole,Left,temporalpole
-Development,Evolutionary and developmental expansion,32,10.963306,ctx-lh-transversetemporal,ctx-lh-transversetemporal,Left,transversetemporal
-Development,Evolutionary and developmental expansion,33,10.077136,ctx-lh-insula,ctx-lh-insula,Left,insula
-Development,Evolutionary and developmental expansion,34,21.07344,ctx-rh-bankssts,ctx-rh-bankssts,Right,bankssts
-Development,Evolutionary and developmental expansion,35,6.797505,ctx-rh-caudalanteriorcingulate,ctx-rh-caudalanteriorcingulate,Right,caudalanteriorcingulate
-Development,Evolutionary and developmental expansion,36,23.413872,ctx-rh-caudalmiddlefrontal,ctx-rh-caudalmiddlefrontal,Right,caudalmiddlefrontal
-Development,Evolutionary and developmental expansion,37,16.108713,ctx-rh-cuneus,ctx-rh-cuneus,Right,cuneus
-Development,Evolutionary and developmental expansion,38,6.4566984,ctx-rh-entorhinal,ctx-rh-entorhinal,Right,entorhinal
-Development,Evolutionary and developmental expansion,39,12.797362,ctx-rh-fusiform,ctx-rh-fusiform,Right,fusiform
-Development,Evolutionary and developmental expansion,40,34.99748,ctx-rh-inferiorparietal,ctx-rh-inferiorparietal,Right,inferiorparietal
-Development,Evolutionary and developmental expansion,41,31.851234,ctx-rh-inferiortemporal,ctx-rh-inferiortemporal,Right,inferiortemporal
-Development,Evolutionary and developmental expansion,42,17.865625,ctx-rh-isthmuscingulate,ctx-rh-isthmuscingulate,Right,isthmuscingulate
-Development,Evolutionary and developmental expansion,43,8.197317,ctx-rh-lateraloccipital,ctx-rh-lateraloccipital,Right,lateraloccipital
-Development,Evolutionary and developmental expansion,44,20.90841,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,Right,lateralorbitofrontal
-Development,Evolutionary and developmental expansion,45,4.2906265,ctx-rh-lingual,ctx-rh-lingual,Right,lingual
-Development,Evolutionary and developmental expansion,46,9.71483,ctx-rh-medialorbitofrontal,ctx-rh-medialorbitofrontal,Right,medialorbitofrontal
-Development,Evolutionary and developmental expansion,47,35.170784,ctx-rh-middletemporal,ctx-rh-middletemporal,Right,middletemporal
-Development,Evolutionary and developmental expansion,48,3.5250251,ctx-rh-parahippocampal,ctx-rh-parahippocampal,Right,parahippocampal
-Development,Evolutionary and developmental expansion,49,6.80252,ctx-rh-paracentral,ctx-rh-paracentral,Right,paracentral
-Development,Evolutionary and developmental expansion,50,10.216126,ctx-rh-parsopercularis,ctx-rh-parsopercularis,Right,parsopercularis
-Development,Evolutionary and developmental expansion,51,12.715652,ctx-rh-parsorbitalis,ctx-rh-parsorbitalis,Right,parsorbitalis
-Development,Evolutionary and developmental expansion,52,8.157553,ctx-rh-parstriangularis,ctx-rh-parstriangularis,Right,parstriangularis
-Development,Evolutionary and developmental expansion,53,7.4673357,ctx-rh-pericalcarine,ctx-rh-pericalcarine,Right,pericalcarine
-Development,Evolutionary and developmental expansion,54,10.014565,ctx-rh-postcentral,ctx-rh-postcentral,Right,postcentral
-Development,Evolutionary and developmental expansion,55,12.789374,ctx-rh-posteriorcingulate,ctx-rh-posteriorcingulate,Right,posteriorcingulate
-Development,Evolutionary and developmental expansion,56,13.811861,ctx-rh-precentral,ctx-rh-precentral,Right,precentral
-Development,Evolutionary and developmental expansion,57,25.752012,ctx-rh-precuneus,ctx-rh-precuneus,Right,precuneus
-Development,Evolutionary and developmental expansion,58,7.898114,ctx-rh-rostralanteriorcingulate,ctx-rh-rostralanteriorcingulate,Right,rostralanteriorcingulate
-Development,Evolutionary and developmental expansion,59,12.5838175,ctx-rh-rostralmiddlefrontal,ctx-rh-rostralmiddlefrontal,Right,rostralmiddlefrontal
-Development,Evolutionary and developmental expansion,60,20.27853,ctx-rh-superiorfrontal,ctx-rh-superiorfrontal,Right,superiorfrontal
-Development,Evolutionary and developmental expansion,61,9.485433,ctx-rh-superiorparietal,ctx-rh-superiorparietal,Right,superiorparietal
-Development,Evolutionary and developmental expansion,62,8.908715,ctx-rh-superiortemporal,ctx-rh-superiortemporal,Right,superiortemporal
-Development,Evolutionary and developmental expansion,63,12.677298,ctx-rh-supramarginal,ctx-rh-supramarginal,Right,supramarginal
-Development,Evolutionary and developmental expansion,64,12.465403,ctx-rh-frontalpole,ctx-rh-frontalpole,Right,frontalpole
-Development,Evolutionary and developmental expansion,65,6.3740053,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
-Development,Evolutionary and developmental expansion,66,8.428873,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
-Development,Evolutionary and developmental expansion,67,13.431485,ctx-rh-insula,ctx-rh-insula,Right,insula
 Cognition,Neurosynth PC1,0,0.00050724443,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
 Cognition,Neurosynth PC1,1,-4.5149623e-05,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
 Cognition,Neurosynth PC1,2,-0.0004965313,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal

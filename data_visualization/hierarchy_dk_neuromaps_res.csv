@@ -1,0 +1,205 @@
+Category,Description,Region_Index,Value,Brain_Region,ggseg,Hemisphere,Base_Region
+Anatomical hierarchy,T1w vs. T2w MRI signal,0,1.3343114,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
+Anatomical hierarchy,T1w vs. T2w MRI signal,1,0.8803021,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
+Anatomical hierarchy,T1w vs. T2w MRI signal,2,1.2996441,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
+Anatomical hierarchy,T1w vs. T2w MRI signal,3,1.5174851,ctx-lh-cuneus,ctx-lh-cuneus,Left,cuneus
+Anatomical hierarchy,T1w vs. T2w MRI signal,4,1.2126034,ctx-lh-entorhinal,ctx-lh-entorhinal,Left,entorhinal
+Anatomical hierarchy,T1w vs. T2w MRI signal,5,1.2947378,ctx-lh-fusiform,ctx-lh-fusiform,Left,fusiform
+Anatomical hierarchy,T1w vs. T2w MRI signal,6,1.3045585,ctx-lh-inferiorparietal,ctx-lh-inferiorparietal,Left,inferiorparietal
+Anatomical hierarchy,T1w vs. T2w MRI signal,7,1.2153829,ctx-lh-inferiortemporal,ctx-lh-inferiortemporal,Left,inferiortemporal
+Anatomical hierarchy,T1w vs. T2w MRI signal,8,1.2801211,ctx-lh-isthmuscingulate,ctx-lh-isthmuscingulate,Left,isthmuscingulate
+Anatomical hierarchy,T1w vs. T2w MRI signal,9,1.4625878,ctx-lh-lateraloccipital,ctx-lh-lateraloccipital,Left,lateraloccipital
+Anatomical hierarchy,T1w vs. T2w MRI signal,10,1.2337449,ctx-lh-lateralorbitofrontal,ctx-lh-lateralorbitofrontal,Left,lateralorbitofrontal
+Anatomical hierarchy,T1w vs. T2w MRI signal,11,1.4778191,ctx-lh-lingual,ctx-lh-lingual,Left,lingual
+Anatomical hierarchy,T1w vs. T2w MRI signal,12,1.1775243,ctx-lh-medialorbitofrontal,ctx-lh-medialorbitofrontal,Left,medialorbitofrontal
+Anatomical hierarchy,T1w vs. T2w MRI signal,13,1.2374947,ctx-lh-middletemporal,ctx-lh-middletemporal,Left,middletemporal
+Anatomical hierarchy,T1w vs. T2w MRI signal,14,1.3840258,ctx-lh-parahippocampal,ctx-lh-parahippocampal,Left,parahippocampal
+Anatomical hierarchy,T1w vs. T2w MRI signal,15,1.4465384,ctx-lh-paracentral,ctx-lh-paracentral,Left,paracentral
+Anatomical hierarchy,T1w vs. T2w MRI signal,16,1.2694468,ctx-lh-parsopercularis,ctx-lh-parsopercularis,Left,parsopercularis
+Anatomical hierarchy,T1w vs. T2w MRI signal,17,1.2054155,ctx-lh-parsorbitalis,ctx-lh-parsorbitalis,Left,parsorbitalis
+Anatomical hierarchy,T1w vs. T2w MRI signal,18,1.2854968,ctx-lh-parstriangularis,ctx-lh-parstriangularis,Left,parstriangularis
+Anatomical hierarchy,T1w vs. T2w MRI signal,19,1.5597696,ctx-lh-pericalcarine,ctx-lh-pericalcarine,Left,pericalcarine
+Anatomical hierarchy,T1w vs. T2w MRI signal,20,1.4379587,ctx-lh-postcentral,ctx-lh-postcentral,Left,postcentral
+Anatomical hierarchy,T1w vs. T2w MRI signal,21,1.1301192,ctx-lh-posteriorcingulate,ctx-lh-posteriorcingulate,Left,posteriorcingulate
+Anatomical hierarchy,T1w vs. T2w MRI signal,22,1.451662,ctx-lh-precentral,ctx-lh-precentral,Left,precentral
+Anatomical hierarchy,T1w vs. T2w MRI signal,23,1.3286744,ctx-lh-precuneus,ctx-lh-precuneus,Left,precuneus
+Anatomical hierarchy,T1w vs. T2w MRI signal,24,0.9453139,ctx-lh-rostralanteriorcingulate,ctx-lh-rostralanteriorcingulate,Left,rostralanteriorcingulate
+Anatomical hierarchy,T1w vs. T2w MRI signal,25,1.2286441,ctx-lh-rostralmiddlefrontal,ctx-lh-rostralmiddlefrontal,Left,rostralmiddlefrontal
+Anatomical hierarchy,T1w vs. T2w MRI signal,26,1.2319328,ctx-lh-superiorfrontal,ctx-lh-superiorfrontal,Left,superiorfrontal
+Anatomical hierarchy,T1w vs. T2w MRI signal,27,1.3593408,ctx-lh-superiorparietal,ctx-lh-superiorparietal,Left,superiorparietal
+Anatomical hierarchy,T1w vs. T2w MRI signal,28,1.3086939,ctx-lh-superiortemporal,ctx-lh-superiortemporal,Left,superiortemporal
+Anatomical hierarchy,T1w vs. T2w MRI signal,29,1.2821382,ctx-lh-supramarginal,ctx-lh-supramarginal,Left,supramarginal
+Anatomical hierarchy,T1w vs. T2w MRI signal,30,1.176177,ctx-lh-frontalpole,ctx-lh-frontalpole,Left,frontalpole
+Anatomical hierarchy,T1w vs. T2w MRI signal,31,1.0492852,ctx-lh-temporalpole,ctx-lh-temporalpole,Left,temporalpole
+Anatomical hierarchy,T1w vs. T2w MRI signal,32,1.6581725,ctx-lh-transversetemporal,ctx-lh-transversetemporal,Left,transversetemporal
+Anatomical hierarchy,T1w vs. T2w MRI signal,33,1.2346549,ctx-lh-insula,ctx-lh-insula,Left,insula
+Anatomical hierarchy,T1w vs. T2w MRI signal,34,1.368784,ctx-rh-bankssts,ctx-rh-bankssts,Right,bankssts
+Anatomical hierarchy,T1w vs. T2w MRI signal,35,0.9037046,ctx-rh-caudalanteriorcingulate,ctx-rh-caudalanteriorcingulate,Right,caudalanteriorcingulate
+Anatomical hierarchy,T1w vs. T2w MRI signal,36,1.2927758,ctx-rh-caudalmiddlefrontal,ctx-rh-caudalmiddlefrontal,Right,caudalmiddlefrontal
+Anatomical hierarchy,T1w vs. T2w MRI signal,37,1.501551,ctx-rh-cuneus,ctx-rh-cuneus,Right,cuneus
+Anatomical hierarchy,T1w vs. T2w MRI signal,38,1.2031273,ctx-rh-entorhinal,ctx-rh-entorhinal,Right,entorhinal
+Anatomical hierarchy,T1w vs. T2w MRI signal,39,1.316446,ctx-rh-fusiform,ctx-rh-fusiform,Right,fusiform
+Anatomical hierarchy,T1w vs. T2w MRI signal,40,1.3203824,ctx-rh-inferiorparietal,ctx-rh-inferiorparietal,Right,inferiorparietal
+Anatomical hierarchy,T1w vs. T2w MRI signal,41,1.2161592,ctx-rh-inferiortemporal,ctx-rh-inferiortemporal,Right,inferiortemporal
+Anatomical hierarchy,T1w vs. T2w MRI signal,42,1.3448998,ctx-rh-isthmuscingulate,ctx-rh-isthmuscingulate,Right,isthmuscingulate
+Anatomical hierarchy,T1w vs. T2w MRI signal,43,1.4639807,ctx-rh-lateraloccipital,ctx-rh-lateraloccipital,Right,lateraloccipital
+Anatomical hierarchy,T1w vs. T2w MRI signal,44,1.2459722,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,Right,lateralorbitofrontal
+Anatomical hierarchy,T1w vs. T2w MRI signal,45,1.4957457,ctx-rh-lingual,ctx-rh-lingual,Right,lingual
+Anatomical hierarchy,T1w vs. T2w MRI signal,46,1.1995435,ctx-rh-medialorbitofrontal,ctx-rh-medialorbitofrontal,Right,medialorbitofrontal
+Anatomical hierarchy,T1w vs. T2w MRI signal,47,1.225523,ctx-rh-middletemporal,ctx-rh-middletemporal,Right,middletemporal
+Anatomical hierarchy,T1w vs. T2w MRI signal,48,1.3777521,ctx-rh-parahippocampal,ctx-rh-parahippocampal,Right,parahippocampal
+Anatomical hierarchy,T1w vs. T2w MRI signal,49,1.4408536,ctx-rh-paracentral,ctx-rh-paracentral,Right,paracentral
+Anatomical hierarchy,T1w vs. T2w MRI signal,50,1.2645491,ctx-rh-parsopercularis,ctx-rh-parsopercularis,Right,parsopercularis
+Anatomical hierarchy,T1w vs. T2w MRI signal,51,1.2062858,ctx-rh-parsorbitalis,ctx-rh-parsorbitalis,Right,parsorbitalis
+Anatomical hierarchy,T1w vs. T2w MRI signal,52,1.2722268,ctx-rh-parstriangularis,ctx-rh-parstriangularis,Right,parstriangularis
+Anatomical hierarchy,T1w vs. T2w MRI signal,53,1.5663841,ctx-rh-pericalcarine,ctx-rh-pericalcarine,Right,pericalcarine
+Anatomical hierarchy,T1w vs. T2w MRI signal,54,1.4226052,ctx-rh-postcentral,ctx-rh-postcentral,Right,postcentral
+Anatomical hierarchy,T1w vs. T2w MRI signal,55,1.1384064,ctx-rh-posteriorcingulate,ctx-rh-posteriorcingulate,Right,posteriorcingulate
+Anatomical hierarchy,T1w vs. T2w MRI signal,56,1.4486396,ctx-rh-precentral,ctx-rh-precentral,Right,precentral
+Anatomical hierarchy,T1w vs. T2w MRI signal,57,1.337938,ctx-rh-precuneus,ctx-rh-precuneus,Right,precuneus
+Anatomical hierarchy,T1w vs. T2w MRI signal,58,0.98931915,ctx-rh-rostralanteriorcingulate,ctx-rh-rostralanteriorcingulate,Right,rostralanteriorcingulate
+Anatomical hierarchy,T1w vs. T2w MRI signal,59,1.2242936,ctx-rh-rostralmiddlefrontal,ctx-rh-rostralmiddlefrontal,Right,rostralmiddlefrontal
+Anatomical hierarchy,T1w vs. T2w MRI signal,60,1.222559,ctx-rh-superiorfrontal,ctx-rh-superiorfrontal,Right,superiorfrontal
+Anatomical hierarchy,T1w vs. T2w MRI signal,61,1.3640628,ctx-rh-superiorparietal,ctx-rh-superiorparietal,Right,superiorparietal
+Anatomical hierarchy,T1w vs. T2w MRI signal,62,1.2885617,ctx-rh-superiortemporal,ctx-rh-superiortemporal,Right,superiortemporal
+Anatomical hierarchy,T1w vs. T2w MRI signal,63,1.3007833,ctx-rh-supramarginal,ctx-rh-supramarginal,Right,supramarginal
+Anatomical hierarchy,T1w vs. T2w MRI signal,64,1.2076579,ctx-rh-frontalpole,ctx-rh-frontalpole,Right,frontalpole
+Anatomical hierarchy,T1w vs. T2w MRI signal,65,1.1073099,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
+Anatomical hierarchy,T1w vs. T2w MRI signal,66,1.6808957,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
+Anatomical hierarchy,T1w vs. T2w MRI signal,67,1.2540352,ctx-rh-insula,ctx-rh-insula,Right,insula
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,0,-0.034646656,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,1,-1.4637336,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,2,-0.27457687,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,3,1.9326909,ctx-lh-cuneus,ctx-lh-cuneus,Left,cuneus
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,4,-1.8715014,ctx-lh-entorhinal,ctx-lh-entorhinal,Left,entorhinal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,5,-0.23487851,ctx-lh-fusiform,ctx-lh-fusiform,Left,fusiform
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,6,0.35668272,ctx-lh-inferiorparietal,ctx-lh-inferiorparietal,Left,inferiorparietal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,7,-0.8982669,ctx-lh-inferiortemporal,ctx-lh-inferiortemporal,Left,inferiortemporal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,8,0.28919342,ctx-lh-isthmuscingulate,ctx-lh-isthmuscingulate,Left,isthmuscingulate
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,9,1.6699176,ctx-lh-lateraloccipital,ctx-lh-lateraloccipital,Left,lateraloccipital
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,10,-1.0851315,ctx-lh-lateralorbitofrontal,ctx-lh-lateralorbitofrontal,Left,lateralorbitofrontal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,11,1.7646306,ctx-lh-lingual,ctx-lh-lingual,Left,lingual
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,12,-1.5409971,ctx-lh-medialorbitofrontal,ctx-lh-medialorbitofrontal,Left,medialorbitofrontal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,13,-0.7711,ctx-lh-middletemporal,ctx-lh-middletemporal,Left,middletemporal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,14,-0.33957228,ctx-lh-parahippocampal,ctx-lh-parahippocampal,Left,parahippocampal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,15,0.31588063,ctx-lh-paracentral,ctx-lh-paracentral,Left,paracentral
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,16,-0.6862686,ctx-lh-parsopercularis,ctx-lh-parsopercularis,Left,parsopercularis
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,17,-0.47130707,ctx-lh-parsorbitalis,ctx-lh-parsorbitalis,Left,parsorbitalis
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,18,-0.6420454,ctx-lh-parstriangularis,ctx-lh-parstriangularis,Left,parstriangularis
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,19,2.4663777,ctx-lh-pericalcarine,ctx-lh-pericalcarine,Left,pericalcarine
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,20,0.8097785,ctx-lh-postcentral,ctx-lh-postcentral,Left,postcentral
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,21,-0.5482985,ctx-lh-posteriorcingulate,ctx-lh-posteriorcingulate,Left,posteriorcingulate
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,22,0.40821445,ctx-lh-precentral,ctx-lh-precentral,Left,precentral
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,23,0.6487016,ctx-lh-precuneus,ctx-lh-precuneus,Left,precuneus
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,24,-1.8302916,ctx-lh-rostralanteriorcingulate,ctx-lh-rostralanteriorcingulate,Left,rostralanteriorcingulate
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,25,-0.5178545,ctx-lh-rostralmiddlefrontal,ctx-lh-rostralmiddlefrontal,Left,rostralmiddlefrontal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,26,-0.67747545,ctx-lh-superiorfrontal,ctx-lh-superiorfrontal,Left,superiorfrontal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,27,0.5959364,ctx-lh-superiorparietal,ctx-lh-superiorparietal,Left,superiorparietal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,28,-0.51308876,ctx-lh-superiortemporal,ctx-lh-superiortemporal,Left,superiortemporal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,29,0.097884916,ctx-lh-supramarginal,ctx-lh-supramarginal,Left,supramarginal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,30,-0.9097755,ctx-lh-frontalpole,ctx-lh-frontalpole,Left,frontalpole
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,31,-2.0682714,ctx-lh-temporalpole,ctx-lh-temporalpole,Left,temporalpole
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,32,0.44673663,ctx-lh-transversetemporal,ctx-lh-transversetemporal,Left,transversetemporal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,33,-0.7405738,ctx-lh-insula,ctx-lh-insula,Left,insula
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,34,0.039094046,ctx-rh-bankssts,ctx-rh-bankssts,Right,bankssts
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,35,-1.5019959,ctx-rh-caudalanteriorcingulate,ctx-rh-caudalanteriorcingulate,Right,caudalanteriorcingulate
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,36,-0.26251793,ctx-rh-caudalmiddlefrontal,ctx-rh-caudalmiddlefrontal,Right,caudalmiddlefrontal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,37,1.8446741,ctx-rh-cuneus,ctx-rh-cuneus,Right,cuneus
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,38,-1.9114033,ctx-rh-entorhinal,ctx-rh-entorhinal,Right,entorhinal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,39,-0.31967753,ctx-rh-fusiform,ctx-rh-fusiform,Right,fusiform
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,40,0.1964756,ctx-rh-inferiorparietal,ctx-rh-inferiorparietal,Right,inferiorparietal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,41,-1.0154786,ctx-rh-inferiortemporal,ctx-rh-inferiortemporal,Right,inferiortemporal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,42,0.23889776,ctx-rh-isthmuscingulate,ctx-rh-isthmuscingulate,Right,isthmuscingulate
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,43,1.5741961,ctx-rh-lateraloccipital,ctx-rh-lateraloccipital,Right,lateraloccipital
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,44,-1.0825258,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,Right,lateralorbitofrontal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,45,1.6272053,ctx-rh-lingual,ctx-rh-lingual,Right,lingual
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,46,-1.5398993,ctx-rh-medialorbitofrontal,ctx-rh-medialorbitofrontal,Right,medialorbitofrontal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,47,-0.82348925,ctx-rh-middletemporal,ctx-rh-middletemporal,Right,middletemporal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,48,-0.4463501,ctx-rh-parahippocampal,ctx-rh-parahippocampal,Right,parahippocampal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,49,0.26796758,ctx-rh-paracentral,ctx-rh-paracentral,Right,paracentral
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,50,-0.66391194,ctx-rh-parsopercularis,ctx-rh-parsopercularis,Right,parsopercularis
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,51,-0.49776542,ctx-rh-parsorbitalis,ctx-rh-parsorbitalis,Right,parsorbitalis
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,52,-0.6070973,ctx-rh-parstriangularis,ctx-rh-parstriangularis,Right,parstriangularis
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,53,2.3415368,ctx-rh-pericalcarine,ctx-rh-pericalcarine,Right,pericalcarine
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,54,0.771941,ctx-rh-postcentral,ctx-rh-postcentral,Right,postcentral
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,55,-0.5912674,ctx-rh-posteriorcingulate,ctx-rh-posteriorcingulate,Right,posteriorcingulate
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,56,0.34224537,ctx-rh-precentral,ctx-rh-precentral,Right,precentral
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,57,0.5920304,ctx-rh-precuneus,ctx-rh-precuneus,Right,precuneus
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,58,-1.8869721,ctx-rh-rostralanteriorcingulate,ctx-rh-rostralanteriorcingulate,Right,rostralanteriorcingulate
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,59,-0.5121625,ctx-rh-rostralmiddlefrontal,ctx-rh-rostralmiddlefrontal,Right,rostralmiddlefrontal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,60,-0.7362972,ctx-rh-superiorfrontal,ctx-rh-superiorfrontal,Right,superiorfrontal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,61,0.54378706,ctx-rh-superiorparietal,ctx-rh-superiorparietal,Right,superiorparietal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,62,-0.63808286,ctx-rh-superiortemporal,ctx-rh-superiortemporal,Right,superiortemporal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,63,0.18538228,ctx-rh-supramarginal,ctx-rh-supramarginal,Right,supramarginal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,64,-0.8896282,ctx-rh-frontalpole,ctx-rh-frontalpole,Right,frontalpole
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,65,-2.0464787,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,66,0.3314804,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
+Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,67,-0.85770607,ctx-rh-insula,ctx-rh-insula,Right,insula
+Functional hierarchy,Margulies PG1,0,1.2495115,ctx-lh-bankssts,ctx-lh-bankssts,Left,bankssts
+Functional hierarchy,Margulies PG1,1,-1.3406259,ctx-lh-caudalanteriorcingulate,ctx-lh-caudalanteriorcingulate,Left,caudalanteriorcingulate
+Functional hierarchy,Margulies PG1,2,4.1384435,ctx-lh-caudalmiddlefrontal,ctx-lh-caudalmiddlefrontal,Left,caudalmiddlefrontal
+Functional hierarchy,Margulies PG1,3,-4.399496,ctx-lh-cuneus,ctx-lh-cuneus,Left,cuneus
+Functional hierarchy,Margulies PG1,4,0.6955264,ctx-lh-entorhinal,ctx-lh-entorhinal,Left,entorhinal
+Functional hierarchy,Margulies PG1,5,-1.7496527,ctx-lh-fusiform,ctx-lh-fusiform,Left,fusiform
+Functional hierarchy,Margulies PG1,6,3.0767102,ctx-lh-inferiorparietal,ctx-lh-inferiorparietal,Left,inferiorparietal
+Functional hierarchy,Margulies PG1,7,2.0323653,ctx-lh-inferiortemporal,ctx-lh-inferiortemporal,Left,inferiortemporal
+Functional hierarchy,Margulies PG1,8,2.797269,ctx-lh-isthmuscingulate,ctx-lh-isthmuscingulate,Left,isthmuscingulate
+Functional hierarchy,Margulies PG1,9,-2.9937806,ctx-lh-lateraloccipital,ctx-lh-lateraloccipital,Left,lateraloccipital
+Functional hierarchy,Margulies PG1,10,3.4573288,ctx-lh-lateralorbitofrontal,ctx-lh-lateralorbitofrontal,Left,lateralorbitofrontal
+Functional hierarchy,Margulies PG1,11,-4.0942883,ctx-lh-lingual,ctx-lh-lingual,Left,lingual
+Functional hierarchy,Margulies PG1,12,5.350601,ctx-lh-medialorbitofrontal,ctx-lh-medialorbitofrontal,Left,medialorbitofrontal
+Functional hierarchy,Margulies PG1,13,4.7504263,ctx-lh-middletemporal,ctx-lh-middletemporal,Left,middletemporal
+Functional hierarchy,Margulies PG1,14,1.825535,ctx-lh-parahippocampal,ctx-lh-parahippocampal,Left,parahippocampal
+Functional hierarchy,Margulies PG1,15,-4.9581604,ctx-lh-paracentral,ctx-lh-paracentral,Left,paracentral
+Functional hierarchy,Margulies PG1,16,1.5567614,ctx-lh-parsopercularis,ctx-lh-parsopercularis,Left,parsopercularis
+Functional hierarchy,Margulies PG1,17,5.850498,ctx-lh-parsorbitalis,ctx-lh-parsorbitalis,Left,parsorbitalis
+Functional hierarchy,Margulies PG1,18,2.8187428,ctx-lh-parstriangularis,ctx-lh-parstriangularis,Left,parstriangularis
+Functional hierarchy,Margulies PG1,19,-3.8943834,ctx-lh-pericalcarine,ctx-lh-pericalcarine,Left,pericalcarine
+Functional hierarchy,Margulies PG1,20,-4.993539,ctx-lh-postcentral,ctx-lh-postcentral,Left,postcentral
+Functional hierarchy,Margulies PG1,21,0.384695,ctx-lh-posteriorcingulate,ctx-lh-posteriorcingulate,Left,posteriorcingulate
+Functional hierarchy,Margulies PG1,22,-4.0047946,ctx-lh-precentral,ctx-lh-precentral,Left,precentral
+Functional hierarchy,Margulies PG1,23,1.4134121,ctx-lh-precuneus,ctx-lh-precuneus,Left,precuneus
+Functional hierarchy,Margulies PG1,24,3.5256112,ctx-lh-rostralanteriorcingulate,ctx-lh-rostralanteriorcingulate,Left,rostralanteriorcingulate
+Functional hierarchy,Margulies PG1,25,3.1079211,ctx-lh-rostralmiddlefrontal,ctx-lh-rostralmiddlefrontal,Left,rostralmiddlefrontal
+Functional hierarchy,Margulies PG1,26,2.1387706,ctx-lh-superiorfrontal,ctx-lh-superiorfrontal,Left,superiorfrontal
+Functional hierarchy,Margulies PG1,27,-2.9966486,ctx-lh-superiorparietal,ctx-lh-superiorparietal,Left,superiorparietal
+Functional hierarchy,Margulies PG1,28,-1.1171145,ctx-lh-superiortemporal,ctx-lh-superiortemporal,Left,superiortemporal
+Functional hierarchy,Margulies PG1,29,-0.17770983,ctx-lh-supramarginal,ctx-lh-supramarginal,Left,supramarginal
+Functional hierarchy,Margulies PG1,30,6.4400287,ctx-lh-frontalpole,ctx-lh-frontalpole,Left,frontalpole
+Functional hierarchy,Margulies PG1,31,4.09859,ctx-lh-temporalpole,ctx-lh-temporalpole,Left,temporalpole
+Functional hierarchy,Margulies PG1,32,-3.6997476,ctx-lh-transversetemporal,ctx-lh-transversetemporal,Left,transversetemporal
+Functional hierarchy,Margulies PG1,33,-2.481834,ctx-lh-insula,ctx-lh-insula,Left,insula
+Functional hierarchy,Margulies PG1,34,-0.038666483,ctx-rh-bankssts,ctx-rh-bankssts,Right,bankssts
+Functional hierarchy,Margulies PG1,35,-0.8998793,ctx-rh-caudalanteriorcingulate,ctx-rh-caudalanteriorcingulate,Right,caudalanteriorcingulate
+Functional hierarchy,Margulies PG1,36,3.6425574,ctx-rh-caudalmiddlefrontal,ctx-rh-caudalmiddlefrontal,Right,caudalmiddlefrontal
+Functional hierarchy,Margulies PG1,37,-4.3811855,ctx-rh-cuneus,ctx-rh-cuneus,Right,cuneus
+Functional hierarchy,Margulies PG1,38,0.81881416,ctx-rh-entorhinal,ctx-rh-entorhinal,Right,entorhinal
+Functional hierarchy,Margulies PG1,39,-2.2805417,ctx-rh-fusiform,ctx-rh-fusiform,Right,fusiform
+Functional hierarchy,Margulies PG1,40,2.5560873,ctx-rh-inferiorparietal,ctx-rh-inferiorparietal,Right,inferiorparietal
+Functional hierarchy,Margulies PG1,41,1.3727193,ctx-rh-inferiortemporal,ctx-rh-inferiortemporal,Right,inferiortemporal
+Functional hierarchy,Margulies PG1,42,2.2419844,ctx-rh-isthmuscingulate,ctx-rh-isthmuscingulate,Right,isthmuscingulate
+Functional hierarchy,Margulies PG1,43,-3.010024,ctx-rh-lateraloccipital,ctx-rh-lateraloccipital,Right,lateraloccipital
+Functional hierarchy,Margulies PG1,44,3.3538616,ctx-rh-lateralorbitofrontal,ctx-rh-lateralorbitofrontal,Right,lateralorbitofrontal
+Functional hierarchy,Margulies PG1,45,-4.165232,ctx-rh-lingual,ctx-rh-lingual,Right,lingual
+Functional hierarchy,Margulies PG1,46,5.1965995,ctx-rh-medialorbitofrontal,ctx-rh-medialorbitofrontal,Right,medialorbitofrontal
+Functional hierarchy,Margulies PG1,47,4.1886597,ctx-rh-middletemporal,ctx-rh-middletemporal,Right,middletemporal
+Functional hierarchy,Margulies PG1,48,0.49705568,ctx-rh-parahippocampal,ctx-rh-parahippocampal,Right,parahippocampal
+Functional hierarchy,Margulies PG1,49,-4.8124423,ctx-rh-paracentral,ctx-rh-paracentral,Right,paracentral
+Functional hierarchy,Margulies PG1,50,0.51379144,ctx-rh-parsopercularis,ctx-rh-parsopercularis,Right,parsopercularis
+Functional hierarchy,Margulies PG1,51,5.794305,ctx-rh-parsorbitalis,ctx-rh-parsorbitalis,Right,parsorbitalis
+Functional hierarchy,Margulies PG1,52,1.5688435,ctx-rh-parstriangularis,ctx-rh-parstriangularis,Right,parstriangularis
+Functional hierarchy,Margulies PG1,53,-3.6867254,ctx-rh-pericalcarine,ctx-rh-pericalcarine,Right,pericalcarine
+Functional hierarchy,Margulies PG1,54,-5.0036554,ctx-rh-postcentral,ctx-rh-postcentral,Right,postcentral
+Functional hierarchy,Margulies PG1,55,-0.053586595,ctx-rh-posteriorcingulate,ctx-rh-posteriorcingulate,Right,posteriorcingulate
+Functional hierarchy,Margulies PG1,56,-4.248327,ctx-rh-precentral,ctx-rh-precentral,Right,precentral
+Functional hierarchy,Margulies PG1,57,1.037286,ctx-rh-precuneus,ctx-rh-precuneus,Right,precuneus
+Functional hierarchy,Margulies PG1,58,3.3037484,ctx-rh-rostralanteriorcingulate,ctx-rh-rostralanteriorcingulate,Right,rostralanteriorcingulate
+Functional hierarchy,Margulies PG1,59,3.0142233,ctx-rh-rostralmiddlefrontal,ctx-rh-rostralmiddlefrontal,Right,rostralmiddlefrontal
+Functional hierarchy,Margulies PG1,60,2.2153776,ctx-rh-superiorfrontal,ctx-rh-superiorfrontal,Right,superiorfrontal
+Functional hierarchy,Margulies PG1,61,-3.3055046,ctx-rh-superiorparietal,ctx-rh-superiorparietal,Right,superiorparietal
+Functional hierarchy,Margulies PG1,62,-1.4458928,ctx-rh-superiortemporal,ctx-rh-superiortemporal,Right,superiortemporal
+Functional hierarchy,Margulies PG1,63,-1.984161,ctx-rh-supramarginal,ctx-rh-supramarginal,Right,supramarginal
+Functional hierarchy,Margulies PG1,64,6.3228,ctx-rh-frontalpole,ctx-rh-frontalpole,Right,frontalpole
+Functional hierarchy,Margulies PG1,65,3.8607068,ctx-rh-temporalpole,ctx-rh-temporalpole,Right,temporalpole
+Functional hierarchy,Margulies PG1,66,-3.7573907,ctx-rh-transversetemporal,ctx-rh-transversetemporal,Right,transversetemporal
+Functional hierarchy,Margulies PG1,67,-2.589022,ctx-rh-insula,ctx-rh-insula,Right,insula
