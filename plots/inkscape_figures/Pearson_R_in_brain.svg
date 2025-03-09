@@ -29,13 +29,13 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.65321579"
-     inkscape:cx="1786.5459"
-     inkscape:cy="322.25185"
-     inkscape:window-width="1470"
-     inkscape:window-height="803"
-     inkscape:window-x="1920"
-     inkscape:window-y="110"
-     inkscape:window-maximized="0"
+     inkscape:cx="1195.6233"
+     inkscape:cy="311.53564"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:page
        x="0"
@@ -53420,11 +53420,11 @@
        transform="matrix(0.74808184,0,0,0.74808184,40.554584,0.38355562)"><tspan
          x="138.86568"
          y="18.362402"
-         id="tspan1624574"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'Helvetica Neue Bold'"
-           id="tspan1624570">Structural hierarchy</tspan><tspan
+         id="tspan1571365"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Helvetica Neue Bold';stroke:none"
+           id="tspan1571361">Structural hierarchy</tspan><tspan
            style="stroke:none"
-           id="tspan1624572">: T1w:T2w MRI signal</tspan></tspan></text>
+           id="tspan1571363">: T1w:T2w MRI signal</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10.2306px;line-height:1;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;inline-size:201.627;display:inline;fill:#000000;stroke:#000000;stroke-width:0.277;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
@@ -53434,11 +53434,11 @@
        transform="matrix(0.74808184,0,0,0.74808184,40.879721,70.479561)"><tspan
          x="138.86568"
          y="18.362402"
-         id="tspan1624580"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'Helvetica Neue Bold'"
-           id="tspan1624576">Functional hierarchy</tspan><tspan
+         id="tspan1571371"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Helvetica Neue Bold';stroke:none"
+           id="tspan1571367">Functional hierarchy</tspan><tspan
            style="stroke:none"
-           id="tspan1624578">: Principal gradient 1</tspan></tspan></text>
+           id="tspan1571369">: Principal gradient 1</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10.2306px;line-height:1;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;inline-size:201.627;display:inline;fill:#000000;stroke:#000000;stroke-width:0.277;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
@@ -53448,11 +53448,11 @@
        transform="matrix(0.74808184,0,0,0.74808184,48.621051,141.37336)"><tspan
          x="138.86568"
          y="18.362402"
-         id="tspan1624586"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'Helvetica Neue Bold'"
-           id="tspan1624582">Transcriptome hierarchy</tspan><tspan
+         id="tspan1571377"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Helvetica Neue Bold';stroke:none"
+           id="tspan1571373">Transcriptome hierarchy</tspan><tspan
            style="stroke:none"
-           id="tspan1624584">: AHBA PC1</tspan></tspan></text>
+           id="tspan1571375">: AHBA PC1</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.12222px;line-height:1;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.281057;stroke-linecap:square;stop-color:#000000"
@@ -55886,11 +55886,11 @@
        transform="matrix(0.74808184,0,0,0.74808184,340.53064,3.9422223)"><tspan
          x="138.86568"
          y="18.362402"
-         id="tspan1624592"><tspan
-           style="font-weight:bold"
-           id="tspan1624588">Physical embedding</tspan><tspan
+         id="tspan1571383"><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan1571379">Physical embedding</tspan><tspan
            style="stroke:none"
-           id="tspan1624590">: Euclidean distance</tspan></tspan></text>
+           id="tspan1571381">: Euclidean distance</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10.2306px;line-height:1;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue';text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;inline-size:201.627;display:inline;fill:#000000;stroke:#000000;stroke-width:0.277;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
@@ -55900,11 +55900,11 @@
        transform="matrix(0.74808184,0,0,0.74808184,337.30225,71.654937)"><tspan
          x="138.86568"
          y="18.362402"
-         id="tspan1624598"><tspan
-           style="font-weight:bold"
-           id="tspan1624594">Structural connectivity</tspan><tspan
+         id="tspan1571389"><tspan
+           style="font-weight:bold;stroke:none"
+           id="tspan1571385">Structural connectivity</tspan><tspan
            style="stroke:none"
-           id="tspan1624596">: Log-# Streamlines</tspan></tspan></text>
+           id="tspan1571387">: Log-# Streamlines</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.12222px;line-height:1;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.281057;stroke-linecap:square;stop-color:#000000"
