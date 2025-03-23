@@ -2,3 +2,4 @@
 Anatomical hierarchy,T1w vs. T2w MRI signal,hcps1200-myelinmap-fsLR-32k
 Transcriptomic hierarchy,PC1 of Allen Human Brain Atlas,abagen-genepc1-fsaverage-10k
 Functional hierarchy,Margulies PG1,margulies2016-fcgradient01-fsLR-32k
+Functional hierarchy,MEG intrinsic timescale,hcps1200-megtimescale-fsLR-4k
