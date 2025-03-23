@@ -101,7 +101,7 @@ def run_pyspi_for_df_homotopic(TS_array, calc, brain_region_lookup):
         left_index = brain_region_lookup[brain_region_lookup.Brain_Region == f"ctx-lh-{brain_region_base}"].Region_Index.values[0]
         right_index = brain_region_lookup[brain_region_lookup.Brain_Region == f"ctx-rh-{brain_region_base}"].Region_Index.values[0]
 
-        left_right_TS_only = TS_data[[left_index, right_index], :]
+        left_right_TS_only = TS_array[[left_index, right_index], :]
 
         # Make deepcopy of calc 
         calc_copy = deepcopy(calc)
