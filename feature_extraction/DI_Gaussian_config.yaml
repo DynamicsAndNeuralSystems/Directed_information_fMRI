@@ -1,4 +1,0 @@
-# Directed information with a Gaussian density estimator
-.statistics.infotheory:
-  DirectedInfo:
-    - estimator: gaussian

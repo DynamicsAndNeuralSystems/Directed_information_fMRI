@@ -1,0 +1,18 @@
+# Basic statistics
+.statistics.basic:
+  # Covariance
+  Covariance:
+    labels:
+      - undirected
+      - linear
+      - signed
+      - multivariate
+      - contemporaneous
+    dependencies:
+    configs:
+      - estimator: EmpiricalCovariance
+      
+# Directed information with a Gaussian density estimator
+.statistics.infotheory:
+  DirectedInfo:
+    - estimator: gaussian

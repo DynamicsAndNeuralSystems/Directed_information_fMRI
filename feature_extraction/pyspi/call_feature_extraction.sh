@@ -8,14 +8,27 @@ input_model_file=$github_dir/HCP100_subject_list.txt
 # Running pyspi across subjects -- homotopic connectivity
 ##################################################################################################
 
-# Run pyspi for the 100 HCP subjects
-connectivity_type=homotopic
+# # Run pyspi for the 100 HCP subjects
+# connectivity_type=homotopic
 
-fast_ext_yaml=$github_dir/feature_extraction/pyspi/fast_extended.yaml
-cmd="qsub -o $github_dir/cluster_output/HCP100_pyspi_^array_index^_fast_extended.out \
+# fast_ext_yaml=$github_dir/feature_extraction/pyspi/fast_extended.yaml
+# cmd="qsub -o $github_dir/cluster_output/HCP100_pyspi_^array_index^_fast_extended.out \
+#    -J 1-100 \
+#    -N HCP100_pyspi \
+#    -l select=1:ncpus=1:mem=20GB:mpiprocs=1 \
+#    -v input_model_file=$input_model_file,SPI_subset=$fast_ext_yaml,connectivity_type=$connectivity_type \
+#    run_pyspi_for_HCP100_subject.pbs"
+# $cmd
+
+##################################################################################################
+# Running pyspi across subjects -- all connections, just Pearson and di_gaussian
+##################################################################################################
+
+pearson_DI_gaussian_yaml=$github_dir/feature_extraction/pyspi/Pearson_DI_Gaussian.yaml
+cmd="qsub -o $github_dir/cluster_output/HCP100_pyspi_^array_index^_Pearson_DI_Gaussian_all_pairs.out \
    -J 1-100 \
-   -N HCP100_pyspi \
+   -N Pearson_DI_all_pairs \
    -l select=1:ncpus=1:mem=20GB:mpiprocs=1 \
-   -v input_model_file=$input_model_file,SPI_subset=$fast_ext_yaml,connectivity_type=$connectivity_type \
+   -v input_model_file=$input_model_file,SPI_subset=$pearson_DI_gaussian_yaml,connectivity_type=full \
    run_pyspi_for_HCP100_subject.pbs"
 $cmd
