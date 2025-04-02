@@ -19,10 +19,10 @@ theme_set(theme_cowplot())
 
 data_path = "/Users/abry4213/data/HCP100/"
 
-entorhinal_pearson_FC_res = read.csv('test_entorhinal_out.csv')
+entorhinal_pearson_FC_res = read.csv('../data/test_entorhinal_out.csv')
 
 # Load hierarchy-based DK maks
-hierarchy_dk_neuromaps_res = read.csv('hierarchy_dk_neuromaps_res.csv')
+hierarchy_dk_neuromaps_res = read.csv('../data/hierarchy_dk_neuromaps_res.csv')
 AHBA_PC1_based_hierarchy_order = hierarchy_dk_neuromaps_res %>% 
   filter(Description=='PC1 of Allen Human Brain Atlas') %>% 
   arrange(Value) %>% 
