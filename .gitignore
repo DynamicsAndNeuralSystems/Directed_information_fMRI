@@ -164,3 +164,7 @@ cython_debug/
 *HCP100_Directed_Information.csv
 *.docx
 cluster_output/
+
+# NIFTI files
+*.nii
+*.nii.gz
