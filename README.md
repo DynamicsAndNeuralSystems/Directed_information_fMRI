@@ -69,7 +69,7 @@ Components of this figure can be recreated with the notebook [2_Pearson_HoFC_neu
 
 ### Figure 3: Homotopic connectivity is linked to macroscale functional network topology within and across hemispheres
 
-<img src="plots/final_figures/network_topology_HoFC.png" width="75%">
+<img src="plots/final_figures/network_topology_simpler.png" width="75%">
 
 Components of this figure can be recreated with the notebook [3_Pearson_HoFC_vs_network_topology.ipynb](https://github.com/DynamicsAndNeuralSystems/Homotopic_FC_HCP/blob/main/data_visualization/3_Pearson_HoFC_vs_network_topology.ipynb).
 
