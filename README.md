@@ -78,9 +78,3 @@ Components of this figure can be recreated with the notebook [3_Pearson_HoFC_vs_
 <img src="plots/final_figures/HoFC_gradients_HCP_physical.png" width="75%">
 
 Components of this figure can be recreated with the notebook [4_Pearson_HoFC_vs_structural_vascular.ipynb](https://github.com/DynamicsAndNeuralSystems/Homotopic_FC_HCP/blob/main/data_visualization/4_Pearson_HoFC_vs_structural_vascular.ipynb).
-
-### Figure 5: Homotopic connectivity magnitude is positively associated with expression of *SATB2*, a marker of intra-telencephalic layer 5 pyramidal neurons, and with resting-state thalamic connectivity
-
-<img src="plots/final_figures/Homotopic_FC_Pearson_vs_CTIP2_Satb2_thal_FC.png" width="75%">
-
-Components of this figure can be recreated with the notebook [5_Pearson_HoFC_vs_L5PN_and_thal.ipynb](https://github.com/DynamicsAndNeuralSystems/Homotopic_FC_HCP/blob/main/data_visualization/5_Pearson_HoFC_vs_L5PN_and_thal.ipynb).
