@@ -2,7 +2,6 @@
 
 This repository contains all code and intermediate data needed to replicate analyses in our preprint, ['Mapping functional, cytoarchitectonic, and transcriptomic underpinnings of homotopic connectivity']().
 
-
 <img src="plots/final_figures/HoFC_gradients_HCP.png" width="75%">
 
 ## About the data
@@ -27,13 +26,12 @@ All map information is provided in the [`neuromaps` documentation](https://netne
 
 Parcellated data (in the 68-region Desikan-Killiany atlas) are included in the [data/](https://github.com/DynamicsAndNeuralSystems/Homotopic_FC_HCP/tree/main/data/) directory for reproducibility.
 
-### Brain maps of geometric embedding
+### Brain maps of physical embedding
 
-We examined two aspects of geometric embedding in the cortex: structural connectivity and Euclidean distance between homotopic region-region pairs.
-For structural connectivity, we used the group-averaged structural connectome from the same $N=207$ HCP participants as the fMRI dataset included in the [ENIGMA Toolbox](https://enigma-toolbox.readthedocs.io/en/latest/pages/05.HCP/).
+We examined two aspects of physical embedding in the cortex: structural connectivity and Euclidean distance between homotopic region-region pairs.
+For structural connectivity, we used the group-averaged structural connectome (estimated from diffusion-weighted MRI tractography) from the same $N=207$ HCP participants as the fMRI dataset included in the [ENIGMA Toolbox](https://enigma-toolbox.readthedocs.io/en/latest/pages/05.HCP/).
 
 To compute the physical distance between each homotopic region--region pair, we calculated the Euclidean distance between centroid vertices (on the pial surface) per region in the [`fsaverage` template space](https://surfer.nmr.mgh.harvard.edu/fswiki/FsAverage) from FreeSurfer.
-
 
 Parcellated data (in the 68-region Desikan-Killiany atlas) are included in the [data/](https://github.com/DynamicsAndNeuralSystems/Homotopic_FC_HCP/tree/main/data/) directory for reproducibility.
 
@@ -42,13 +40,6 @@ Parcellated data (in the 68-region Desikan-Killiany atlas) are included in the [
 We examined two aspects of vascular innervation in the cortex: arterial density and venous density.
 For both properties, we queried brain maps published in [Bernier et al. (2018)](https://doi.org/10.1002/hbm.24337), where the details of imaging acquisition and preprocessing can be found.
 Voxelwise arterial and venous density maps were downloaded from the [Braincharter vasculature repository](https://github.com/braincharter/vasculature/releases/tag/Atlas_v1.0).
-Parcellated data (in the 68-region Desikan-Killiany atlas) are included in the [data/](https://github.com/DynamicsAndNeuralSystems/Homotopic_FC_HCP/tree/main/data/) directory for reproducibility.
-
-### Transcriptomic data
-
-To characterize key molecular correlates of regional HoFC variation, we examined the expression of two layer 5 pyramidal neuron markers: *CTIP2* (a.k.a. *BCL11B*) and *SATB2*.
-We queried these two genes from postmortem microarray data (averaged across all donors) provided by the [Allen Human Brain Atlas (AHBA)](https://human.brain-map.org/) using the [`abagen` python package](https://github.com/rmarkello/abagen) (version 0.1.3).
-
 Parcellated data (in the 68-region Desikan-Killiany atlas) are included in the [data/](https://github.com/DynamicsAndNeuralSystems/Homotopic_FC_HCP/tree/main/data/) directory for reproducibility.
 
 ## Replicating our analyses and figures
